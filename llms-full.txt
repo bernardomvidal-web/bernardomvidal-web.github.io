@@ -703,6 +703,34 @@ Olá, meu nome é Bernardo Marques Vidal, sou candidato a estas eleições prim�
 
 ## Páginas
 
+### About this site
+
+I am a member of the executive of a parish council (junta de freguesia) in Lisbon, for the 2025–2029 term. This is my personal site, in Portuguese; this page explains it in English.
+
+I was born in Lisbon and, like many children of civil servants, grew up moving around: Macau, Vale de Cambra, Gafanha da Nazaré, Aveiro. I came back to Lisbon to study law and Arroios has been my home ever since. I am a lawyer in the public administration and a member of LIVRE, the Portuguese green-left party, since 2018.
+
+In the October 2025 local elections I was elected to the parish of Arroios on the coalition LIVRE was part of, and I sit on its executive. My portfolios are transparency, legal affairs and public procurement, inspection, licensing, housing and archives.
+
+## What you will find here
+
+**The RJAL, annotated.** The *Regime Jurídico das Autarquias Locais* (Law 75/2013) is the statute under which Portuguese parishes and municipalities govern every day, and there is almost no published commentary written from the side of those who apply it. The [RJAL Anotado](/rjal/) goes through all 146 articles. Each annotation states an interpretive question, gives a clear answer and argues for it from the wording, the system, the legislative history and the purpose of the rule. It sets out the opinions of the regional coordination commissions (CCDR), the Attorney General's Consultative Council and the courts, and engages the strongest opposing view. Every source cited has been read in the original and is listed in the [library of sources](/fontes/). Lisbon's special regime (Law 56/2012) is always considered alongside.
+
+**Positions and opinion.** The [positions](/posicoes/) I have defended, from my candidacies to my assessment of the first year in office, and [opinion pieces](/opiniao/).
+
+**Interventions, with subtitles.** Excerpts of what I said in the parish assembly and in other forums, from 2019 to today, each with its own Portuguese subtitles and a full transcript: [interventions](/intervencoes/).
+
+## How it is made
+
+I write in a personal capacity: nothing here binds the parish council or any other body. I use artificial intelligence tools to research, organise and draft, and every text drafted with them is marked as such; I take responsibility for all of it. The [method page](/metodo/) (in Portuguese) explains the rules: no concrete cases, only sources actually read, and an automatic check that blocks publication if personal data or case references appear.
+
+The site is also meant to serve as context for the analysis of local-government questions with the help of AI: the full content is available as plain text in [`/llms.txt`](/llms.txt), [`/llms-full.txt`](/llms-full.txt) and [`/rjal-anotado.md`](/rjal-anotado.md).
+
+## Privacy and contact
+
+The site uses no cookies, no trackers and no third-party services; videos are only loaded from YouTube (in privacy-enhanced mode) after you press play. For the same reason there is no contact form. My public interventions and positions are all collected here.
+
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ### Aviso
 
 As opiniões aqui expressas são do autor e não vinculam a Junta de Freguesia de Arroios nem qualquer outro órgão ou entidade. As anotações ao RJAL são opinião jurídica do autor; não constituem parecer nem substituem a consulta do texto oficial no Diário da República.
