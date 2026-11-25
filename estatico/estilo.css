@@ -4,11 +4,12 @@
   --papel-2: #EEEADD;
   --tinta: #16201B;
   --tinta-2: #3C4A42;
-  --cinza: #66716A;
+  --cinza: #606B64;
   --filete: #D8D3C3;
   --musgo: #123B2C;
-  --folha: #17834A;
+  --folha: #157844;
   --coral: #E2553B;
+  --coral-texto: #B4442F; /* coral para texto pequeno: AA sobre papel */
   --lima: #D6EF8A;
   --display: "Bricolage Grotesque", "Segoe UI Variable Display", sans-serif;
   --texto: "Newsreader", Georgia, serif;
@@ -19,7 +20,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --papel: #0E1612; --papel-2: #15211B; --tinta: #E9EDE6; --tinta-2: #C3CDC5; --cinza: #95A39A;
-    --filete: #2A3A31; --musgo: #CFE8D7; --folha: #5CCB8A; --coral: #FF8A70; --lima: #2F4A1E;
+    --filete: #2A3A31; --musgo: #CFE8D7; --folha: #5CCB8A; --coral: #FF8A70; --coral-texto: #FF8A70; --lima: #2F4A1E;
   }
 }
 * { box-sizing: border-box; }
@@ -27,7 +28,7 @@ html { background: var(--papel); -webkit-text-size-adjust: 100%; overflow-x: cli
 body { margin: 0; overflow-x: clip; color: var(--tinta); font: 400 1.125rem/1.62 var(--texto); font-optical-sizing: auto;
   background: var(--papel); }
 a { color: var(--folha); text-decoration-thickness: .08em; text-underline-offset: .18em; }
-a:hover { color: var(--coral); }
+a:hover { color: var(--coral-texto); }
 :focus-visible { outline: 3px solid var(--coral); outline-offset: 3px; border-radius: 2px; }
 .saltar { position: absolute; left: -999px; top: .5rem; background: var(--musgo); color: var(--papel); padding: .5rem 1rem; z-index: 9; }
 .saltar:focus { left: .5rem; }
@@ -127,7 +128,7 @@ time { display: inline-block; font: 400 .74rem var(--mono); color: var(--cinza);
 .cabeca-pag, .artigo, .texto { max-width: var(--larg); }
 .artigo, .texto { margin: 0 auto 0 0; }
 h1.pag { font: 800 clamp(2rem, 5vw, 3.1rem)/1.05 var(--display); letter-spacing: -.03em; color: var(--musgo); margin: 0 0 1.25rem; }
-h1.pag .num { display: block; font: 400 .9rem/2 var(--mono); color: var(--coral); letter-spacing: .04em; }
+h1.pag .num { display: block; font: 400 .9rem/2 var(--mono); color: var(--coral-texto); letter-spacing: .04em; }
 .meta-pag { font: 400 .85rem var(--mono); color: var(--cinza); }
 h2 { font: 800 1.4rem/1.2 var(--display); letter-spacing: -.015em; color: var(--musgo); margin: 2.8rem 0 .8rem; }
 h3 { font: 700 1.2rem/1.3 var(--display); color: var(--tinta); margin: 1.8rem 0 .6rem; }
@@ -153,7 +154,7 @@ h3 { font: 700 1.2rem/1.3 var(--display); color: var(--tinta); margin: 1.8rem 0 
 .lei p:target { background: linear-gradient(90deg, var(--lima), transparent 90%); border-radius: .3rem; }
 .ancora { position: absolute; left: -2.3rem; width: 1.2rem; text-align: right; font: .8rem var(--mono);
   color: var(--cinza); text-decoration: none; opacity: 0; transition: opacity .15s; }
-.lei p:hover .ancora, .lei p:target .ancora { opacity: 1; color: var(--coral); }
+.lei p:hover .ancora, .lei p:target .ancora { opacity: 1; color: var(--coral-texto); }
 .redacao, .versao, .ia, .origem-pub { font: 400 .78rem/1.5 var(--mono); color: var(--cinza); }
 .remissoes ul, .ver ul { padding-left: 1.1rem; }
 .anot { border-top: 1px solid var(--filete); padding-top: .4rem; scroll-margin-top: 6rem; }
@@ -163,7 +164,7 @@ h3 { font: 700 1.2rem/1.3 var(--display); color: var(--tinta); margin: 1.8rem 0 
 .anot ul { padding-left: 1.2rem; }
 .rascunho { position: relative; }
 .anot.rascunho h3::after, .lista li.rascunho .lista-tit::after { content: "rascunho"; font: 600 .65rem var(--mono);
-  text-transform: uppercase; letter-spacing: .1em; color: var(--coral); border: 1px solid var(--coral);
+  text-transform: uppercase; letter-spacing: .1em; color: var(--coral-texto); border: 1px solid var(--coral-texto);
   border-radius: 999px; padding: .1rem .45rem; margin-left: .5rem; vertical-align: middle; }
 .vazio { color: var(--cinza); font-style: italic; }
 
