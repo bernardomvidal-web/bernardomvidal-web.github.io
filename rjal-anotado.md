@@ -24,6 +24,8 @@ d) O regime jurídico do associativismo autárquico.
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 1.º** — O anexo repete o objecto: «A presente lei estabelece» os quatro regimes.
 - **Lei n.º 75/2013, de 12 de setembro, art. 5.º** — Ressalva da Lei n.º 56/2012, feita na lei preambular e não no anexo.
 - **Lei n.º 50/2018, de 16 de agosto, art. 41.º, n.º 1** — Exemplo de alteração dirigida ao «anexo I à Lei n.º 75/2013» (revoga os arts. 132.º a 136.º).
+- **Constituição da República Portuguesa, art. 105.º, 106.º, n.º 1, e 165.º, n.º 1, al. q)** — Conteúdo e anualidade da lei do Orçamento; reserva relativa sobre o estatuto das autarquias locais.
+- **Lei n.º 82/2023, de 29 de dezembro, art. 303.º** — Lei do Orçamento para 2024: alteração ao art. 33.º do anexo I.
 
 ### Anotações
 
@@ -46,6 +48,30 @@ d) O regime jurídico do associativismo autárquico.
 **Consequências.** Uma junta ou uma assembleia que cite o RJAL num acto deve indicar «art. N.º do anexo I à Lei n.º 75/2013» quando se refere ao regime, e «art. N.º da Lei n.º 75/2013» só para as cinco normas preambulares; nos arts. 1.º a 5.º, a omissão torna a citação equívoca. A ressalva do art. 5.º preambular conta como excepção expressa «da presente lei» para efeitos do art. 1.º, n.º 2, do anexo.
 
 **Fontes.** tc-296-2013
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. As alterações ao anexo I feitas em leis do Orçamento são permanentes — n.º 2**
+
+**Questão.** Várias alterações ao anexo I foram introduzidas por leis do Orçamento do Estado: a subdelegação nos vogais (art. 17.º), a delegação nos vogais de competências do presidente da junta (art. 18.º) e uma alínea nova do art. 33.º. Sendo a lei do Orçamento anual, pergunta-se se essas alterações caducam com o fim do ano orçamental e se valem como normas do anexo.
+
+**Tese.** Valem como normas do anexo, com carácter permanente. Uma lei do Orçamento que altera expressamente o anexo I modifica o regime aprovado pelo art. 1.º, n.º 2, e a alteração fica a fazer parte dele até ser revogada ou alterada. O princípio da anualidade respeita às previsões de receita e de despesa, não às normas que alteram outras leis.
+
+**Fundamentação.**
+- *Letra:* os regimes «são aprovados no anexo i à presente lei, da qual faz parte integrante» (n.º 2). As leis de alteração dirigem-se a esse anexo: a lei do Orçamento para 2024 tem um artigo epigrafado «Alteração ao anexo i da Lei n.º 75/2013», que dá nova redacção ao art. 33.º (Lei n.º 82/2023, art. 303.º). Nada nessas normas limita a sua vigência ao ano orçamental.
+- *Sistema:* a lei do Orçamento é elaborada, votada e executada «anualmente» (Constituição, art. 106.º, n.º 1). A anualidade vincula o conteúdo orçamental, isto é, as receitas e as despesas que o Orçamento discrimina (art. 105.º, n.º 1). O texto consolidado do anexo I regista as alterações dos arts. 17.º e 18.º pelas Leis n.os 7-A/2016 e 42/2016, leis do Orçamento para 2016 e 2017, e a do art. 33.º pela Lei n.º 82/2023. O anexo foi também alterado por decreto-lei (art. 38.º); numa matéria de reserva relativa da Assembleia da República, como o estatuto das autarquias locais (art. 165.º, n.º 1, al. q)), isso pressupõe autorização legislativa, cuja existência não se conferiu aqui.
+- *Génese:* a estrutura de lei preambular com anexo vem do Decreto n.º 132/XII (anotação 1). As alterações por via orçamental começaram em 2016.
+- *Teleologia:* o regime das autarquias é um só, qualquer que seja o veículo da alteração; o que conta é a vontade do legislador de mudar o anexo.
+
+**Pareceres e jurisprudência.** O Tribunal Constitucional, no Acórdão n.º 141/2002, de 09-04-2002 (https://www.tribunalconstitucional.pt/tc/acordaos/20020141.html), tratou normas não orçamentais inseridas em leis do Orçamento, os chamados «cavaliers budgétaires». Afirmou que estas normas têm, «se não sempre, quase sempre, um carácter plurianual ou mesmo de duração indeterminada», e que isso não as torna inconstitucionais (n.º 34). Retomou o Acórdão n.º 461/87: a anualidade só é violada quando a uma previsão de receita ou a uma dotação de despesa se atribua duração plurianual. Concluiu que a inclusão dessas normas na lei do Orçamento não é ilegítima. Concorda. Não se encontrou parecer de CCDR ou da DGAL sobre a vigência das alterações orçamentais ao anexo.
+
+**Posição contrária.** Um voto de vencido no Acórdão n.º 461/87, transcrito no Acórdão n.º 141/2002 (n.º 40), na linha de parte da doutrina que este também refere, sustenta que a lei do Orçamento não comporta matérias estranhas à sua função: ou essas normas ficariam sujeitas ao regime orçamental, incluindo a anualidade, ou a inclusão seria inconstitucional. Não colhe perante a jurisprudência constante do Tribunal. Colhe em parte quanto à técnica: a dispersão das alterações por leis orçamentais torna o regime menos acessível, e quem aplica o RJAL tem de confirmar a redacção em vigor no texto consolidado.
+
+**Consequências.**
+- A junta pode autorizar a subdelegação nos vogais (art. 17.º, n.º 1) e o presidente pode delegar nos vogais as competências do art. 18.º, n.º 4, em qualquer ano, e não só nos anos de 2016 e 2017.
+- A citação faz-se ao anexo, com a menção da redacção: «art. 18.º, n.º 4, do anexo I à Lei n.º 75/2013, na redacção da Lei n.º 42/2016».
+- A norma introduzida por lei do Orçamento pode ser alterada por lei comum, como qualquer outra norma do anexo (inferência a partir do Acórdão n.º 141/2002, que recusa estender a estas normas o regime orçamental).
+
+**Fontes.** tc-141-2002, lei-82-2023-art303-pgdl, crp-integral
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 2.º (preambular) — Sucessão
@@ -87,6 +113,30 @@ d) O regime jurídico do associativismo autárquico.
 **Consequências.** Um regulamento de uma comunidade intermunicipal aprovado antes de 2013 aplica-se ainda, «com as devidas adaptações», no que não contrarie o anexo I (n.º 7). Um município que abandonou a comunidade nos seis meses seguintes à entrada em vigor não sofreu as consequências do art. 65.º, n.º 2; o abandono posterior segue esse artigo. Para as freguesias, o artigo não tem aplicação directa: as associações de freguesias regem-se pelos arts. 108.º a 110.º do anexo.
 
 **Fontes.** tc-296-2013
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. Fusão, cisão e extinção por força da lei: constituição sem contrato e partilha de direitos e deveres — n.os 2 a 4 e 6**
+
+**Questão.** Nos casos de fusão (n.º 3) e de cisão (n.º 4), a lei refere uma «nova comunidade intermunicipal» e comunidades que «sucedem» às anteriores; no n.º 2, a comunidade antiga «é extinta». Pergunta-se se as comunidades resultantes nasceram da lei, sem contrato entre os municípios, como se compatibiliza isso com a natureza associativa exigida pelo Tribunal Constitucional, e quem respondeu pelos direitos, deveres, bens e trabalhadores das comunidades extintas.
+
+**Tese.** Nesses casos, a lei preambular operou ela própria a constituição das comunidades resultantes, por fusão ou cisão, sem necessidade de novo contrato. Isso não as converteu em entes criados pelo Estado: resultaram da transformação de associações voluntárias já existentes, os municípios mantiveram o direito de abandono, sem as sanções do art. 65.º, n.º 2, nos seis meses seguintes (n.º 8), e os estatutos foram aprovados pelas próprias comunidades (n.º 6). A sucessão foi universal na fusão e parcial na cisão, a concretizar por acordo; na extinção do n.º 2, a lei não definiu o sucessor, e a partilha fez-se em liquidação.
+
+**Fundamentação.**
+- *Letra:* na fusão, as comunidades «fundem-se», ficando os municípios integrados «na nova comunidade intermunicipal» (n.º 3); na cisão, a comunidade «cinde-se» em tantas quantas as áreas resultantes, «que sucedem nas partes correspondentes dos direitos e deveres das anteriores» (n.º 4); no n.º 2, a comunidade cujos municípios passem todos para outras «é extinta». Em 90 dias, as novas comunidades aprovam os estatutos e as que mudem de área revêem-nos e «regulam as consequências jurídicas da alteração» (n.º 6).
+- *Sistema:* o regime permanente assenta no contrato entre os municípios (art. 80.º do anexo) e na adesão potestativa; o art. 2.º preambular é excepção transitória a esse regime e esgotou-se com a reorganização de 2013 (inferência). As alterações posteriores, incluindo as da Lei n.º 24-A/2022, fazem-se pelas regras do anexo (anotação 1).
+- *Génese:* o Decreto n.º 132/XII fazia suceder às comunidades de 2008 comunidades criadas por lei para todo o continente, com participação obrigatória. O Tribunal Constitucional julgou-o inconstitucional: a sucessão «não altera a fonte orgânica e a natureza jurídica do ato criador», um acto do Estado, obrigatório (Acórdão n.º 296/2013, n.º 28). A lei final passou a manter as comunidades existentes e reduziu a intervenção legislativa à reorganização das áreas, sempre com direito de abandono.
+- *Teleologia:* ajustar as áreas das comunidades às do anexo II sem paralisar a sua actividade, deixando aos municípios a última palavra sobre a pertença.
+
+**Pareceres e jurisprudência.** A CCDR Alentejo, no Guião relativo à transição de comunidades intermunicipais, de 2013 (https://www.ccdr-a.gov.pt/docs/ccdra/gestao/Guiao_Transicao_CIMs_VFinal.pdf, pp. 2 a 4), entendeu que as comunidades resultantes de fusão e de cisão se constituíram «automaticamente, por força e efeito da lei», sendo a lei preambular «ato constitutivo bastante», sem escritura pública, e que a autonomia municipal ficava assegurada pelo direito de abandono. Para a aprovação e revisão extraordinárias dos estatutos do n.º 6, exigiu a aprovação do conselho e da assembleia intermunicipais. Quanto aos bens e trabalhadores, entendeu que na fusão a nova comunidade assumia todos os direitos e deveres, e que na cisão e na extinção a partilha se fazia por acordo, no processo de liquidação. Concorda. O Tribunal Constitucional, no Acórdão n.º 296/2013, de 28-05-2013 (https://www.tribunalconstitucional.pt/tc/acordaos/20130296.html, n.os 28 e 29), fixou o limite: a constituição de associações é expressão da autonomia dos municípios, e a criação por lei com participação obrigatória afasta a figura associativa. A tese procura respeitar esse limite.
+
+**Posição contrária.** Pode objectar-se que constituir uma comunidade por lei, ainda que por fusão ou cisão, é exactamente o que o Tribunal Constitucional censurou. Colhe em parte: a constituição foi legal, e não contratual. Não colhe quanto ao resultado, porque o vício identificado pelo Tribunal era a combinação de criação por lei e pertença obrigatória, e a lei final garantiu o abandono sem sanção no período transitório; a vontade dos municípios conservou-se no consentimento originário às comunidades de 2008 e na faculdade de saída. Outra leitura estende a sucessão universal à extinção do n.º 2. Não tem apoio na letra, que só a prevê para a fusão e, por partes, para a cisão.
+
+**Consequências.**
+- A pessoa colectiva resultante de fusão responde pelas obrigações e contratos das comunidades fundidas; as resultantes de cisão respondem na proporção acordada ou, na falta de acordo, na parte correspondente aos municípios e ao território que receberam (inferência a partir do n.º 4).
+- Qualquer alteração posterior da composição ou dos estatutos faz-se por contrato e deliberação dos órgãos, segundo o anexo; a via legal do art. 2.º não se repete.
+- Para as freguesias, releva quando uma freguesia seja parte de contrato com uma comunidade que se tenha fundido, cindido ou extinguido em 2013.
+
+**Fontes.** ccdr-a-guiao-cim-2013, tc-296-2013
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 3.º (preambular) — Norma revogatória
@@ -247,6 +297,8 @@ A presente lei não prejudica o disposto na Lei n.º 56/2012, de 8 de novembro.
 - **Código Civil, art. 7.º, n.os 2 e 3** — A lei geral não revoga a lei especial, salvo intenção inequívoca do legislador.
 - **Código Civil, art. 11.º** — As normas excepcionais não comportam aplicação analógica, mas admitem interpretação extensiva.
 - **Lei n.º 50/2018, de 16 de agosto, art. 10.º** — Reconhece a Lei n.º 56/2012 como fonte de competências das autarquias.
+- **Lei n.º 50/2018, de 16 de agosto, art. 41.º, n.º 1** — Revoga os arts. 132.º a 136.º do anexo I (delegação legal), que não se aplicavam a Lisboa.
+- **Decreto-Lei n.º 57/2019, de 30 de abril, art. 2.º, n.º 1** — Competências transferidas para as freguesias; em Lisboa, só no que a Lei n.º 56/2012 não atribuiu (inferência).
 
 ### Anotações
 
@@ -262,19 +314,43 @@ A presente lei não prejudica o disposto na Lei n.º 56/2012, de 8 de novembro.
 - *Génese:* a Lei n.º 56/2012 foi construída sobre a Lei n.º 169/99. Dez meses depois, a Lei n.º 75/2013 revogou as normas de referência e aprovou um regime geral novo, sem norma geral de remissões. Sem o art. 5.º, podia sustentar-se a revogação por a lei nova regular toda a matéria (Código Civil, art. 7.º, n.º 2). O art. 5.º afasta essa leitura. A ressalva não constava da Proposta de Lei n.º 104/XII, cuja lei preambular tinha três artigos (objecto, norma revogatória e entrada em vigor), nem do Decreto n.º 132/XII na versão aprovada em 15-03-2013, que terminava no art. 4.º. Entrou como art. 5.º, «Regime especial», na reapreciação do decreto aprovada em 29-07-2013, que se seguiu ao Acórdão do Tribunal Constitucional n.º 296/2013. O acórdão não trata da Lei n.º 56/2012, e os documentos lidos não explicam o aditamento.
 - *Teleologia:* preservar um regime desenhado para a cidade, em que passaram a próprias da junta matérias que antes só a câmara podia delegar.
 
-**Pareceres e jurisprudência.** O Tribunal da Relação de Lisboa, no acórdão de 04-02-2026, proc. 6819/24.0Y5LSB.L1-3 (https://jurisprudencia.pt/acordao/242960/), qualificou as competências do art. 12.º, n.º 1, al. g), e n.º 2, como próprias das juntas de Lisboa e afirmou que a Lei n.º 56/2012, «pelo regime de especialidade que introduziu, […] derrogou a regra geral» de um diploma sectorial. Concorda com a tese quanto à especialidade e à prevalência; não trata o art. 5.º nem a delegação. Na doutrina, João Pedro Gato (*A mudança no contexto da organização administrativa do território – As freguesias portuguesas depois de 2013*, dissertação de mestrado, ISCTE-IUL, 2014, p. 21, https://repositorio.iscte-iul.pt/bitstream/10071/10142/1/Jo%C3%A3o%20Pedro%20Gato%20-%20A%20mudan%C3%A7a%20no%20contexto%20da%20organiza%C3%A7%C3%A3o%20admin.pdf) entende que às competências de Lisboa é também aplicável o regime geral da Lei n.º 75/2013 «em tudo o que a Lei n.º 56/2012 não disponha diferentemente». Concorda com a acumulação e com a aplicação subsidiária do RJAL. Não foi encontrado parecer de CCDR, solução interpretativa da DGAL ou acórdão do Tribunal Constitucional sobre o art. 5.º.
+**Pareceres e jurisprudência.** O Tribunal da Relação de Lisboa, no acórdão de 04-02-2026, proc. 6819/24.0Y5LSB.L1-3 (https://jurisprudencia.pt/acordao/242960/), qualificou as competências do art. 12.º, n.º 1, al. g), e n.º 2, como próprias das juntas de Lisboa e afirmou que a Lei n.º 56/2012, «pelo regime de especialidade que introduziu, […] derrogou a regra geral» de um diploma sectorial. Concorda com a tese quanto à especialidade e à prevalência; não trata o art. 5.º nem a delegação. Na doutrina, João Pedro Gato (*A mudança no contexto da organização administrativa do território – As freguesias portuguesas depois de 2013*, dissertação de mestrado, ISCTE-IUL, 2014, p. 21, https://repositorio.iscte-iul.pt/bitstream/10071/10142/1/Jo%C3%A3o%20Pedro%20Gato%20-%20A%20mudan%C3%A7a%20no%20contexto%20da%20organiza%C3%A7%C3%A3o%20admin.pdf) entende que às competências de Lisboa é também aplicável o regime geral da Lei n.º 75/2013 «em tudo o que a Lei n.º 56/2012 não disponha diferentemente». Concorda com a acumulação e com a aplicação subsidiária do RJAL. Não foi encontrado parecer de CCDR nem acórdão do Tribunal Constitucional sobre o art. 5.º. A DGAL invocou-o nas soluções interpretativas uniformes de 11-11-2013, ao entender que a Lei n.º 56/2012 «constitui um regime especial» e que a delegação legal não se aplicava às freguesias de Lisboa: concorda quanto à especialidade (ver a anotação 2).
 
 **Posição contrária.** Quanto à delegação, nenhuma fonte trata o ponto e a tese assenta na letra do art. 17.º, n.º 1. A objecção mais forte é a identidade de razão. O art. 17.º, n.º 1, reserva ao colégio os apoios a entidades e a actividades (als. o) e v) do art. 16.º, n.º 1) e os regulamentos (al. h)). A al. p) do art. 12.º, n.º 1, da Lei n.º 56/2012 (apoiar actividades culturais e desportivas) coincide em substância com a al. v), e a al. s) (definir critérios especiais nos processos de realojamento) tem natureza normativa. Pode defender-se que a exclusão se estende a essas alíneas. Contra, as excepções à delegação são normas excepcionais, que não comportam aplicação analógica (Código Civil, art. 11.º). A objecção colhe em parte: o mesmo art. 11.º admite interpretação extensiva, e a proximidade entre a al. p) de Lisboa e a al. v) do RJAL é suficientemente estreita para a sustentar.
 
 **Consequências.** Uma junta de Lisboa exerce as competências do art. 12.º e as do art. 16.º; onde a lei especial é mais ampla, vale o âmbito mais largo, e onde há conflito prevalece a Lei n.º 56/2012. O funcionamento dos órgãos e a repartição interna de competências seguem o RJAL, incluindo a competência do presidente para as contraordenações (art. 18.º, n.º 1, al. p)). A junta que delegue no presidente competências do art. 12.º deve indicar a norma atributiva e a habilitante no acto de delegação. Pela razão exposta na posição contrária, a decisão de apoios ao abrigo da al. p) de Lisboa fica mais segura em deliberação da junta; se a exclusão for estendida, o acto do presidente padece de incompetência relativa e é anulável.
 
-**Fontes.**
+**Fontes.**, dgal-siu-2013-11-11-b
 - trl-2026-02-04-6819-24
 - gato-2014
 - ppl-104-xii
 - decreto-ar-132-xii
 - decreto-ar-132-xii-reapr
 - tc-296-2013
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. O que a lei de Lisboa já atribuiu não se delega nem se transfere pelos mecanismos gerais — corpo**
+
+**Questão.** O RJAL e a legislação que o completou criaram, para todas as freguesias, instrumentos gerais de descentralização: a delegação legal com acordo de execução (arts. 132.º a 136.º, revogados em 2018) e a transferência da Lei n.º 50/2018 e do Decreto-Lei n.º 57/2019. Operam nas freguesias de Lisboa sobre as matérias que a Lei n.º 56/2012 já lhes atribuiu?
+
+**Tese.** Não operam. A ressalva do art. 5.º tem um alcance negativo: os mecanismos gerais não incidem sobre o que a lei especial já fez próprio das juntas de Lisboa, porque nada há a delegar ou a transferir; incidem só sobre o que ela não atribuiu. O reforço faz-se, além disso, por contrato de delegação (Lei n.º 56/2012, art. 14.º; RJAL, arts. 120.º a 123.º). Quanto à transferência de 2019, a tese é inferência.
+
+**Fundamentação.**
+- *Letra:* a lei «não prejudica o disposto na Lei n.º 56/2012». As juntas de Lisboa «passam a ter ainda» as competências próprias do art. 12.º, n.º 1, dessa lei, que incluem espaços verdes, limpeza das vias, mobiliário urbano, licenças de ocupação da via pública, de publicidade, de máquinas de diversão e de recintos improvisados, as actividades do Decreto-Lei n.º 264/2002, os equipamentos escolares do 1.º ciclo e pré-escolar e a gestão corrente de feiras e mercados (als. a), d), e), g), i), j) e q)). O Decreto-Lei n.º 57/2019 declara da competência dos órgãos das freguesias, em grande parte, as mesmas matérias (art. 2.º, n.º 1, als. a) a l)), sem mencionar Lisboa.
+- *Sistema:* a Lei n.º 50/2018 enumera, entre as competências das autarquias «atribuídas por outros diplomas», as conferidas pela Lei n.º 56/2012 (art. 10.º): reconhece-as como já existentes, não as transfere de novo. A lei geral posterior não revoga a especial, salvo intenção inequívoca (Código Civil, art. 7.º, n.º 3), e a Lei n.º 50/2018 não a manifesta. Quem já é titular de uma competência própria não a pode receber por delegação ou transferência (inferência). Os arts. 132.º a 136.º foram revogados pela Lei n.º 50/2018 (art. 41.º, n.º 1). A delegação da câmara de Lisboa nas juntas segue o art. 14.º da lei especial e, quanto à forma, o contrato interadministrativo do RJAL (anotação 1 ao art. 116.º; anotação 1).
+- *Génese:* a Lei n.º 56/2012 já tinha feito em Lisboa, por lei e a título definitivo, a descentralização que o RJAL de 2013 propôs para as outras freguesias por delegação legal, e que a Lei n.º 50/2018 converteu em transferência.
+- *Teleologia:* evitar duplicações de titularidade e de financiamento; os recursos das competências de Lisboa seguem o art. 17.º da lei especial (tema «O regime especial das freguesias de Lisboa»).
+
+**Pareceres e jurisprudência.** A DGAL, nas soluções interpretativas uniformes da reunião de coordenação jurídica de 11-11-2013, homologadas em 11-03-2014 (https://appls.portalautarquico.pt/FAQs/Questao_Show_PA.aspx?QuestaoId=596), afirmou que as competências das juntas de Lisboa foram transferidas pela Lei n.º 56/2012, que «constitui um regime especial» face à Lei n.º 75/2013, «conforme resulta expressamente do artigo 5.º desta última lei», e concluiu que a delegação legal «não se aplica ao município e freguesias de Lisboa» (questão 601). Fundamentou-o em que a «esmagadora maioria» das competências do art. 132.º já fora descentralizada pelo art. 12.º da lei especial; o reforço só podia fazer-se por contratos interadministrativos não obrigatórios (Lei n.º 56/2012, art. 14.º; RJAL, arts. 120.º a 123.º, 135.º e 136.º). Concorda e é a base da tese. O Tribunal Central Administrativo Sul, no acórdão de 07-06-2023, proc. 1165/14.0BELSB, qualificou as competências do art. 12.º como próprias e definitivas, distintas da delegação (anotação 1 ao art. 117.º). Concorda. Não se encontrou parecer ou decisão sobre o Decreto-Lei n.º 57/2019 em Lisboa.
+
+**Posição contrária.** O Decreto-Lei n.º 57/2019 é posterior, dirige-se aos «órgãos das freguesias» sem excepção e tem procedimento e recursos próprios; aplicar-se-ia também em Lisboa, cumulando-se com a lei especial. Não colhe nas matérias que a Lei n.º 56/2012 já atribuiu: a transferência pressupõe que a competência esteja no município, e a Lei n.º 50/2018 reconheceu que essas já não estão. Colhe nas matérias que a lei de Lisboa não atribuiu, como as fogueiras, a queima de artigos pirotécnicos e as queimadas (Decreto-Lei n.º 57/2019, art. 2.º, n.º 1, al. m)): aí a transferência opera, com o procedimento e os recursos do regime geral (inferência).
+
+**Consequências.**
+- Uma junta de Lisboa não negoceia com a câmara a transferência, nem um acordo de execução, de competências que a Lei n.º 56/2012 já lhe deu; exerce-as como próprias.
+- Nas matérias do Decreto-Lei n.º 57/2019 que a lei especial não abrange, segue o procedimento geral de transferência.
+- O que a câmara queira descentralizar além disso faz-se por contrato de delegação proposto a todas as juntas (Lei n.º 56/2012, art. 14.º, n.º 3), autorizado pelas duas assembleias.
+
+**Fontes.** dgal-siu-2013-11-11-b, lei-50-2018, dl-57-2019, tcas-2023-06-07-1165-14
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ### Ver também
@@ -1051,7 +1127,7 @@ k) Pronunciar-se e deliberar sobre todos os assuntos com interesse para a fregue
 
 **Questão.** Que associações pode a assembleia autorizar a freguesia a constituir? Abrange a adesão a associações de direito privado?
 
-**Tese.** A al. k) abrange apenas as associações de freguesias de fins específicos do capítulo IV do título III. A participação da freguesia em associações de direito privado não tem norma habilitante: o regime que a permite aos municípios não se aplica às freguesias. A relação com essas entidades faz-se por cooperação ou apoio.
+**Tese.** A al. k) abrange apenas as associações de freguesias de fins específicos do capítulo IV do título III. A participação da freguesia em associações de direito privado não tem norma habilitante, salvo nas associações de autarquias com fins de representação (Lei n.º 54/98): o regime que a permite aos municípios não se aplica às freguesias. A relação com essas entidades faz-se por cooperação ou apoio.
 
 **Fundamentação.**
 - *Letra:* a al. k) remete para «as associações previstas no capítulo IV do título III». A junta delibera «sobre a constituição e participação» nessas associações (art. 16.º, n.º 1, al. uu)).
@@ -1065,10 +1141,10 @@ k) Pronunciar-se e deliberar sobre todos os assuntos com interesse para a fregue
 
 **Consequências.**
 - Uma junta que pretenda uma associação de fins específicos com outras freguesias delibera sobre a constituição e os estatutos e submete-os à assembleia; sem aprovação, o acordo constitutivo não produz efeitos (art. 108.º, n.º 1). A outorga cabe ao presidente.
-- A adesão a uma associação privada como associada carece de base legal. Pode, em vez disso, autorizar-se um protocolo de cooperação (n.º 1, als. i) e j)) ou decidir-se um apoio (art. 16.º, n.º 1, al. o)).
+- A adesão a uma associação privada como associada carece de base legal, salvo nas associações de autarquias com fins de representação, que a Lei n.º 54/98 permite e que podem ter forma privada (anotação 2 ao art. 63.º). Fora desse caso, pode, em vez disso, autorizar-se um protocolo de cooperação (n.º 1, als. i) e j)) ou decidir-se um apoio (art. 16.º, n.º 1, al. o)).
 - Qual o vício da adesão sem base legal, nenhuma fonte lida o diz.
 
-**Fontes.** ccdr-c-56-2013, lei-50-2012-pgdl, l169-1999-v6-pgdl
+**Fontes.** ccdr-c-56-2013, lei-50-2012-pgdl, l169-1999-v6-pgdl, lei-54-1998
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 **10. Mapa de pessoal e organização dos serviços — n.º 1, als. m) e n)**
@@ -5816,6 +5892,30 @@ c) O endereço de ligação à Internet onde as deliberações podem ser consult
 **Fontes.** lei-70-2026
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. O edital segue a lei do dia em que é afixado; sem portaria não há dispensa — Lei n.º 70/2026, arts. 5.º e 6.º**
+
+**Questão.** A Lei n.º 70/2026 não tem norma transitória. Que regime se aplica às deliberações tomadas antes da entrada em vigor e publicitadas depois? E o que vale entre a entrada em vigor e a portaria das tabelas de referência?
+
+**Tese.** O dever de publicitação rege-se pela lei em vigor no dia em que a publicitação deve ser feita, e não pela do dia da deliberação: o edital afixado ou divulgado depois da entrada em vigor obedece ao art. 56.º-A, ainda que a deliberação seja anterior. Até à portaria, aplicam-se os n.os 1 e 2, que não dependem dela; os n.os 3 e 4 não funcionam, porque a dispensa pressupõe a tabela de referência, e a autarquia não se pode dispensar da divulgação invocando a falta da portaria (inferência).
+
+**Fundamentação.**
+- *Letra:* a lei entra em vigor 90 dias após a publicação (art. 6.º) e manda aprovar a regulamentação em 60 dias (art. 5.º); não regula a aplicação no tempo. O n.º 1 do art. 56.º-A rege o conteúdo do «edital […] afixado nos lugares de estilo e divulgado no sítio oficial da Internet»; os n.os 3 e 4 comparam o preço com «a tabela de referência aplicável».
+- *Sistema:* a lei só dispõe para o futuro e, quando dispõe sobre as condições de validade formal de factos ou sobre os seus efeitos, visa, em caso de dúvida, só os factos novos (Código Civil, art. 12.º, n.os 1 e 2). O facto regulado pelo art. 56.º-A é a publicitação, não a deliberação: a falta de publicação legalmente exigida não invalida o acto, torna-o ineficaz (CPA, art. 158.º, n.º 2). A publicitação feita depois da entrada em vigor é, pois, facto novo. Os prazos são curtos — cinco dos dez dias seguintes para o edital e 30 dias para a divulgação sumária (art. 56.º, n.os 1 e 2, na nova redacção) —, o que limita a sobreposição às deliberações das últimas semanas antes da entrada em vigor.
+- *Génese:* a redacção anterior do art. 56.º já remetia as tabelas de custos para portaria anual (n.º 3), mas não previa dispensa. A dispensa nasce com a lei nova e liga-se à tabela nova, aprovada com parecer prévio das associações de autarquias (art. 56.º, n.º 7, na nova redacção).
+- *Teleologia:* a transparência que a lei quer — o texto integral acessível a todos — não depende de regulamentação; a protecção da autarquia contra preços excessivos depende.
+
+**Pareceres e jurisprudência.** A lei é de 23-11-2026 e ainda não está em vigor; não há pareceres das CCDR nem jurisprudência sobre ela. A posição assenta na letra, no art. 12.º do Código Civil e no art. 158.º do CPA.
+
+**Posição contrária.** Pode sustentar-se que a publicitação é a fase final do procedimento da deliberação e deve seguir a lei do tempo desta. Não colhe: o CPA separa a validade do acto da sua eficácia (art. 158.º, n.º 2), e a publicitação é um acto autónomo, com data própria. Pode também defender-se que, sem portaria, toda a divulgação na comunicação social fica suspensa. Não colhe quanto ao n.º 2: o formato do sumário (logótipo, descrição sumária, ligação e código QR) não depende de regulamentação; o que fica sem termo de comparação é a dispensa dos n.os 3 e 4.
+
+**Consequências.**
+- Uma deliberação tomada dias antes da entrada em vigor, cujo edital seja afixado depois, publica-se com o texto integral (n.º 1).
+- Até à portaria, a junta divulga nos termos do n.º 2 e não pode fundamentar a dispensa do n.º 4. Se nenhum órgão de comunicação social puder ser dado como elegível por faltarem os critérios da portaria, a junta documenta essa impossibilidade no processo (inferência).
+- O edital afixado depois da entrada em vigor sem o texto integral não torna inválida a deliberação; deixa-a sem eficácia externa até à publicitação conforme (CPA, art. 158.º, n.º 2; inferência quanto à equiparação da publicação incompleta à falta de publicação).
+
+**Fontes.** lei-70-2026, cc-pgdl, cpa-2015-pgdl
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 57.º — Atas
 
 1 - De cada sessão ou reunião é lavrada ata, a qual contém um resumo do que de essencial nela se tiver passado, indicando, designadamente, a data e o local da sessão ou reunião, os membros presentes e ausentes, os assuntos apreciados, as decisões e deliberações tomadas e a forma e o resultado das respetivas votações e, bem assim, o facto de a ata ter sido lida e aprovada.
@@ -6086,6 +6186,8 @@ c) As deliberações de qualquer órgão das autarquias locais que determinem ou
 - **Lei n.º 13/99 (recenseamento eleitoral), art. 68.º, 69.º e 94.º** — Certidões de recenseamento em três dias, isentas; crime de recusa de passagem de certidões.
 - **Código do Procedimento Administrativo, art. 108.º** — Convite ao suprimento das deficiências do requerimento e suprimento oficioso.
 - **Regulamento (UE) 2016/679 (RGPD), art. 5.º, n.º 1, al. c)** — Minimização dos dados.
+- **Lei n.º 75/2013, Anexo I, art. 9.º, n.º 2, als. j) e k), 47.º, 52.º e 53.º, n.º 1** — Pronúncia sobre assuntos de interesse da freguesia; representantes dos requerentes; período de antes da ordem do dia só nas sessões ordinárias; ordem do dia limitada à competência do órgão.
+- **Lei n.º 169/99 (redacção anterior a 2013), art. 14.º e 15.º** — Sessão extraordinária a requerimento de cidadãos, convocação directa pelos requerentes e participação de dois representantes.
 
 ### Anotações
 
@@ -6114,6 +6216,30 @@ c) As deliberações de qualquer órgão das autarquias locais que determinem ou
 **Fontes.** Nenhuma; a legislação vem citada no texto.
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. O presidente da assembleia verifica a legitimidade do pedido, não o seu mérito — n.º 1, com o art. 12.º, n.os 1, al. c), 2 e 4**
+
+**Questão.** Recebido um requerimento de cidadãos eleitores instruído com as certidões do art. 60.º, pode o presidente da assembleia de freguesia recusar a convocação por entender que o assunto não justifica uma sessão, que não há decisão a tomar ou que a matéria escapa à assembleia? E o que podem os requerentes fazer perante a recusa ou o silêncio?
+
+**Tese.** O controlo do presidente é vinculado e limita-se à legitimidade e à forma: número de requerentes, inscrição no recenseamento da freguesia, identificação e indicação do assunto. Não aprecia a oportunidade nem o mérito do pedido. Um assunto de interesse para a freguesia sobre o qual a assembleia se possa pronunciar é objecto idóneo, ainda que não haja acto administrativo a praticar. Por inferência, só pode recusar quando o assunto seja manifestamente estranho às atribuições e aos interesses da freguesia, fundamentadamente e no prazo de cinco dias. Perante recusa ilegítima ou silêncio, os requerentes convocam directamente.
+
+**Fundamentação.**
+- *Letra:* a assembleia «reúne em sessão extraordinária [...] após requerimento» dos cidadãos (art. 12.º, n.º 1), e o presidente, nos cinco dias após a recepção, «convoca a sessão extraordinária» (n.º 2). O verbo não deixa margem de apreciação; o art. 60.º só acrescenta a prova da qualidade de eleitor.
+- *Sistema:* compete à assembleia «Pronunciar-se e deliberar sobre todos os assuntos com interesse para a freguesia» (art. 9.º, n.º 2, al. k)); uma moção ou uma recomendação é uma deliberação. A ordem do dia inclui os assuntos indicados pelos membros «desde que sejam da competência» do órgão (art. 53.º, n.º 1); o mesmo limite vale, por identidade de razão, para o objecto do requerimento dos cidadãos, que fixa a ordem do dia (inferência). O período de antes da ordem do dia só existe nas sessões ordinárias (art. 52.º). Dois representantes dos requerentes participam sem voto e podem apresentar propostas (art. 47.º). Se o presidente não convocar, convocam os requerentes (art. 12.º, n.º 4).
+- *Génese:* a Lei n.º 169/99 já previa o requerimento de cidadãos, o dever de convocar nos cinco dias e a convocação directa pelos requerentes, «com invocação dessa circunstância» (art. 14.º, n.os 1 a 3), e os dois representantes (art. 15.º).
+- *Teleologia:* a iniciativa dos cidadãos não pode depender do juízo político da mesa sobre a relevância do assunto.
+
+**Pareceres e jurisprudência.** A CCDR Alentejo, no Parecer DAJ-Proc. 88/2018, de 24-08-2018 (https://www.ccdr-a.gov.pt/app_ext/pareceres/printpdf.php?id=1106), sobre um requerimento de um terço dos membros de uma assembleia municipal, qualificou como imperativas as normas do art. 28.º, n.os 1 a 3, e concluiu que o presidente deve convocar a sessão nos cinco dias (conclusão 2). Concorda nesse ponto. Acrescentou que «não devem realizar-se sessões (nem qualquer reunião nelas integrada) sem que esteja em causa a tomada de decisões», remetendo os assuntos de carácter reflexivo para o período de antes da ordem do dia (conclusões 4 e 5). Diverge nessa parte. A CCDR Centro, no Parecer DSAJAL 121/07, de 28-05-2007 (https://www.ccdrc.pt/pt/33904/), ainda na Lei n.º 169/99, afirmou que, requerida a sessão, o presidente da assembleia de freguesia «deve convocá-la», e que nas sessões extraordinárias só se delibera sobre os assuntos da ordem do dia. Concorda. Não se encontrou jurisprudência sobre a recusa de convocação.
+
+**Posição contrária.** A leitura da CCDR Alentejo, transposta para o requerimento de cidadãos, permitiria recusar a sessão quando o assunto não exija uma decisão administrativa, remetendo-o para o período de antes da ordem do dia de uma sessão ordinária. Não colhe. A assembleia de freguesia tem competência expressa para se pronunciar sobre os assuntos de interesse para a freguesia, e a tomada de posição é uma deliberação. O período de antes da ordem do dia pertence às sessões ordinárias e aos membros do órgão; remeter para ele o pedido dos cidadãos esvaziaria o direito do art. 12.º, n.º 1, al. c). A objecção colhe num ponto: sobre assunto estranho às atribuições da freguesia a assembleia não pode deliberar, e a sessão seria inútil. Só nesse caso, e quando a falta de ligação à freguesia seja manifesta, a recusa fundamentada é legítima (inferência).
+
+**Consequências.**
+- O presidente que receba um requerimento instruído convoca nos cinco dias, com a ordem do dia correspondente ao objecto do pedido; a sessão realiza-se entre o mínimo de três e o máximo de dez dias após a convocação (art. 12.º, n.º 3; sobre a contagem, anotação 2 ao art. 12.º).
+- A recusa por falta de interesse, inoportunidade ou desacordo político é ilegal; os requerentes convocam directamente, e a sessão assim convocada é uma sessão regular da assembleia.
+- A recusa admissível é fundamentada e comunicada aos requerentes dentro do prazo de convocação, para que possam reformular o pedido ou reagir.
+
+**Fontes.** ccdr-a-88-2018, ccdr-c-121-2007, lei-169-1999-v2011
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ### Ver também
 
 - [Prazos no RJAL: contagem e consequências](https://bernardomvidal-web.github.io/temas/prazos-e-contagem/)
@@ -6127,6 +6253,8 @@ A aprovação das opções do plano e da proposta de orçamento para o ano imedi
 - **Lei n.º 75/2013, Anexo I, art. 11.º, n.º 2, e 27.º, n.º 2** — Aprovação das opções do plano e do orçamento na sessão de novembro ou dezembro, salvo o disposto no art. 61.º.
 - **Regime Financeiro das Autarquias Locais e das Entidades Intermunicipais (Lei n.º 73/2013), art. 45.º** — Calendário orçamental municipal; em eleições do executivo entre 30 de julho e 15 de dezembro, proposta no prazo de três meses após a tomada de posse.
 - **Regime Financeiro das Autarquias Locais e das Entidades Intermunicipais (Lei n.º 73/2013), art. 46.º-A** — Em caso de atraso na aprovação, mantém-se em execução o orçamento do ano anterior.
+- **Lei n.º 27/96 (tutela administrativa), art. 9.º, al. e), 10.º, 11.º e 12.º** — Dissolução do órgão que não elabore ou não aprove o orçamento a tempo, salvo facto justificativo; decisão pelos tribunais administrativos.
+- **Regime Financeiro das Autarquias Locais e das Entidades Intermunicipais (Lei n.º 73/2013), art. 46.º-B** — Revisões do plano plurianual de investimentos para incluir ou anular projectos.
 
 ### Anotações
 
@@ -6151,6 +6279,56 @@ A aprovação das opções do plano e da proposta de orçamento para o ano imedi
 **Fontes.** Sem fontes além da lei.
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. Enquanto não há orçamento novo, executa-se o anterior, por inteiro e sem duodécimos — corpo, com o RFALEI, art. 46.º-A**
+
+**Questão.** Entre 1 de janeiro e a aprovação tardia das opções do plano e do orçamento, ao abrigo do art. 61.º ou por simples atraso, que orçamento executa a junta, com que limites, e pode modificá-lo?
+
+**Tese.** Executa-se o orçamento do ano anterior, com as modificações introduzidas até 31 de dezembro, e o plano plurianual de investimentos correspondente. A lei não impõe execução por duodécimos nem limita a junta à gestão corrente: as dotações do orçamento anterior valem por inteiro, como limite de despesa. O orçamento prorrogado pode ser modificado pelos órgãos competentes, e o orçamento novo, quando aprovado, absorve o que já foi executado.
+
+**Fundamentação.**
+- *Letra:* «Em caso de atraso na aprovação do orçamento das autarquias locais, mantém-se em execução o orçamento em vigor no ano anterior, com as modificações que, entretanto, lhe tenham sido introduzidas até 31 de dezembro» (RFALEI, art. 46.º-A, n.º 1). Mantém-se também o quadro plurianual de investimentos, «sem prejuízo dos limites das correspondentes dotações orçamentais» (n.º 2); os documentos previsionais podem ser modificados «nos termos legalmente previstos» (n.º 4); os que venham a ser aprovados no decurso do ano integram a parte já executada (n.º 5).
+- *Sistema:* o art. 61.º desloca para o fim de abril o termo da aprovação, mas não regula o período intermédio; a regra está no RFALEI, que fala das «autarquias locais» e de qualquer atraso. As modificações seguem a repartição normal de competências: a junta executa o orçamento e aprova as suas alterações (RJAL, art. 16.º, n.º 1, al. b)); as revisões são aprovadas pela assembleia, sob proposta da junta (art. 9.º, n.º 1, al. a)). A inclusão de projectos novos no plano plurianual de investimentos faz-se por revisão (RFALEI, art. 46.º-B, n.º 2).
+- *Génese:* o Supremo Tribunal Administrativo aplicava em 2003 a mesma solução, então no art. 24.º do Decreto-Lei n.º 341/83: o orçamento anterior mantinha-se em execução até à aprovação do novo, que integrava a parte executada. O art. 46.º-A, aditado ao RFALEI pela Lei n.º 51/2018, retoma-a e estende-a ao plano plurianual.
+- *Teleologia:* garantir a continuidade do serviço com a autorização de despesa do ano anterior, já votada pela assembleia.
+
+**Pareceres e jurisprudência.** A CCDR Centro, nas perguntas frequentes sobre freguesias (resposta 1.3, https://www.ccdrc.pt/pt/areas-de-atuacao/administracao-local/apoio-tecnico-e-financeiro/faqs-freguesias/), entende que, enquanto a gestão se rege pelo orçamento em vigor a 31 de dezembro, «poderão ser aprovadas as modificações que se venham a reconhecer como necessárias», e que o orçamento aprovado depois deve «acolher a execução efetuada até essa data». Concorda. A CCDR Alentejo, na Nota Técnica n.º 5/2025, de outubro de 2025 (https://www.ccdr-a.gov.pt/wp-content/uploads/2025/10/NT5_2025.pdf, p. 4), aplica o art. 46.º-A ao ano seguinte às eleições, «Em qualquer dos casos», municípios e freguesias. Concorda. O Supremo Tribunal Administrativo, no acórdão de 30-07-2003, proc. 01205/03 (https://www.dgsi.pt/jsta.nsf/35fbbbf22e1bb1e680256f8e003ea931/1ffe3f9780f6eb6f80256daa0048496c?OpenDocument), descreveu o regime para o ano seguinte às eleições: mantinha-se em vigor o orçamento anterior, «com as revisões e alterações que entretanto tenham sido introduzidas», até à aprovação do novo. Concorda. Não se encontrou fonte que defenda um limite duodecimal para as autarquias.
+
+**Posição contrária.** Duas leituras restritivas. A primeira só permitiria gastar, em cada mês, um duodécimo das dotações do ano anterior. Não colhe: a lei não o diz, e o limite que o n.º 2 refere é o das «correspondentes dotações orçamentais», não uma fracção delas (inferência). A junta pode adoptar essa prudência como regra de gestão, mas não está obrigada a ela. A segunda limitaria a junta a actos de gestão corrente até haver orçamento novo. Também não colhe: a gestão limitada respeita ao período entre as eleições e a instalação dos novos órgãos (assim a CCDR Alentejo, no guião de 2013 sobre a transição das comunidades intermunicipais, invocando a Lei n.º 47/2005); instalada, a junta tem competência plena, e o que lhe falta, o orçamento, a lei supre com o anterior. A segunda leitura colhe em parte quanto aos investimentos: um projecto que não conste do plano plurianual prorrogado não pode ser iniciado sem revisão aprovada pela assembleia.
+
+**Consequências.**
+- A junta saída de eleições intercalares de novembro ou dezembro executa o orçamento e o plano do ano anterior e paga as despesas permanentes e os contratos em curso sem esperar pela assembleia.
+- As alterações dentro do orçamento prorrogado são da junta; a inclusão de projectos novos exige revisão aprovada pela assembleia.
+- O orçamento aprovado até abril integra a execução já feita, e as suas dotações têm de comportar o que já foi gasto.
+- O regime vale também para o atraso fora do art. 61.º, mas não o legitima: ver a anotação 3.
+
+**Fontes.** lei-73-2013-pgdl, ccdr-c-faq-freguesias, ccdr-a-nt5-2025, sta-2003-07-30-01205-03, ccdr-a-guiao-cim-2013
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**3. O atraso sem justificação expõe o órgão à dissolução; o art. 61.º desloca o prazo, não o dispensa — corpo, com a Lei n.º 27/96, art. 9.º, al. e)**
+
+**Questão.** Que consequências tem, para os órgãos, a falta de aprovação dos documentos previsionais até 1 de janeiro ou, no caso do art. 61.º, até ao fim de abril? Qual o órgão responsável, e o que conta como justificação?
+
+**Tese.** Pode ser dissolvido o órgão que, sem facto justificativo, não elabore ou não aprove o orçamento a tempo: a junta, se não apresenta a proposta; a assembleia, se não a aprova. O art. 61.º não dispensa o dever: substitui o 1 de janeiro pelo fim de abril. O ónus de provar a justificação cabe ao órgão demandado. Por inferência, a rejeição fundamentada de uma proposta não é, só por si, omissão culposa, mas obriga a junta a apresentar outra.
+
+**Fundamentação.**
+- *Letra:* pode ser dissolvido o órgão que «Não elabore ou não aprove o orçamento de forma a entrar em vigor no dia 1 de Janeiro de cada ano, salvo ocorrência de facto julgado justificativo» (Lei n.º 27/96, art. 9.º, al. e)). Não há sanção quando se verifiquem «causas que justifiquem o facto ou que excluam a culpa dos agentes» (art. 10.º, n.º 1). A Constituição só admite a dissolução por «acções ou omissões ilegais graves» (art. 242.º, n.º 3).
+- *Sistema:* a junta elabora e submete à assembleia as opções do plano e a proposta de orçamento (RJAL, art. 16.º, n.º 1, al. a)); a assembleia aprova-as (art. 9.º, n.º 1, al. a)) na quarta sessão ordinária, salvo o art. 61.º (art. 11.º, n.º 2). A dissolução é decidida pelos tribunais administrativos, em acção do Ministério Público, de qualquer membro do órgão ou de quem tenha interesse directo (Lei n.º 27/96, art. 11.º). A dissolução da assembleia de freguesia envolve a da junta, e quem votou contra pode integrar a comissão administrativa (art. 12.º, n.os 1, 2 e 4).
+- *Génese:* o art. 88.º da Lei n.º 169/99 abrangia as eleições gerais e as intercalares de novembro e dezembro; o RJAL manteve só estas (anotação 1). A jurisprudência formada sobre o regime anterior transpõe-se para o prazo do art. 61.º (inferência).
+- *Teleologia:* o orçamento é o instrumento de autorização e de controlo democrático da despesa.
+
+**Pareceres e jurisprudência.** O Supremo Tribunal Administrativo, no acórdão de 30-07-2003, proc. 01205/03 (https://www.dgsi.pt/jsta.nsf/35fbbbf22e1bb1e680256f8e003ea931/1ffe3f9780f6eb6f80256daa0048496c?OpenDocument), revogou a sentença que absolvera uma junta eleita em janeiro por a al. e) só falar do orçamento para 1 de janeiro. Entendeu que o prazo especial de abril integra o fundamento de dissolução e que a falta, sem motivo justificativo, de «oportuna elaboração e aprovação do orçamento» é «omissão ilegal grave» para efeitos do art. 242.º, n.º 3, da Constituição; decretou a dissolução. Concorda. No acórdão de 14-04-2004, proc. 0284/04 (https://www.dgsi.pt/jsta.nsf/35fbbbf22e1bb1e680256f8e003ea931/063a71b652424fb780256e82003d3e7f?OpenDocument), confirmou a dissolução de uma junta que não elaborou o orçamento a tempo, fez recair sobre o órgão a prova da causa justificativa ou da falta de culpa (Lei n.º 27/96, art. 10.º; Código Civil, art. 342.º, n.º 2) e considerou irrelevante a pequena dimensão da freguesia. Concorda. A CCDR Alentejo, na Nota Técnica n.º 5/2025 (https://www.ccdr-a.gov.pt/wp-content/uploads/2025/10/NT5_2025.pdf, p. 4, nota 4), nota que, nas freguesias, no ano seguinte às eleições gerais, vale a regra da quarta sessão; admite como defensável a analogia com os três meses do art. 45.º, n.º 2, do RFALEI, mas regista o entendimento da DGAL de que os documentos previsionais têm de estar aprovados, «no máximo, até ao final do ano anterior». Concorda em parte.
+
+**Posição contrária.** A sentença revogada em 2003 lia a al. e) à letra, só para o orçamento que deva vigorar a 1 de janeiro. Não colhe: essa leitura permitiria que, nos anos seguintes a actos eleitorais, não houvesse orçamento algum. Outra objecção protege a liberdade de voto: a assembleia que rejeita o orçamento exerce um poder político. Colhe em parte: a rejeição fundamentada de uma proposta não é omissão ilegal grave; a recusa sistemática, sem fundamento, que impeça qualquer orçamento no ano pode sê-lo (inferência; nenhuma fonte lida tratou a hipótese).
+
+**Consequências.**
+- A junta saída de eleições intercalares de novembro ou dezembro apresenta a proposta a tempo de a assembleia a votar até 30 de abril.
+- Nas freguesias, no ano seguinte às eleições gerais, não há prazo especial; a proximidade da instalação pode justificar um atraso curto, mas não dispensa a junta de apresentar a proposta logo que possível (inferência).
+- Perante rejeição, a junta apresenta nova proposta, podendo acolher as recomendações da assembleia (art. 9.º, n.º 3). A regra dos 30 dias que o tribunal retirou em 2003 do Decreto-Lei n.º 341/83 não se encontra no RFALEI; por inferência, a junta deve agir em prazo razoável.
+- A justificação prova-a o órgão: propostas, convocatórias e actas devem ficar documentadas, e o membro que votou contra deve fazê-lo constar da acta.
+
+**Fontes.** lei-27-1996, sta-2003-07-30-01205-03, sta-2004-04-14-0284-04, ccdr-a-nt5-2025, crp-integral
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ### Ver também
 
 - [Prazos no RJAL: contagem e consequências](https://bernardomvidal-web.github.io/temas/prazos-e-contagem/)
@@ -6164,6 +6342,7 @@ Salvo se a lei prescrever forma especial, o título dos direitos conferidos aos 
 - **Lei n.º 75/2013, Anexo I, art. 16.º, n.º 1, al. gg)** — Compete à junta conceder terrenos, nos cemitérios propriedade da freguesia, para jazigos, mausoléus e sepulturas perpétuas.
 - **Lei n.º 75/2013, Anexo I, art. 18.º, n.º 1, als. a), f), g) e l)** — O presidente da junta representa a freguesia, executa as deliberações e assina termos, atestados e certidões.
 - **Código do Procedimento Administrativo, art. 114.º e 160.º** — A notificação dos atos aos destinatários é autónoma da emissão do título.
+- **Decreto n.º 48770, de 18 de dezembro de 1968, art. 36.º** — Modelo de regulamento dos cemitérios paroquiais: alvará do presidente da junta, com averbamentos.
 
 ### Anotações
 
@@ -6188,6 +6367,31 @@ Salvo se a lei prescrever forma especial, o título dos direitos conferidos aos 
 **Fontes.** ccdr-a-31-2003
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. O alvará em falta: emissão tardia, regularização e averbamentos — corpo**
+
+**Questão.** Uma junta verifica que, durante anos, concedeu terrenos para sepulturas perpétuas cobrando o preço, mas sem emitir alvarás, e que muitas concessões passaram entretanto para herdeiros. Pode emitir agora os alvarás, a favor de quem, e com que base? E o que se averba no alvará?
+
+**Tese.** Pode e deve. O alvará é título, não constitutivo, e a sua falta não extingue o direito; o presidente emite-o a todo o tempo, a favor de quem seja hoje o titular. A emissão tardia exige identificar o acto que conferiu o direito e a cadeia das transmissões. Onde o acto originário não se encontre, mas a concessão resulte dos registos do cemitério e do pagamento, a junta delibera o reconhecimento da concessão, sem nova taxa, e só depois o presidente emite o alvará (inferência). As vicissitudes posteriores registam-se por averbamento.
+
+**Fundamentação.**
+- *Letra:* o alvará é «o título dos direitos conferidos aos particulares por deliberação dos órgãos das autarquias locais ou decisão dos seus titulares», expedido pelo respectivo presidente. Pressupõe um direito conferido; não o cria.
+- *Sistema:* a concessão de terrenos nos cemitérios da freguesia é competência da junta (art. 16.º, n.º 1, al. gg)); a transmissão segue o regulamento do cemitério, e a transmissão entre vivos depende de aprovação da junta (anotação 10 ao art. 16.º). No modelo de regulamento dos cemitérios paroquiais, ainda em vigor no que não contrarie o regime posterior, a concessão «será titulada por alvará do presidente da Junta de Freguesia», do qual constam a identificação e a morada do concessionário e a referência da sepultura, devendo mencionar-se «por averbamento, todas as entradas e saídas de restos mortais» (Decreto n.º 48770, art. 36.º e § único).
+- *Génese:* a regra do alvará vem do art. 94.º da Lei n.º 169/99 (anotação 1); o modelo de 1968 já a tinha para os cemitérios paroquiais.
+- *Teleologia:* dar ao titular e a terceiros prova actualizada do direito, e à junta um registo fiável da ocupação do cemitério.
+
+**Pareceres e jurisprudência.** A CCDR Alentejo, no Parecer n.º 44/2014, de 06-06-2014 (https://www.ccdr-a.gov.pt/app_ext/pareceres/printpdf.php?id=974), analisou precisamente uma freguesia que nunca emitira alvarás, limitando-se a passar guias de recebimento, e cujas concessões tinham passado a herdeiros. Considerou defensável emitir agora os alvarás aos actuais concessionários, com base no levantamento histórico de cada sepultura (ponto 4). Acrescentou que no alvará se averbam as entradas e saídas de restos mortais e as alterações do titular, por morte ou entre vivos (ponto 3). Concorda. O Supremo Tribunal Administrativo, no acórdão de 06-03-2002, proc. 046143 (https://www.dgsi.pt/jsta.nsf/35fbbbf22e1bb1e680256f8e003ea931/8b30cf6d85a88fa380256b7b00569982?OpenDocument), entendeu que a transmissão por sucessão legítima não necessita de consentimento da autarquia, mas que, entre vivos, a autorização é condição da eficácia do negócio (sumário, IV). É o critério para verificar a cadeia de transmissões antes de emitir o alvará.
+
+**Posição contrária.** Pode sustentar-se que, sem alvará, não houve concessão perpétua válida, e que a junta deveria tratar as sepulturas como temporárias ou abrir procedimento novo, com nova taxa. Não colhe: o alvará titula, não constitui (anotação 1), e o pagamento do preço fixado pela autarquia e o registo da inumação demonstram a concessão; exigir nova taxa seria cobrar duas vezes o mesmo direito. Colhe em parte quando não exista registo algum que comprove a concessão: aí não há direito a titular, e o alvará emitido sem deliberação que o suporte nada titula (anotação 1).
+
+**Consequências.**
+- A junta faz o levantamento de cada sepultura: acto ou registo originário, pagamento, inumações e transmissões conhecidas.
+- Transmissões por sucessão legítima averbam-se a pedido dos herdeiros, com a prova da qualidade; transmissões entre vivos sem aprovação da junta não se averbam enquanto não forem aprovadas.
+- Onde falte o acto originário, a junta delibera o reconhecimento da concessão; o presidente emite então o alvará, que reproduz a concessão e não a pode alterar.
+- O alvará extraviado substitui-se por segunda via, com menção dessa qualidade e dos averbamentos conhecidos (inferência).
+
+**Fontes.** ccdr-a-44-2014, decreto-48770-1968, sta-2002-03-06-046143
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 63.º — Natureza e fins
 
 1 - Podem ser instituídas associações públicas de autarquias locais para a prossecução conjunta das respetivas atribuições, nos termos da presente lei.
@@ -6201,6 +6405,7 @@ Salvo se a lei prescrever forma especial, o título dos direitos conferidos aos 
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 108.º a 110.º** — Constituição, estatutos e regime de direito público das associações de freguesias e de municípios de fins específicos.
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 9.º, n.º 1, al. k), e 16.º, n.º 1, al. uu)** — Na freguesia, a junta delibera sobre a constituição e participação e a assembleia autoriza.
 - **Lei n.º 175/99, de 21 de setembro, art. 1.º a 6.º e 16.º** — Regime comum das associações de freguesias de direito público, anterior ao RJAL e não revogado expressamente.
+- **Lei n.º 54/98, de 18 de agosto, art. 1.º a 4.º e 6.º** — Associações representativas dos municípios e das freguesias; podem constituir-se como pessoas colectivas privadas.
 
 ### Anotações
 
@@ -6228,6 +6433,31 @@ Salvo se a lei prescrever forma especial, o título dos direitos conferidos aos 
 **Fontes.** tc-296-2013, ccdr-c-56-2013, lei-175-1999, lei-11-2003, lei-45-2008, lei-75-2013-dr-original, crp-pgdl
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. As associações de representação das autarquias ficam fora do art. 63.º e podem ser privadas — n.os 1 e 2, com a Lei n.º 54/98**
+
+**Questão.** A anotação 1 conclui que todas as associações de autarquias do título III são públicas. Há, porém, associações que representam os municípios e as freguesias perante o Estado, constituídas como associações de direito privado. Pergunta-se se o RJAL as abrange ou as afastou, e se a freguesia pode ser associada de uma delas.
+
+**Tese.** O art. 63.º só abrange as associações que prosseguem em conjunto atribuições das autarquias. As associações de representação regem-se pela Lei n.º 54/98, que o RJAL não revogou e que admite expressamente a forma privada. A freguesia pode associar-se a elas, porque essa lei é a norma habilitante que, no caso geral, falta para a participação da freguesia em pessoas colectivas privadas (anotação 9 ao art. 9.º). A habilitação vale só para associações de autarquias com fins de representação.
+
+**Fundamentação.**
+- *Letra:* o n.º 1 permite instituir associações públicas de autarquias «para a prossecução conjunta das respetivas atribuições». A Lei n.º 54/98 dispõe que os municípios e as freguesias «podem associar-se, designadamente, para efeitos da sua representação institucional junto dos órgãos de soberania e da administração central» e da cooperação na participação em organizações internacionais (art. 1.º), e que as associações «podem constituir-se como pessoas colectivas privadas, nos termos da lei civil» (art. 2.º).
+- *Sistema:* o art. 3.º da lei preambular não revogou a Lei n.º 54/98. A prevalência do art. 1.º, n.º 2, do anexo só opera havendo conflito (anotação 2 ao art. 1.º), e não há: os objectos são diferentes, a prossecução conjunta de atribuições num caso, a representação no outro. As associações de carácter nacional adquirem o estatuto de parceiro do Estado, com consulta prévia nas iniciativas legislativas da sua competência e participação em organismos (Lei n.º 54/98, arts. 3.º e 4.º); o mandato dos titulares dos seus órgãos coincide com o dos autarcas (art. 6.º). O RJAL não diz que órgão da freguesia decide a adesão: as als. k) do art. 9.º, n.º 1, e uu) do art. 16.º, n.º 1, referem-se só às associações do capítulo IV do título III.
+- *Génese:* a Lei n.º 54/98 revogou o Decreto-Lei n.º 99/84 (art. 7.º) e é anterior à Lei n.º 169/99, cujo art. 17.º, n.º 2, al. f), autorizava a freguesia «a associar-se com outras, nos termos da lei». O RJAL de 2013 regulou o associativismo de fins específicos e as entidades intermunicipais e deixou intocado o da representação.
+- *Teleologia:* a representação do poder local perante o Estado não envolve o exercício de poderes públicos nem a gestão de atribuições, e pode, por isso, organizar-se segundo o direito privado.
+
+**Pareceres e jurisprudência.** A CCDR Centro, no Parecer DAJ 56/13, de 05-03-2013 (https://www.ccdrc.pt/pt/34150/), negou à freguesia a participação em associação de direito privado por falta de norma habilitante. Concorda como regra geral; o parecer não tratava das associações de representação, para as quais a Lei n.º 54/98 é norma expressa (inferência). Não se encontrou parecer nem decisão sobre a articulação da Lei n.º 54/98 com o RJAL.
+
+**Posição contrária.** Primeira leitura: o RJAL, ao regular «O regime jurídico do associativismo autárquico» (art. 1.º, n.º 1, al. d), da lei preambular) e ao qualificar as associações de autarquias como públicas, teria afastado as associações privadas de autarquias, incluindo as de representação. Não colhe: o art. 63.º define-se pelo fim de prosseguir atribuições em conjunto, e a lei especial de 1998 regula outro fim. Segunda leitura: o advérbio «designadamente» do art. 1.º da Lei n.º 54/98 permitiria à freguesia aderir a qualquer associação privada com fins representativos ou de cooperação. Colhe em parte: os fins enumerados são exemplos, mas a lei trata de associações «dos municípios e das freguesias», compostas por autarquias; não habilita a freguesia a ser associada de pessoas colectivas privadas com outros membros, que continuam sem base legal (anotação 9 ao art. 9.º; inferência).
+
+**Consequências.**
+- Uma freguesia pode ser associada de uma associação de freguesias de representação, constituída como pessoa colectiva privada, e pagar a respectiva quota, com cabimento no orçamento.
+- Na falta de norma do RJAL, a adesão deve ser deliberada pela junta e autorizada pela assembleia, por analogia com as als. k) do art. 9.º, n.º 1, e uu) do art. 16.º, n.º 1 (inferência).
+- Essas associações não estão sujeitas ao regime público do art. 110.º nem à tutela do art. 64.º, que se referem às associações do art. 63.º, n.º 2 (inferência).
+- A adesão a redes ou associações privadas com membros não autárquicos continua a exigir outra base legal; na falta dela, a relação faz-se por cooperação ou apoio.
+
+**Fontes.** lei-54-1998, ccdr-c-56-2013, lei-169-1999-v2011
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 64.º — Tutela administrativa
 
 As associações de autarquias locais estão sujeitas ao regime da tutela administrativa.
@@ -6238,6 +6468,9 @@ As associações de autarquias locais estão sujeitas ao regime da tutela admini
 - **Lei n.º 27/96 (tutela administrativa), art. 7.º a 11.º** — Perda de mandato e dissolução de órgãos, decididas pelos tribunais administrativos.
 - **Lei n.º 175/99, de 21 de setembro, art. 16.º** — A associação de freguesias está sujeita à tutela «nos mesmos termos que as autarquias locais».
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 71.º, n.º 1, al. g)** — O conselho metropolitano conhece e toma posição sobre os relatórios de acções tutelares.
+- **Decreto-Lei n.º 96/2012, de 23 de abril, art. 2.º, n.os 3 e 6** — A IGF efectua as inspecções, inquéritos e sindicâncias às autarquias e entidades equiparadas e instrui os processos de tutela.
+- **Decreto-Lei n.º 36/2023, de 26 de maio, art. 3.º, al. d), e 4.º, n.º 1, al. p)** — As CCDR apoiam tecnicamente as autarquias locais e as suas associações.
+- **Constituição da República Portuguesa, art. 242.º** — Tutela de legalidade, nas formas previstas na lei; dissolução só por acções ou omissões ilegais graves.
 
 ### Anotações
 
@@ -6262,6 +6495,30 @@ As associações de autarquias locais estão sujeitas ao regime da tutela admini
 - O órgão da associação que obste à acção inspectiva ou não aprove o orçamento a tempo fica exposto à acção de dissolução (Lei n.º 27/96, art. 9.º, als. b) e e)), proposta pelo Ministério Público ou por quem tenha interesse directo (art. 11.º, n.º 2). É inferência; nenhuma fonte lida aplicou a sanção a estas associações.
 
 **Fontes.** lei-27-1996, lei-46-2008, lei-45-2008, lei-175-1999, tc-296-2013
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. A tutela inspectiva: exerce-a o Governo pela IGF, verifica a legalidade e não anula actos — corpo, com a Lei n.º 27/96, arts. 3.º a 6.º**
+
+**Questão.** Quem exerce a tutela sobre as associações de autarquias, e sobre as próprias freguesias, por que meios e com que limites? Pode a entidade que inspecciona ordenar, suspender ou anular actos? E que papel têm as CCDR?
+
+**Tese.** A tutela sobre as associações de autarquias é a mesma que se exerce sobre as freguesias: só de legalidade. Compete ao Governo e é assegurada pela Inspeção-Geral de Finanças (IGF), através de inspecções segundo plano anual e de inquéritos e sindicâncias determinados pelo membro do Governo. Os relatórios vão a despacho governamental e, se for o caso, ao Ministério Público. A tutela não inclui o poder de dar ordens, suspender, revogar ou anular actos; as sanções e a invalidade discutem-se em tribunal. As CCDR prestam apoio técnico às autarquias e às suas associações e não exercem tutela inspectiva.
+
+**Fundamentação.**
+- *Letra:* o art. 64.º remete para «o regime da tutela administrativa». A tutela «consiste na verificação do cumprimento das leis e regulamentos» (Lei n.º 27/96, art. 2.º) e exerce-se por inspecções, inquéritos e sindicâncias, que a lei define (art. 3.º). «A tutela administrativa compete ao Governo» (art. 5.º). As inspecções seguem o plano anual; os inquéritos e as sindicâncias são determinados pelo membro do Governo; os relatórios são-lhe apresentados e remetidos, se for o caso, ao Ministério Público (art. 6.º, n.os 1 a 3).
+- *Sistema:* a Constituição define a tutela como verificação do cumprimento da lei, «exercida nos casos e segundo as formas previstas na lei» (art. 242.º, n.º 1). A IGF efectua as inspecções, inquéritos e sindicâncias às autarquias e entidades equiparadas, instrui os processos de tutela e analisa queixas e participações (Decreto-Lei n.º 96/2012, art. 2.º, n.º 3, als. a), c) e i)), na dependência funcional do membro do Governo das finanças, em articulação com o da administração local (n.º 6). As CCDR têm por missão, nesta matéria, «Apoiar tecnicamente as autarquias locais e as suas associações» (Decreto-Lei n.º 36/2023, arts. 3.º, al. d), e 4.º, n.º 1, al. p)). Antes de uma acção de dissolução ou de perda de mandato, os visados alegam em 30 dias, e a dissolução de um executivo exige parecer do deliberativo (Lei n.º 27/96, art. 6.º, n.os 4 e 5). A assembleia de freguesia e o conselho metropolitano tomam posição sobre os relatórios definitivos (RJAL, arts. 9.º, n.º 2, al. d), e 71.º, n.º 1, al. g)).
+- *Génese:* a Lei n.º 27/96 revogou a Lei n.º 87/89 (art. 18.º, n.º 1). O art. 5.º nomeia ministérios entretanto extintos; lê-se hoje à luz do art. 2.º, n.º 6, do Decreto-Lei n.º 96/2012 (inferência).
+- *Teleologia:* a autonomia local só admite controlo de legalidade; o Estado verifica, os tribunais sancionam.
+
+**Pareceres e jurisprudência.** A CCDR LVT, no Parecer Jurídico 1/CCDR LVT/2014 (https://www.ccdr-lvt.pt/wp-content/uploads/2022/03/35c7d8eae7361e02baf5cac123d2fff8ed539538.pdf), respondeu a uma junta que lhe pedia uma auditoria à gestão anterior: o apoio técnico das CCDR «não compreende» auditorias; as inspecções, inquéritos e sindicâncias e a análise de queixas cabem à IGF; o Tribunal de Contas pode auditar as juntas (conclusões 1 a 3). Concorda. O parecer assenta na orgânica das CCDR anterior a 2023; a de 2023 manteve a função de apoio técnico. O Supremo Tribunal Administrativo, no acórdão de 30-07-2003, proc. 01205/03 (https://www.dgsi.pt/jsta.nsf/35fbbbf22e1bb1e680256f8e003ea931/1ffe3f9780f6eb6f80256daa0048496c?OpenDocument), qualificou a dissolução como «a medida de tutela mais severa», decretada pelo tribunal em acção do Ministério Público. Concorda quanto à natureza jurisdicional das sanções. Não se encontrou parecer nem decisão sobre uma acção inspectiva a uma associação de freguesias ou a uma entidade intermunicipal.
+
+**Posição contrária.** Duas leituras mais amplas. A primeira atribui às CCDR um papel tutelar sobre as entidades intermunicipais, por serem parceiras na gestão de fundos regionais. Não colhe: o art. 64.º remete para a Lei n.º 27/96, que só conhece a tutela do Governo, e o controlo próprio dos programas de financiamento tem outra natureza (inferência). A segunda vê nos poderes da IGF de instruir os órgãos sobre os procedimentos adequados e de propor medidas de correcção (Decreto-Lei n.º 96/2012, art. 2.º, n.º 3, als. d) e k)) um poder de dar ordens. Não colhe: a Lei n.º 27/96 não prevê injunções, suspensão nem anulação. Colhe em parte: o órgão que obste à acção inspectiva ou recuse informações incorre em fundamento de dissolução (art. 9.º, al. b)).
+
+**Consequências.**
+- Uma associação de freguesias ou uma entidade intermunicipal inspeccionada faculta informações, documentos e acesso aos serviços (Lei n.º 27/96, art. 4.º).
+- O relatório não anula nada. As ilegalidades apuradas seguem para o Ministério Público, que pode propor as acções de perda de mandato ou de dissolução e, quanto aos actos, os meios contenciosos gerais (inferência).
+- Uma junta que pretenda o exame da gestão anterior não o pede à CCDR: participa os factos à IGF ou recorre ao Tribunal de Contas.
+
+**Fontes.** lei-27-1996, dl-96-2012, dl-36-2023, ccdr-lvt-1-2014, sta-2003-07-30-01205-03, crp-integral
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 65.º — Abandono de associações de autarquias locais
@@ -6363,6 +6620,31 @@ As associações de autarquias locais estão sujeitas ao regime da tutela admini
 **Fontes.** tc-296-2013, lei-46-2008, lei-45-2008, lei-24-a-2022, lei-75-2013-dr-original
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. A pertença legal não traz responsabilidade pelas dívidas: o que o município suporta — n.º 1**
+
+**Questão.** Os municípios do anexo II pertencem à área metropolitana por força da lei e não a podem abandonar (anotação 1). Pergunta-se se dessa pertença decorre um dever de financiar a área metropolitana na medida das suas necessidades e de responder pelas dívidas que ela contraia.
+
+**Tese.** Não decorre. A área metropolitana tem património e finanças próprios e responde sozinha pelas suas dívidas. O município suporta o que a lei ou uma deliberação válida lhe imputem: a parte das despesas não cobertas por receitas próprias fixada por deliberação unânime do conselho (art. 71.º, n.os 1, al. n), e 3), as transferências relativas às competências que ele próprio delegue e, só para o seu limite de endividamento, a parte da dívida metropolitana que lhe caiba. A responsabilidade subsidiária dos municípios, prevista nas leis de 2003 e 2008, não passou para o regime actual. É inferência: não se encontrou fonte que trate o ponto.
+
+**Fundamentação.**
+- *Letra:* o n.º 1 identifica as áreas metropolitanas pelo anexo II e nada diz sobre encargos dos municípios.
+- *Sistema:* «A entidade intermunicipal dispõe de património e finanças próprios» (RFALEI, art. 68.º, n.º 1); os seus recursos incluem as contribuições e transferências dos municípios (n.º 3, al. a)), transferências do Orçamento do Estado (art. 69.º, n.º 1, al. a)) e receitas próprias, e pode contrair empréstimos (art. 70.º, n.º 1), sem garantia legal dos municípios. A sua dívida conta para o limite de cada município segundo critério dos seus órgãos deliberativos com o acordo expresso das assembleias municipais ou, na falta dele, «de forma proporcional à quota de cada município para as suas despesas de funcionamento» (art. 54.º, n.º 1, al. b)). As deliberações vinculam os municípios (art. 105.º, n.º 1), mas a despesa municipal faz-se pelos órgãos do município e dentro da lei (anotação 1 ao art. 105.º).
+- *Génese:* na Lei n.º 46/2008, a imputação das despesas com pessoal e dos encargos com o endividamento carecia de aprovação ou do acordo expresso das assembleias municipais (arts. 11.º, al. m), 21.º, n.º 2, e 26.º, n.º 4), e «Os municípios são subsidiariamente responsáveis pelo pagamento das dívidas contraídas pelas associações de municípios que integram, na proporção da população residente» (art. 26.º, n.º 5). Havia regra igual para as comunidades intermunicipais (Lei n.º 45/2008, art. 27.º, n.º 4) e, antes, na Lei n.º 11/2003 (art. 7.º, n.º 4). O RFALEI manteve a relevância da dívida para os limites municipais e deixou cair a responsabilidade subsidiária.
+- *Teleologia:* imposta a pertença, a lei protege cada município contra encargos que não aceitou: a unanimidade dá-lhe um veto sobre a imputação, e a falta de responsabilidade subsidiária impede que a dívida de uma entidade que não controla sozinho recaia sobre o seu património.
+
+**Pareceres e jurisprudência.** O Tribunal Constitucional, no Acórdão n.º 296/2013, de 28-05-2013 (https://www.tribunalconstitucional.pt/tc/acordaos/20130296.html), contou o poder de imputar aos municípios as despesas não cobertas por receitas próprias entre os «poderes relativos aos municípios» que indiciavam, nas comunidades do decreto, «poderes supramunicipais». Apoia, por inferência, a leitura restritiva desse poder. A CCDR Centro, no Parecer DSAJAL 5/17, de 11-01-2017 (https://www.ccdrc.pt/pt/34228/), concluiu que a vinculação dos municípios não os pode fazer «incorrer em violação de lei», designadamente quanto aos fundos disponíveis. Concorda. Não se encontrou parecer nem decisão sobre a responsabilidade dos municípios pelas dívidas das entidades intermunicipais depois de 2013.
+
+**Posição contrária.** Sendo a pertença obrigatória e as deliberações vinculativas, cada município teria de cobrir, na proporção que a maioria do conselho fixasse no orçamento, as necessidades da área metropolitana, e os credores poderiam, em última linha, voltar-se para os municípios. Não colhe. O orçamento é aprovado pela maioria dupla do art. 105.º (art. 71.º, n.º 1, al. c)), mas a repartição dos encargos entre os municípios é a «forma de imputação» da al. n), que exige unanimidade; a contribuição distribuída sem esse acordo não é exigível ao município que o recusou (inferência). A responsabilidade por dívida alheia precisa de fonte legal, e a que existia foi suprimida; o art. 54.º do RFALEI é regra de contabilização, não de responsabilidade perante credores.
+
+**Consequências.**
+- O credor da área metropolitana demanda a área metropolitana, e não os municípios (inferência).
+- O município que vote a imputação unânime fica vinculado à sua parte, que inscreve no orçamento e compromete pelos seus órgãos; sem fundos disponíveis, não assume o compromisso.
+- Sem imputação unânime, a área metropolitana vive das receitas próprias, das transferências do Estado e das contribuições que cada município aceite.
+- A dívida metropolitana pesa no limite de endividamento de cada município, mesmo sem responsabilidade pelo seu pagamento.
+
+**Fontes.** lei-73-2013-pgdl, lei-46-2008, lei-45-2008, lei-11-2003, tc-296-2013, ccdr-c-5-2017
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 67.º — Atribuições das áreas metropolitanas
 
 1 - As áreas metropolitanas visam a prossecução dos seguintes fins públicos:
@@ -6405,7 +6687,7 @@ i) Rede de equipamentos culturais, desportivos e de lazer.
 
 **Fundamentação.**
 - *Letra:* os verbos do n.º 1 são «participar», «promover o planeamento», «articular», «planear»; o n.º 2 manda «assegurar a articulação das atuações entre os municípios e os serviços da administração central». O n.º 3 acrescenta as «atribuições transferidas pela administração central e o exercício em comum das competências delegadas pelos municípios».
-- *Sistema:* a delegação dos municípios nas entidades intermunicipais faz-se por contrato (arts. 117.º, n.º 2, e 128.º). A transferência de competências do Estado faz-se por lei (art. 111.º). A área metropolitana não é delegante perante as freguesias: o art. 117.º, n.º 2, só prevê a delegação dos órgãos dos municípios «nos órgãos das freguesias e das entidades intermunicipais». Desde 2022, as comunidades intermunicipais em território metropolitano só prosseguem o planeamento estratégico e a gestão de fundos, com faculdade de delegação na área metropolitana, e recebem as atribuições que esta lhes delegue (art. 81.º, n.os 4 a 6).
+- *Sistema:* a delegação dos municípios nas entidades intermunicipais faz-se por contrato (arts. 117.º, n.º 2, e 128.º). A transferência de competências do Estado faz-se por lei (art. 111.º). A área metropolitana não é delegante perante as freguesias: o art. 117.º, n.º 2, só prevê a delegação dos órgãos dos municípios «nos órgãos das freguesias e das entidades intermunicipais». Ressalva-se a lei especial dos transportes, que admite delegação «noutras entidades públicas» (anotação 2). Desde 2022, as comunidades intermunicipais em território metropolitano só prosseguem o planeamento estratégico e a gestão de fundos, com faculdade de delegação na área metropolitana, e recebem as atribuições que esta lhes delegue (art. 81.º, n.os 4 a 6).
 - *Génese:* o texto reproduz o art. 4.º da Lei n.º 46/2008. A Lei n.º 24-A/2022 só mudou a al. d) do n.º 1, que referia o «Quadro de Referência Estratégico Nacional (QREN)» e passou a referir «fundos europeus» (art. 2.º). A mesma lei mandou a área metropolitana exercer transitoriamente as atribuições das novas comunidades intermunicipais do seu território, até à sua constituição (art. 7.º).
 - *Teleologia:* a área metropolitana coordena o que excede um município sem substituir os municípios nas suas atribuições.
 
@@ -6418,6 +6700,30 @@ i) Rede de equipamentos culturais, desportivos e de lazer.
 - As freguesias não recebem delegação da área metropolitana; a cadeia passa pelo município, que pode delegar nelas as suas competências próprias (art. 117.º, n.º 2). É inferência da letra; não se encontrou fonte.
 
 **Fontes.** ccdr-c-5-2017, lei-46-2008, lei-24-a-2022
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. Transportes: a área metropolitana como autoridade de transportes por lei especial — n.º 2, al. f), e n.º 3**
+
+**Questão.** Em «Mobilidade e transportes», o n.º 2, al. f), só confia à área metropolitana a articulação entre os municípios e a administração central. Pergunta-se se ela tem aí poderes próprios de decisão, como se repartem com os dos municípios e por que via passam de um nível para o outro.
+
+**Tese.** Tem. Por força da Lei n.º 52/2015, a área metropolitana é a autoridade de transportes competente quanto aos serviços públicos de transporte de passageiros intermunicipais que se desenvolvam integral ou maioritariamente na sua área. É uma atribuição transferida por lei, no sentido do n.º 3, que não depende de delegação dos municípios. Os serviços municipais continuam a ser dos municípios, e os reservados ao Estado, do Estado; entre esses níveis, as competências só passam por contrato de delegação ou de partilha, nos termos do RJAL.
+
+**Fundamentação.**
+- *Letra:* o n.º 2 manda «assegurar a articulação das atuações» na «Mobilidade e transportes» (al. f)); o n.º 3 refere as «atribuições transferidas pela administração central» e o «exercício em comum das competências delegadas pelos municípios».
+- *Sistema:* a Lei n.º 52/2015 extinguiu as autoridades metropolitanas de transportes e fez as áreas metropolitanas suceder-lhes, «passando a dispor, no domínio do transporte público de passageiros, das atribuições e competências estabelecidas no RJSPTP» (art. 3.º, n.os 1 e 2). O RJSPTP fá-las autoridades quanto aos serviços intermunicipais que se desenvolvam «integral ou maioritariamente na respetiva área geográfica» (art. 8.º, n.º 1), com as competências do art. 4.º, n.º 2, incluindo a exploração, os tarifários e o financiamento. Os municípios são as autoridades quanto aos serviços municipais e podem delegar essas competências nas áreas metropolitanas (art. 6.º); o Estado mantém os serviços do art. 5.º. A delegação e a partilha fazem-se, designadamente, por contrato interadministrativo (art. 10.º, n.os 1 e 2), «nos termos previstos na Lei n.º 75/2013» quando envolvam municípios e áreas metropolitanas (n.º 4), com remessa ao IMT (n.º 8). A área metropolitana exerce-as pelos seus órgãos ou por serviços intermunicipalizados e pode delegá-las «noutras entidades públicas» (art. 8.º, n.os 2 a 4). Os arts. 6.º, 8.º e 10.º mantêm a redacção original na versão consolidada. A Lei n.º 50/2018 manda as áreas metropolitanas exercer as competências transferidas para as entidades intermunicipais (art. 42.º), entre elas o planeamento intermunicipal da rede de transporte escolar (art. 31.º, n.º 1).
+- *Génese:* o art. 67.º reproduz o art. 4.º da Lei n.º 46/2008 (anotação 1), que, em transportes, só previa a participação em entidades públicas (al. f)); a qualidade de autoridade chegou em 2015.
+- *Teleologia:* os serviços que atravessam vários municípios pedem uma autoridade única; o serviço confinado a um município fica com quem responde por ele.
+
+**Pareceres e jurisprudência.** A Autoridade da Mobilidade e dos Transportes, no Parecer n.º 67/2019, de 19-12-2019 (https://amt-autoridade.pt/media/3374/parecer_n67_19dez2019_cmporto.pdf), deu parecer favorável condicionado a instrumentos que incluíam um contrato pelo qual uma área metropolitana delegava nos municípios atravessados por um serviço intermunicipal as suas competências de autoridade de transportes sobre ele, celebrado «Ao abrigo do disposto nos artigos 8.º, n.º 4, e 10.º do RJSPTP» e dos arts. 116.º a 123.º e 128.º a 130.º do RJAL (n.º 44 e nota 25, p. 20). Não discutiu a base legal, mas pressupõe que a competência é própria da área metropolitana. Não se encontrou parecer de CCDR nem jurisprudência sobre esta repartição.
+
+**Posição contrária.** O n.º 2, al. f), e o n.º 3 só permitiriam à área metropolitana articular e exercer o que lhe seja transferido ou delegado; nos serviços que correm em território municipal, cederia a cada município. Não colhe: a Lei n.º 52/2015 é a transferência legal de que fala o n.º 3, e o critério do art. 8.º, n.º 1, do RJSPTP é o do âmbito do serviço, não o do território atravessado. Colhe quanto aos serviços municipais, que só por contrato passam para a área metropolitana.
+
+**Consequências.**
+- Um município não cria nem contrata, por si, um serviço que se desenvolva maioritariamente entre vários municípios da área; o acto é, por inferência, nulo por falta de atribuições (CPA, art. 161.º, n.º 2, al. b)).
+- Para entregar à área metropolitana os seus serviços municipais, o município celebra contrato de delegação ou de partilha, autorizado pela assembleia municipal (art. 25.º, n.º 1, al. k)) e pelo conselho metropolitano (art. 71.º, n.º 1, al. i)), e remete-o ao IMT.
+- A regra de que a área metropolitana não delega nas freguesias (anotação 1) é a do RJAL. Nos transportes, a lei especial admite a delegação «noutras entidades públicas», mas manda seguir o RJAL com adaptações (RJSPTP, arts. 8.º, n.º 4, e 10.º, n.º 4); a delegação numa freguesia fica em aberto. As freguesias não são autoridades de transportes; por inferência, só intervêm por delegação do município (RJSPTP, art. 10.º, n.º 1; art. 117.º, n.º 2).
+
+**Fontes.** lei-52-2015, lei-52-2015-dre, lei-50-2018, amt-67-2019, lei-46-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 68.º — Órgãos
@@ -6455,6 +6761,30 @@ São órgãos da área metropolitana o conselho metropolitano, a comissão execu
 **Fontes.** lei-46-2008, tc-296-2013
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. Conselho e comissão executiva: sem hierarquia, sem avocação, sem recurso — corpo**
+
+**Questão.** O conselho metropolitano pode demitir a comissão executiva. Pergunta-se se o conselho pode dar ordens à comissão, avocar, revogar ou anular os actos desta e conhecer de recursos contra eles, e se a cláusula geral do art. 71.º, n.º 1, al. dd), lhe permite decidir matérias que a lei confia à comissão.
+
+**Tese.** Não pode. Entre os dois órgãos não há hierarquia: cada um exerce as competências que a lei lhe atribui, e o art. 44.º, aplicável por força do art. 104.º, impede que um suspenda, modifique, revogue ou anule as deliberações do outro fora dos casos legais. O conselho orienta pelos instrumentos que aprova, autoriza o que a lei sujeita a autorização, fiscaliza e pode demitir a comissão. Não lhe dá instruções nos actos da competência própria desta, não os avoca e não conhece de recursos contra eles, que a lei não prevê. A al. dd) é residual.
+
+**Fundamentação.**
+- *Letra:* o artigo enumera três órgãos sem os ordenar entre si. O conselho é «o órgão deliberativo» (art. 69.º, n.º 1) e a comissão «o órgão executivo» (art. 73.º, n.º 1).
+- *Sistema:* o conselho define as opções estratégicas, aprova o plano, o orçamento e os regulamentos externos, autoriza concessões e operações sobre imóveis, fiscaliza a comissão e pode demiti-la (art. 71.º, n.º 1, als. b), c), e), m), v) e x), e n.º 2). A comissão tem competências próprias (art. 76.º, n.º 1), assegura o cumprimento das deliberações do conselho (al. ee)) e responde também perante as assembleias municipais, que a elegem e a podem convocar e censurar (arts. 25.º, n.º 5, e 74.º). As deliberações dos órgãos «só podem ser suspensas, modificadas, revogadas ou anuladas nos termos da lei» (art. 44.º; anotação 1 ao art. 104.º). Revogam e anulam o autor, o superior hierárquico e o delegante; o órgão competente pode anular o acto que outro praticou na sua esfera (CPA, art. 169.º, n.os 2 a 4 e 6). Os recursos para órgão com poderes de supervisão ou para o delegante só existem «Nos casos expressamente previstos na lei» (CPA, art. 199.º, n.os 1, al. a), e 2), e o RJAL não prevê recurso dos actos da comissão para o conselho.
+- *Génese:* na Lei n.º 46/2008, a comissão executiva era uma estrutura «responsável pela execução das deliberações da assembleia metropolitana e das linhas orientadoras definidas pela junta metropolitana» (art. 16.º, n.º 1), designada pela junta (n.º 2) e com competências delegadas por esta (art. 17.º, n.º 1, al. b)). O RJAL fez dela órgão executivo eleito nas assembleias municipais, com competências próprias; o conselho deixou de designar os seus membros e ficou com a demissão, que obriga a nova eleição (art. 102.º, n.º 2).
+- *Teleologia:* a comissão tem legitimidade própria, vinda das assembleias municipais; a sua responsabilidade perante o conselho é política, não de gestão.
+
+**Pareceres e jurisprudência.** Não se encontrou parecer nem decisão sobre a relação entre os dois órgãos metropolitanos. Quanto aos órgãos autárquicos, cujo regime o art. 104.º manda aplicar, a CCDR Norte, na INF_DSAJAL_TL_10698/2021, de 28-09-2021 (https://www.ccdr-n.pt/storage/app/media/assembleia-de-freguesia-competencias.pdf), afirmou que os órgãos da freguesia «exercem autónoma e soberanamente as suas competências, sendo independentes entre si» (p. 3). A CCDR Alentejo, no Parecer 54/2004 (Informação 237-DRAL/04), de 25-05-2004 (https://www.ccdr-a.gov.pt/app_ext/pareceres/printpdf.php?id=370), ainda sob a Lei n.º 169/99, entendeu que o órgão que pratica actos «dentro das competências de outro órgão» incorre em incompetência, «cuja sanção jurídica é a anulabilidade». Ambos concordam, por analogia.
+
+**Posição contrária.** O conselho pode demitir a comissão e deliberar «sobre todos os assuntos que visem a prossecução das atribuições da área metropolitana» (art. 71.º, n.º 1, al. dd)); quem pode o mais, demitir, poderia o menos, ordenar ou revogar. Não colhe. A demissão é um poder político cujo efeito é nova eleição pelas assembleias municipais, não a gestão pelo conselho. A cláusula geral não retira a outro órgão as competências que a lei lhe deu em especial (art. 76.º); vale para o que ninguém mais tenha a seu cargo e para tomadas de posição, com valor de recomendação (cf. a anotação 2 ao art. 44.º).
+
+**Consequências.**
+- A deliberação do conselho que revogue, suspenda ou altere uma adjudicação ou outro acto da competência própria da comissão é inválida; pelo critério da incompetência relativa, anulável (inferência), e a comissão pode impugná-la (CPTA, art. 55.º, n.º 1, al. d)).
+- Quem discorde de um acto da comissão reclama para ela ou impugna-o em tribunal; não há recurso para o conselho. Dos actos do primeiro-secretário em competência delegada cabe, por inferência, recurso para a comissão (art. 34.º, n.º 2, por força do art. 104.º).
+- O conselho que discorde da gestão pede informação, recusa as propostas que dependam da sua aprovação e, no limite, demite a comissão (art. 71.º, n.º 2).
+
+**Fontes.** lei-46-2008, cpa-2015-pgdl, cpta-pgdl, ccdr-n-10698-2021, ccdr-a-54-2004
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 69.º — Natureza e constituição
 
 1 - O conselho metropolitano é o órgão deliberativo da área metropolitana.
@@ -6484,14 +6814,39 @@ São órgãos da área metropolitana o conselho metropolitano, a comissão execu
 
 **Pareceres e jurisprudência.** O STA, no acórdão de 20-11-2014, proc. 0923/14 (https://jurisprudencia.pt/acordao/262565/), julgou que a eleição do presidente de um conselho metropolitano é uma deliberação sujeita ao art. 105.º e que o quórum se rege pelo art. 54.º, por remissão do art. 104.º, e não pelo CPA. O quórum conta-se pelos membros, e não pelos eleitores que representam. Declarou nula a eleição feita quando só metade dos membros estava presente. Concorda. O mesmo tribunal, no acórdão de 10-09-2014, proc. 0728/14 (https://www.dgsi.pt/jsta.nsf/35fbbbf22e1bb1e680256f8e003ea931/2dae3818b00df12b80257d5d003e5510), já decidira que a eleição dos vice-presidentes é uma deliberação e segue o art. 105.º, por a lei não a ter regulado de modo diferente. Concorda. O TCA Sul, no acórdão de 24-04-2014, proc. 10949/14 (https://www.dgsi.pt/jtca.nsf/-/2BFFC2C435E54CBA80257CC900349FC5), revogado pelo acórdão de 20-11-2014, aplicara à eleição do presidente a maioria ponderada, mas admitira, antes de o conselho ter presidente, o quórum de um terço da segunda convocação do CPA de 1991 (art. 22.º, n.º 2). Concorda quanto à maioria e diverge quanto ao quórum. A CCDR Centro, no Parecer DSAJAL 5/17, de 11-01-2017 (https://www.ccdrc.pt/pt/34228/), sobre o conselho intermunicipal, qualificou a composição como inerência de cargo e o presidente de câmara como «titular simultâneo de dois cargos». Estendeu o juízo expressamente ao conselho metropolitano. Concorda. Não se encontrou fonte sobre a substituição do presidente de câmara no conselho.
 
-**Posição contrária.** O vice-presidente da câmara nunca teria assento: a substituição do art. 57.º, n.º 3, da Lei n.º 169/99 opera dentro da câmara, e o conselho é órgão de outra pessoa colectiva. Colhe em parte. Fora da falta ou impedimento do presidente, o vice-presidente não tem assento, nem por delegação. Mas a inerência liga o lugar ao exercício do cargo, e quem exerce legalmente as funções de presidente nesse período exerce o cargo. A questão está em aberto.
+**Posição contrária.** O vice-presidente da câmara nunca teria assento: a substituição do art. 57.º, n.º 3, da Lei n.º 169/99 opera dentro da câmara, e o conselho é órgão de outra pessoa colectiva. Colhe em parte. Fora da falta ou impedimento do presidente, o vice-presidente não tem assento, nem por delegação. Mas a inerência liga o lugar ao exercício do cargo, e quem exerce legalmente as funções de presidente nesse período exerce o cargo. A CCDR Centro, no Parecer DSAJAL 218/19, de 19-11-2019, aceitou essa substituição no conselho intermunicipal, de composição análoga (ver as anotações aos arts. 101.º e 104.º); a mesma solução vale, por identidade de razão, para o conselho metropolitano (inferência).
 
 **Consequências.**
 - A eleição do presidente por maioria simples de membros, sem a verificação da representação dos eleitores, viola o art. 105.º. A tomada sem quórum é nula (CPA, art. 161.º, n.º 2, al. h)).
 - O presidente de câmara não pode mandatar um vereador para o representar no conselho.
 - Eleito novo presidente de câmara, este entra no conselho sem eleição nem posse próprias.
 
-**Fontes.** sta-2014-11-20-0923-14, sta-2014-09-10-0728-14, tcas-2014-04-24-10949-14, ccdr-c-5-2017, lei-46-2008, lei-169-1999-v2011
+**Fontes.** sta-2014-11-20-0923-14, sta-2014-09-10-0728-14, tcas-2014-04-24-10949-14, ccdr-c-5-2017, lei-46-2008, lei-169-1999-v2011, ccdr-c-218-2019
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. O presidente de câmara vota as deliberações que respeitam ao seu município — n.º 2**
+
+**Questão.** O conselho é composto pelos presidentes das câmaras, e o voto de cada um vale pelos eleitores do seu município (art. 105.º, n.º 3). O CPA impede quem tenha interesse no procedimento «por si, como representantes ou como gestores de negócios de outra pessoa». Pergunta-se se o presidente de câmara está impedido de votar as deliberações que respeitam em especial ao seu município, como a imputação de despesas ou um contrato com esse município.
+
+**Tese.** Não está, só por isso. A composição por inerência faz do conselho o lugar onde os interesses municipais se confrontam e harmonizam, e a lei chega a exigir a unanimidade de todos nas decisões que oneram cada município (art. 71.º, n.º 3). O interesse institucional do município que o presidente dirige não é o interesse alheio de que fala o CPA. Está impedido quando haja interesse pessoal, seu ou de familiar, nos termos gerais. É inferência, apoiada por analogia no parecer da PGR sobre os presidentes de junta na assembleia municipal.
+
+**Fundamentação.**
+- *Letra:* o conselho «é constituído pelos presidentes das câmaras municipais dos municípios que integram a área metropolitana» (n.º 2).
+- *Sistema:* a imputação das despesas aos municípios e a cobrança dos impostos municipais pela área metropolitana exigem unanimidade (art. 71.º, n.os 1, als. n) e o), e 3); respeitam directamente a cada município, e a unanimidade pressupõe que todos votam. O CPA impede quem intervenha com interesse próprio, como representante ou gestor de negócios de outra pessoa, ou com interesse de familiar (art. 69.º, n.º 1, als. a) e b)); o Estatuto dos Eleitos Locais tem regra paralela (Lei n.º 29/87, art. 4.º, al. b), iv)). O impedido não está presente na discussão nem na votação (art. 55.º, n.º 6, por força do art. 104.º). Os contratos da área metropolitana são outorgados pelo primeiro-secretário (art. 76.º, n.º 3).
+- *Génese:* na Lei n.º 46/2008, a junta metropolitana, formada pelos presidentes de câmara, era o «órgão representativo das câmaras municipais da área metropolitana» (art. 13.º, n.º 1). O RJAL manteve a composição e fez desse colégio o órgão deliberativo.
+- *Teleologia:* o impedimento protege a imparcialidade contra interesses pessoais, não contra o interesse público municipal que a lei quis presente no órgão.
+
+**Pareceres e jurisprudência.** O Conselho Consultivo da PGR, no Parecer n.º 28/2024 (https://www.ministeriopublico.pt/sites/default/files/2024-11/pp_28_2024_0.pdf), concluiu que o presidente da junta, que integra a assembleia municipal por inerência e não como representante da freguesia, numa entidade de «coordenação de interesses», não está impedido de votar contratos ou apoios relativos à sua freguesia, salvo interesse económico ou pessoal, seu ou de familiar (conclusões 14.ª a 18.ª, pp. 60-61). Concorda, por analogia. A DGAL, nas soluções interpretativas da reunião de coordenação jurídica de 07-04-2021 (https://ccdr-a.gov.pt/wp-content/uploads/2022/12/SIU-RCJ-07-04-2021-003.pdf), entendeu que o presidente da junta «deve considerar-se impedido» quando a assembleia municipal decide sobre a sua freguesia (pp. 3-4). Diverge, por analogia. A CCDR Centro, no Parecer DSAJAL 218/19, de 19-11-2019 (https://www.ccdrc.pt/wp-content/uploads/2020/03/2019-11-19-Parecer-DSAJAL-218-19-rvf-589.pdf, p. 5), viu no interesse intermunicipal o «produto do cruzamento e harmonização» dos interesses dos municípios e disse que o presidente de câmara integra o conselho por ser titular de um cargo que lhe confere a representação do município. Não tratou do impedimento; a premissa apoia a tese, a qualificação como representante serve a posição contrária. Não se encontrou decisão judicial sobre o ponto.
+
+**Posição contrária.** O presidente de câmara representa o município (art. 35.º, n.º 1, al. a)), e o CPA impede quem tenha interesse «como representante» de outra pessoa; num contrato entre a área metropolitana e o município estaria dos dois lados. É a leitura da DGAL para os presidentes de junta, e o argumento literal é forte. Não colhe. No conselho, o presidente de câmara não age em nome do município, mas como membro, por inerência, de um órgão de outra pessoa colectiva; a vinculação do município resulta da lei e não de mandato seu (CCDR Centro, Parecer DSAJAL 5/17, de 11-01-2017, https://www.ccdrc.pt/pt/34228/). Levado a sério, o impedimento tornaria impossível a unanimidade do art. 71.º, n.º 3, e, como os eleitores do impedido continuam no universo do art. 105.º, n.º 2, dificultaria qualquer deliberação relativa a um município populoso.
+
+**Consequências.**
+- O presidente de câmara discute e vota a imputação de despesas ao seu município e a autorização de contratos com ele.
+- Está impedido, e sai da sala, quando ele, o cônjuge ou um parente tenham interesse pessoal no assunto, por exemplo como contraentes da área metropolitana; a deliberação em que intervenha é anulável (ver a anotação 4 ao art. 55.º).
+- Na deliberação de que se afaste, os eleitores do seu município contam no universo total do art. 105.º, n.º 2, mas não entre os votos favoráveis (inferência).
+- O mesmo regime vale para quem o substitua legalmente no conselho (ver a anotação 1 ao art. 101.º).
+
+**Fontes.** pgr-28-2024, dgal-siu-2021-04-07, ccdr-c-218-2019, ccdr-c-5-2017, cpa-2015-pgdl, lei-29-1987-pgdl, lei-46-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 70.º — Reuniões
@@ -6534,6 +6889,30 @@ São órgãos da área metropolitana o conselho metropolitano, a comissão execu
 - A falta de quórum leva a nova reunião ordinária, convocada nos termos do RJAL, e não a uma segunda convocatória com quórum reduzido.
 
 **Fontes.** sta-2014-11-20-0923-14, lei-46-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. Reuniões extraordinárias a requerimento de um terço: prazos e convocação pelos requerentes — n.º 2**
+
+**Questão.** O n.º 2 admite reuniões extraordinárias por iniciativa do presidente ou a requerimento de um terço dos membros, mas não diz em que prazo o presidente convoca, com que antecedência, nem o que podem fazer os requerentes perante a sua inércia. Pergunta-se que regime supletivo se aplica: o da assembleia municipal, por o conselho ser o órgão deliberativo, ou o da câmara.
+
+**Tese.** Aplica-se, com adaptações, o regime das reuniões extraordinárias da câmara municipal (art. 41.º), por força do art. 104.º. O terço conta-se pelo número legal de membros, não pelos eleitores representados. O presidente está vinculado: convoca para um dos oito dias seguintes à recepção do requerimento, com pelo menos dois dias de antecedência, e inclui na ordem do dia os assuntos requeridos. Se não o fizer, os requerentes convocam directamente. A reunião só funciona com o quórum do art. 54.º.
+
+**Fundamentação.**
+- *Letra:* o conselho «reúne extraordinariamente por iniciativa do seu presidente ou após requerimento de um terço dos seus membros» (n.º 2). O n.º 7 manda aplicar os n.os 3 e 4 do art. 40.º, que regulam as reuniões da câmara.
+- *Sistema:* na câmara, as reuniões extraordinárias são convocadas por iniciativa do presidente ou a requerimento de um terço dos membros, com dois dias de antecedência e para um dos oito dias subsequentes ao requerimento; se o presidente não convocar, convocam os requerentes (art. 41.º, n.os 1 a 4). Na assembleia municipal, a iniciativa é mais larga (presidente, mesa, câmara, um terço dos membros, cidadãos) e os prazos são outros: convocação em cinco dias e sessão entre três e dez dias depois (art. 28.º). A ordem do dia é entregue com a documentação dois dias úteis antes (art. 53.º, n.º 2). As reuniões do conselho são públicas (n.º 3) e publicitadas com dois dias úteis de antecedência (art. 49.º, n.º 3). Sem quórum, não há reunião, e o presidente designa nova data (art. 54.º, n.os 1 e 3). O CPA tem regras semelhantes (art. 24.º, n.os 2 e 5).
+- *Génese:* na Lei n.º 46/2008, as reuniões da junta metropolitana, formada pelos presidentes de câmara, eram convocadas «nos termos do regimento» (art. 13.º, n.º 4). O RJAL fixou a regra do terço com as palavras do art. 41.º, n.º 1, e manteve a remissão para o regime dos órgãos municipais (art. 104.º).
+- *Teleologia:* o terço permite a uma minoria de presidentes de câmara, seja qual for a população que representem, levar um assunto ao conselho; os eleitores só contam na votação.
+
+**Pareceres e jurisprudência.** Não se encontrou parecer nem decisão sobre as reuniões extraordinárias do conselho metropolitano. O STA, no acórdão de 20-11-2014, proc. 0923/14 (https://jurisprudencia.pt/acordao/262565/), aplicou ao conselho, por força do art. 104.º, as regras municipais sobre quórum, afastou a segunda convocatória do CPA e contou o quórum pelos membros, e não pelos eleitores. Concorda: o direito supletivo é o municipal, e a contagem por membros vale também para o terço. No acórdão de 23-09-2026, proc. 02047/25.5BEBRG.CN1.SA1 (https://jurisprudencia.pt/acordao/340119/), sobre um executivo municipal, o STA entendeu que as questões de relacionamento interno se resolvem no funcionamento do próprio órgão, «e não em juízo», e apontou como meio contra a inércia do presidente a convocação de reuniões extraordinárias por um terço dos membros (ponto 13). Concorda quanto ao meio de reacção. O TCA Norte, no acórdão de 29-11-2019, proc. 00142/18.6BEPNF (https://www.dgsi.pt/jtcn.nsf/89d1c0288c2dd49c802575c8003279c7/6521f713bf61e706802584cc0039fd15), julgou ilegais as deliberações de um órgão colegial municipal tomadas em reunião convocada sem a antecedência mínima fixada no regimento, por não estar presente o membro prejudicado. Concorda quanto à consequência.
+
+**Posição contrária.** O conselho é «o órgão deliberativo» (art. 69.º, n.º 1), e o presidente convoca «sessões» (art. 72.º, al. c)), termo dos deliberativos; o modelo seria o da assembleia municipal (art. 28.º, n.os 2 a 4). Não colhe: o termo é impreciso (anotação 1 ao art. 72.º). O n.º 2 reproduz o art. 41.º, n.º 1, o n.º 7 remete para o art. 40.º, ambos da câmara, e o art. 28.º regula iniciativas, da câmara e dos cidadãos, que o n.º 2 não prevê. A diferença prática é pequena: nos dois modelos a convocação é devida e os requerentes podem convocar directamente.
+
+**Consequências.**
+- Um terço dos membros, contado sobre o número legal, apresenta ao presidente requerimento escrito com os assuntos; o presidente convoca, por protocolo, para um dos oito dias seguintes, com pelo menos dois dias de antecedência, e publicita a reunião.
+- Se não o fizer, os requerentes convocam directamente, nos mesmos termos, e fixam a ordem do dia; a reunião só funciona com a maioria do número legal de membros (art. 54.º, n.º 1), e as deliberações seguem a regra do art. 105.º, n.º 2.
+- As deliberações tomadas em reunião convocada sem as formalidades são anuláveis, salvo se todos os membros comparecerem sem oposição (art. 51.º, por força do art. 104.º).
+
+**Fontes.** sta-2014-11-20-0923-14, sta-2026-09-23-02047-25, tcan-2019-11-29-00142-18, cpa-2015-pgdl, lei-46-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 71.º — Competências
@@ -6610,6 +6989,30 @@ ee) Exercer as demais competências previstas na lei e no regimento.
 **Fontes.** ccdr-c-5-2017, sta-2014-11-20-0923-14, lei-46-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. Impugnar as deliberações do conselho: contencioso eleitoral para as eleições, acção administrativa para o resto — n.º 1**
+
+**Questão.** As deliberações do conselho vinculam os municípios (art. 105.º, n.º 1), mas o RJAL não diz quem as pode impugnar nem por que meio. Pergunta-se como se impugnam a eleição do presidente e dos vice-presidentes (al. a)) e as restantes deliberações, quem tem legitimidade (os membros vencidos, os municípios, os eleitores) e em que prazo.
+
+**Tese.** A eleição do presidente e dos vice-presidentes impugna-se em contencioso eleitoral, processo urgente com prazo de sete dias, e os membros do conselho, que nela são eleitores e elegíveis, têm legitimidade. As restantes deliberações impugnam-se em acção administrativa, nos prazos gerais. Têm legitimidade o município, quanto aos interesses que lhe cumpre defender, o Ministério Público e quem seja lesado; o membro vencido não a tem só por o ser. Por inferência, os eleitores dos municípios da área têm a acção popular do art. 55.º, n.º 2, do CPTA, porque a área metropolitana depende dos municípios que a integram.
+
+**Fundamentação.**
+- *Letra:* compete ao conselho «Eleger o seu presidente e vice-presidentes, na sua primeira reunião» (al. a)).
+- *Sistema:* o contencioso dos actos em matéria eleitoral segue a acção administrativa urgente (CPTA, art. 97.º, n.º 1, al. a)); pode ser intentado «por quem, na eleição em causa, seja eleitor ou elegível», e o prazo é, «Na falta de disposição especial», de sete dias (art. 98.º, n.os 1 e 2). Nas outras acções, têm legitimidade quem alegue interesse directo e pessoal, o Ministério Público e as entidades públicas quanto aos interesses que lhes cumpra defender (art. 55.º, n.º 1, als. a) a c)); e qualquer eleitor pode impugnar as deliberações dos órgãos das autarquias da sua circunscrição, «assim como das entidades instituídas por autarquias locais ou que destas dependam» (n.º 2). A impugnação de actos nulos não está sujeita a prazo, «Salvo disposição legal em contrário»; a de actos anuláveis faz-se em três meses, ou num ano pelo Ministério Público (art. 58.º, n.º 1). São nulas as deliberações tomadas sem o quórum ou a maioria exigidos (CPA, art. 161.º, n.º 2, al. h)). A demandada é a área metropolitana (CPTA, art. 10.º, n.º 2), que o presidente do conselho representa em juízo (art. 72.º, al. a)).
+- *Génese:* a Lei n.º 46/2008 dispunha que as deliberações e decisões dos órgãos metropolitanos «são susceptíveis de reacção contenciosa nos mesmos termos das deliberações dos órgãos municipais» (art. 29.º). O RJAL não reproduziu a regra, e a remissão do art. 104.º respeita ao funcionamento dos órgãos. O CPTA, na redacção actual, estende a acção popular local às entidades «que destas dependam».
+- *Teleologia:* a vinculação dos municípios a deliberações que não votaram pede controlo judicial acessível; a urgência do contencioso eleitoral protege a estabilidade do órgão.
+
+**Pareceres e jurisprudência.** O STA, nos acórdãos de 10-09-2014, proc. 0728/14 (https://www.dgsi.pt/jsta.nsf/35fbbbf22e1bb1e680256f8e003ea931/2dae3818b00df12b80257d5d003e5510), e de 20-11-2014, proc. 0923/14 (https://jurisprudencia.pt/acordao/262565/), julgou acções de contencioso eleitoral propostas por presidentes de câmara, membros de um conselho metropolitano, contra a área metropolitana, para anular a eleição dos vice-presidentes e a do presidente do conselho. Admitiu o meio e a legitimidade sem os discutir e, no segundo, declarou nula a eleição feita sem quórum. Concorda. Não se encontrou decisão sobre a acção popular contra deliberações de entidades intermunicipais, nem sobre a invocação da nulidade de uma eleição depois do prazo do art. 98.º, n.º 2.
+
+**Posição contrária.** O art. 55.º, n.º 2, do CPTA abrangeria só as entidades criadas ou controladas pelas autarquias, como as empresas locais ou as comunidades intermunicipais, e não a área metropolitana, criada por lei (art. 66.º); o eleitor teria de alegar interesse directo e pessoal. Colhe em parte: a área metropolitana não é instituída pelos municípios. Mas depende deles no conjunto: os seus órgãos formam-se a partir dos órgãos municipais, que a financiam, e as suas deliberações obrigam-nos. Seria incoerente admitir a acção popular contra a comunidade intermunicipal e recusá-la contra a área metropolitana, cujas deliberações a lei de 2008 equiparava às municipais. A questão não foi decidida.
+
+**Consequências.**
+- O membro do conselho que conteste a eleição do presidente ou dos vice-presidentes propõe acção de contencioso eleitoral contra a área metropolitana no prazo de sete dias. Por inferência, o prazo vale também quando se invoque nulidade, porque o art. 98.º, n.º 2, é a disposição especial que o art. 58.º, n.º 1, ressalva.
+- O presidente de câmara vencido numa deliberação que vincule o seu município não a impugna como membro; impugna-a o município, que ele representa em juízo (art. 35.º, n.º 1, al. a)), em defesa dos interesses que lhe cumpre defender (CPTA, art. 55.º, n.º 1, al. c)).
+- A deliberação dada por aprovada sem a dupla maioria do art. 105.º, n.º 2, ou sem quórum, é nula e impugnável a todo o tempo; os vícios de forma ou de procedimento geram, em regra, anulabilidade, impugnável em três meses.
+
+**Fontes.** cpta-pgdl-completo, cpta-pgdl, cpa-2015-pgdl, sta-2014-09-10-0728-14, sta-2014-11-20-0923-14, lei-46-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 72.º — Presidente
 
 Compete ao presidente do conselho metropolitano:
@@ -6652,6 +7055,30 @@ g) Exercer as demais competências previstas na lei e no regimento.
 **Fontes.** lei-46-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. O presidente do conselho não tem voto de qualidade — al. d)**
+
+**Questão.** Nos órgãos autárquicos, o presidente tem voto de qualidade em caso de empate (art. 54.º, n.º 2), e o art. 104.º manda aplicar às entidades intermunicipais o regime dos órgãos municipais no que o título III não regule. Pergunta-se se o presidente do conselho metropolitano, a quem cabe dirigir os trabalhos (al. d)), desempata as votações.
+
+**Tese.** Não desempata. O art. 105.º, n.º 2, regula por inteiro a aprovação das deliberações do conselho e já resolve o empate em número de votos: a deliberação é aprovada se os votos favoráveis, iguais em número aos desfavoráveis, representarem mais de metade do universo de eleitores, e rejeitada no caso contrário. Não há lacuna que o art. 54.º, n.º 2, preencha. O presidente vota como os outros membros, com o peso eleitoral do seu município. A norma de regimento que lhe dê voto de qualidade é ilegal nessa parte.
+
+**Fundamentação.**
+- *Letra:* compete ao presidente «Dirigir os trabalhos do conselho metropolitano» (al. d)); nenhuma alínea lhe dá voto de qualidade. As deliberações consideram-se aprovadas quando os votos favoráveis correspondam, cumulativamente, «a um número igual ou superior ao dos votos desfavoráveis e à representação de mais de metade do universo total de eleitores» (art. 105.º, n.º 2).
+- *Sistema:* nos órgãos autárquicos, «As deliberações são tomadas à pluralidade de votos, tendo o presidente voto de qualidade em caso de empate» (art. 54.º, n.º 2); o CPA tem regra paralela (art. 33.º, n.º 1). O art. 104.º só remete para o regime municipal «em tudo o que não esteja previsto na presente lei», e o art. 105.º, n.os 2 e 3, prevê a regra de aprovação dos conselhos. O presidente vota em último lugar (art. 55.º, n.º 2, por força do art. 104.º; inferência). Nas matérias do art. 71.º, n.º 3, a unanimidade exclui qualquer desempate.
+- *Génese:* na Lei n.º 46/2008, o presidente da junta metropolitana convocava as reuniões e dirigia os trabalhos (art. 15.º, n.º 1, al. a)), e o funcionamento regia-se, no omisso, pelo regime dos órgãos municipais (art. 7.º). A regra de aprovação ponderada é de 2013 e não tinha correspondente nas leis de 2008 (anotação 2 ao art. 105.º).
+- *Teleologia:* o voto de qualidade evita que um órgão fique bloqueado. No conselho, o desempate cabe à população representada; um voto decisivo do presidente daria a um só município o poder que a lei repartiu pelos eleitores.
+
+**Pareceres e jurisprudência.** O STA, no acórdão de 10-09-2014, proc. 0728/14 (https://www.dgsi.pt/jsta.nsf/35fbbbf22e1bb1e680256f8e003ea931/2dae3818b00df12b80257d5d003e5510), transcreveu e confirmou o acórdão do TCA Sul segundo o qual, no conselho metropolitano, «só quanto ao quórum deliberativo se aplica a remissão do artigo 104º», e decidiu que a eleição se faz pelo art. 105.º, por a lei não a ter regulado de modo diferente. Concorda: a aprovação, e com ela o desempate, rege-se pelo art. 105.º. No acórdão de 20-11-2014, proc. 0923/14 (https://jurisprudencia.pt/acordao/262565/), o mesmo tribunal afirmou que a remissão do art. 104.º «só existe se inexistir um regime próprio na lei», e que esse regime está no art. 105.º, n.os 2 e 3. Concorda. A CCDR Centro, no Parecer DSAJAL 5/17, de 11-01-2017 (https://www.ccdrc.pt/pt/34228/), sobre a regra comum ao conselho intermunicipal, explicou que o primeiro critério se cumpre com votos favoráveis em número igual ou superior aos desfavoráveis, sem contar abstenções nem ausências, e que, faltando a representação de mais de metade dos eleitores, a deliberação não é aprovada. Concorda; da conjugação resulta que o empate numérico nunca fica por decidir. Não se encontrou fonte que trate directamente do voto de qualidade nos conselhos.
+
+**Posição contrária.** O art. 105.º regularia só a maioria exigida, e o art. 54.º, n.º 2, aplicar-se-ia ao que aquele não prevê, o empate: quando favoráveis e desfavoráveis fossem iguais em número, o presidente desempataria. Não colhe. O art. 105.º, n.º 2, prevê o empate ao bastar-se com votos favoráveis em número «igual» aos desfavoráveis, e faz depender o resultado do segundo critério. Um voto de qualidade, contado em número de votos, não acrescenta eleitores e não pode suprir a falta da maioria de eleitores; usado contra uma deliberação que cumpra os dois critérios, anularia a regra legal.
+
+**Consequências.**
+- Com votos a favor e contra iguais em número, a deliberação é aprovada se os favoráveis representarem mais de metade do universo de eleitores da área metropolitana; se não representarem, é rejeitada, e o presidente não a salva nem a derruba.
+- A deliberação dada por aprovada com base num voto de qualidade do presidente, sem a representação exigida, foi tomada sem a maioria legal e é nula (CPA, art. 161.º, n.º 2, al. h)).
+- O regimento pode regular a forma e a ordem das votações, mas não atribuir ao presidente voto de qualidade (inferência).
+
+**Fontes.** sta-2014-09-10-0728-14, sta-2014-11-20-0923-14, ccdr-c-5-2017, cpa-2015-pgdl, lei-46-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 73.º — Natureza e constituição
 
 1 - A comissão executiva metropolitana é o órgão executivo da área metropolitana.
@@ -6662,6 +7089,8 @@ g) Exercer as demais competências previstas na lei e no regimento.
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 71.º, n.º 1, al. k), e 77.º, n.os 4 e 5** — Número de secretários remunerados, deliberado por unanimidade e nunca inferior a dois.
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 101.º, n.os 3 e 4, 102.º e 103.º** — Duração do mandato, demissão e vacatura.
 - **Lei n.º 46/2008, de 27 de agosto (revogada), art. 16.º** — Comissão executiva de três a cinco membros designados pela junta metropolitana e ratificados pela assembleia.
+- **Lei n.º 27/96, de 1 de agosto, art. 1.º, n.º 2, 8.º e 11.º** — Áreas metropolitanas como entidades equiparadas; perda de mandato decidida pelos tribunais administrativos.
+- **Lei n.º 52/2019, de 31 de julho, art. 2.º, n.º 1, al. j), e 11.º** — Membros dos executivos metropolitanos como titulares de cargos políticos; sanções aplicadas pelo Tribunal Constitucional.
 
 ### Anotações
 
@@ -6688,6 +7117,31 @@ g) Exercer as demais competências previstas na lei e no regimento.
 **Fontes.** lei-46-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. Responsabilidade política colectiva e perda de mandato individual — n.os 1 e 2**
+
+**Questão.** A comissão executiva é eleita em lista e responde, como órgão, perante as assembleias municipais e o conselho metropolitano. Pergunta-se se algum destes órgãos pode afastar um membro em concreto, por razões políticas, e por que vias responde individualmente o primeiro-secretário ou um secretário.
+
+**Tese.** A responsabilidade política da comissão é colectiva: a censura das assembleias municipais e a demissão pelo conselho atingem o órgão inteiro (art. 102.º), e nenhum órgão pode destituir um membro isolado. A responsabilidade individual é jurídica e decide-a um tribunal: a perda de mandato da lei da tutela, nos tribunais administrativos (Lei n.º 27/96, arts. 1.º, n.º 2, 8.º e 11.º), e a perda de mandato ou a demissão por infracção ao regime dos titulares de cargos políticos, no Tribunal Constitucional (Lei n.º 52/2019, arts. 2.º, n.º 1, al. j), e 11.º, n.os 1 e 5).
+
+**Fundamentação.**
+- *Letra:* a comissão é «o órgão executivo da área metropolitana» (n.º 1) e é «eleita nos termos dos artigos seguintes» (n.º 2): elege-se uma lista ordenada (art. 74.º, n.º 1), não pessoas avulsas.
+- *Sistema:* a censura (art. 25.º, n.º 5, al. b)) e a deliberação do conselho (art. 71.º, n.º 2) determinam «a demissão da comissão executiva» (art. 102.º, n.º 1); a lei não prevê censura nem demissão de um só membro. O lugar de um membro só vaga por «morte, renúncia, perda de mandato ou qualquer outro motivo atendível legalmente previsto» (art. 103.º, n.os 1 e 2). A lei da tutela considera «entidades equiparadas a autarquias locais as áreas metropolitanas» (Lei n.º 27/96, art. 1.º, n.º 2), e o RJAL sujeita as associações de autarquias à tutela (art. 64.º). Incorrem em perda de mandato os «membros dos órgãos autárquicos ou das entidades equiparadas» que faltem sem justificação a seis reuniões seguidas ou doze interpoladas, que fiquem inelegíveis ou que pratiquem os actos que fundam a dissolução (art. 8.º, n.º 1, als. a), b) e d)); decidem os tribunais administrativos de círculo (art. 11.º, n.º 1). A Lei n.º 52/2019 qualifica como cargos políticos os membros dos órgãos executivos das áreas metropolitanas (art. 2.º, n.º 1, al. j)); a infracção ao seu regime de exclusividade e impedimentos implica a perda do mandato, nos cargos electivos, ou a demissão (art. 11.º, n.º 1), aplicadas pelo Tribunal Constitucional, que só não é competente quanto aos executivos do poder local (art. 11.º, n.º 5, al. b)).
+- *Génese:* na Lei n.º 46/2008, os membros eram designados pela junta metropolitana e ratificados pela assembleia metropolitana (art. 16.º, n.º 2); desde 2013 são eleitos em lista e respondem em conjunto.
+- *Teleologia:* um executivo eleito em bloco responde em bloco; uma maioria conjuntural do conselho não o recompõe membro a membro (inferência).
+
+**Pareceres e jurisprudência.** O Tribunal Constitucional, no Acórdão n.º 608/2014, de 24-09-2014 (https://www.tribunalconstitucional.pt/tc/acordaos/20140608.html), a propósito do órgão paralelo das comunidades intermunicipais, qualificou-o como «órgão permanente» de que o primeiro-secretário é «membro obrigatório e necessário» (n.º 10), por contraste com o secretário executivo da Lei n.º 45/2008, cargo «facultativo e a todo o tempo extinguível» (n.º 9). Concorda: o estatuto de 2013 não comporta a exoneração individual. Não se encontrou decisão que aplique a Lei n.º 27/96 ou o art. 11.º da Lei n.º 52/2019 a membros de executivos metropolitanos ou intermunicipais.
+
+**Posição contrária.** Quem pode demitir a comissão poderia retirar a confiança a um só secretário e promover a sua substituição pela eleição do art. 103.º, n.º 2. Não colhe: a vacatura pressupõe uma causa legalmente prevista, o regime municipal não conhece a destituição de um vereador pela assembleia, e o art. 104.º regula o funcionamento, não cria causas de cessação do mandato (inferência). Também não colhe objectar que a Lei n.º 27/96 é anterior aos órgãos de 2013: a equiparação é das áreas metropolitanas enquanto entidades, e o art. 64.º confirma-a.
+
+**Consequências.**
+- Uma deliberação do conselho que «destitua» um secretário, ou uma moção de censura dirigida a um só membro, não tem base legal e não abre a vacatura do lugar (inferência).
+- O membro que falte sem justificação a seis reuniões seguidas — cerca de três meses, com reuniões quinzenais — ou a doze interpoladas incorre em perda de mandato; a justificação das faltas cabe, por inferência, à própria comissão, como na câmara (art. 39.º, al. c), por força do art. 104.º).
+- A perda de mandato por inscrição em partido diverso (Lei n.º 27/96, art. 8.º, n.º 1, al. c)) não se aplica: a lista é proposta pelo conselho, não por partidos (inferência).
+- Transitada a decisão, abre-se a vacatura: eleição limitada ao lugar ou, se for o primeiro-secretário, dissolução e nova eleição (art. 103.º, n.os 1 e 2).
+
+**Fontes.** lei-27-1996-pgdl, lei-52-2019-tc, tc-608-2014, lei-46-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 74.º — Eleição
 
 1 - Na sua primeira reunião, o conselho metropolitano aprova, à pluralidade de votos, a lista ordenada dos candidatos a membros da comissão executiva metropolitana a submeter a votação nas assembleias municipais.
@@ -6708,6 +7162,7 @@ b) Cada voto expresso numa dada assembleia municipal tem a ponderação igual ao
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 83.º, n.º 2** — Regra paralela nas comunidades intermunicipais: o colégio eleitoral é formado pelos membros da assembleia municipal eleitos directamente.
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 102.º e 103.º** — Nova eleição em caso de demissão ou de vacatura.
 - **Código do Procedimento Administrativo, art. 161.º, n.º 2, al. h)** — Nulidade das deliberações tomadas sem quórum ou sem a maioria exigida.
+- **Código de Processo nos Tribunais Administrativos, art. 97.º e 98.º** — Contencioso eleitoral: legitimidade de eleitores e elegíveis, prazo de sete dias e preclusão dos vícios de actos anteriores.
 
 ### Anotações
 
@@ -6735,6 +7190,30 @@ b) Cada voto expresso numa dada assembleia municipal tem a ponderação igual ao
 **Fontes.** crp-pgdl, pgr-28-2024, lei-46-2008, lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. Impugnação da eleição: contencioso eleitoral, sete dias para todos os vícios — n.os 1, 2, 6 e 7**
+
+**Questão.** A eleição da comissão executiva desdobra-se na aprovação da lista pelo conselho metropolitano, nas votações simultâneas nas assembleias municipais e no apuramento global. Pergunta-se por que meio, em que prazo e por quem se impugna, e se a nulidade da votação não secreta escapa ao prazo.
+
+**Tese.** A eleição impugna-se na acção urgente de contencioso eleitoral (CPTA, arts. 97.º, n.º 1, al. a), e 98.º), em sete dias contados da data em que seja possível conhecer o resultado global. O prazo vale para todos os vícios, incluindo a nulidade do n.º 6. Têm legitimidade os membros das assembleias municipais com direito de voto, os candidatos e o Ministério Público. Por inferência, quem não impugnar em tempo a deliberação do conselho que aprova a lista não pode depois atacar a eleição com fundamento nos vícios dela (CPTA, art. 98.º, n.º 3).
+
+**Fundamentação.**
+- *Letra:* o conselho aprova «a lista ordenada dos candidatos» e delibera sobre «o dia e hora para a votação» (n.os 1 e 2); a votação decorre em simultâneo e «realiza-se por sufrágio secreto, sob pena de nulidade» (n.º 6); o resultado apura-se pela maioria em metade das assembleias e pela ponderação dos votos (n.os 7 e 8). A lei não diz quem proclama o resultado global.
+- *Sistema:* seguem o contencioso eleitoral os actos administrativos em matéria eleitoral da competência dos tribunais administrativos (CPTA, art. 97.º, n.º 1, al. a)); a acção pode ser intentada por quem, «na eleição em causa, seja eleitor ou elegível», e, «na falta de disposição especial», em «sete dias a contar da data em que seja possível o conhecimento do ato» (art. 98.º, n.os 1 e 2). A falta de reacção contra os actos com eficácia externa anteriores ao acto eleitoral impede que se invoquem os seus vícios contra as decisões subsequentes (n.º 3). Os processos são urgentes (art. 36.º, n.º 1, al. a)). A impugnação de actos nulos não está sujeita a prazo «salvo disposição legal em contrário» (art. 58.º, n.º 1), ressalva que o CPA repete para a invocação da nulidade (art. 162.º, n.º 2).
+- *Génese:* na Lei n.º 46/2008, a comissão era designada pela junta metropolitana (art. 16.º, n.º 2); a eleição é de 2013.
+- *Teleologia:* o prazo curto, igual para todos os vícios, e a preclusão dos vícios de actos anteriores servem a estabilidade do executivo.
+
+**Pareceres e jurisprudência.** As eleições internas dos órgãos metropolitanos têm sido julgadas em contencioso eleitoral: o TCA Sul, no acórdão de 24-04-2014, proc. 10949/14 (https://www.dgsi.pt/jtca.nsf/-/2BFFC2C435E54CBA80257CC900349FC5), e o STA, nos acórdãos de 10-09-2014, proc. 0728/14 (https://www.dgsi.pt/jsta.nsf/35fbbbf22e1bb1e680256f8e003ea931/2dae3818b00df12b80257d5d003e5510), e de 20-11-2014, proc. 0923/14 (https://jurisprudencia.pt/acordao/262565/), conheceram nessa forma de processo das eleições do presidente e dos vice-presidentes do conselho metropolitano. Concordam quanto ao meio. O STA, no acórdão de 09-10-2014, proc. 0583/14 (https://www.dgsi.pt/jsta.nsf/35fbbbf22e1bb1e680256f8e003ea931/661ad104424eba9c80257d70004a9442), contou o prazo, para os membros presentes, do conhecimento do resultado, «independentemente da aprovação ou não da acta respectiva» (sumário, I). O TCA Norte, no acórdão de 27-06-2014, proc. 00098/14.4BEPNF (https://www.dgsi.pt/jtcn.nsf/89d1c0288c2dd49c802575c8003279c7/5deb6e838a57900980257d270051dcc7), julgou que o prazo de sete dias vale «independentemente do desvalor da invalidade apontada e da impugnação ser deduzida pelo Ministério Público» (sumário, I), com ressalva do justo impedimento do Ministério Público (sumário, III). Concordam. Não se encontrou decisão sobre a eleição da comissão executiva.
+
+**Posição contrária.** Sendo cominada expressamente, a nulidade da votação não secreta poderia ser invocada a todo o tempo, numa acção de impugnação comum. Não colhe: o art. 98.º, n.º 2, do CPTA é a disposição em contrário que os arts. 58.º, n.º 1, do CPTA e 162.º, n.º 2, do CPA ressalvam, e o TCA Norte aplicou-o a vícios geradores de nulidade. Também não colhe, por inferência, ler «elegível» como qualquer cidadão que pudesse integrar a lista: na eleição em causa só são elegíveis os que constam da lista; quem foi preterido reage contra a deliberação que a aprovou.
+
+**Consequências.**
+- Um membro de assembleia municipal que entenda que, na sua assembleia, votaram presidentes de junta, ou que o voto não foi secreto, propõe a acção nos sete dias seguintes à proclamação do resultado global, e não à votação na sua assembleia, porque só então se sabe se a lista foi eleita (inferência).
+- Quem quiser atacar a composição da lista ou a data fixada impugna a deliberação do conselho nos sete dias seguintes ao seu conhecimento; depois, não pode invocar esses vícios contra a eleição (inferência quanto à qualificação dessa deliberação como acto anterior com eficácia externa).
+- Anulada ou declarada nula a eleição, repete-se o processo do art. 74.º; até à posse dos novos eleitos, mantêm-se em funções os membros anteriores (art. 101.º, n.º 4) (inferência).
+
+**Fontes.** cpta-pgdl-p2, cpta-pgdl, cpa-2015-pgdl, tcas-2014-04-24-10949-14, sta-2014-09-10-0728-14, sta-2014-11-20-0923-14, sta-2014-10-09-0583-14, tcan-2014-06-27-00098-14, lei-46-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 75.º — Reuniões
 
 1 - A comissão executiva metropolitana tem uma reunião ordinária quinzenal e reuniões extraordinárias sempre que necessário.
@@ -6747,6 +7226,7 @@ b) Cada voto expresso numa dada assembleia municipal tem a ponderação igual ao
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 49.º** — Regra geral: sessões dos deliberativos públicas e, nos executivos, pelo menos uma reunião pública mensal.
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 70.º, n.º 3** — As reuniões do conselho metropolitano são públicas.
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 95.º** — Regra idêntica para o secretariado executivo intermunicipal.
+- **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 39.º, 40.º, 41.º, 54.º e 104.º** — Regras da câmara municipal sobre reuniões, quórum e voto de qualidade, aplicáveis à comissão por remissão.
 
 ### Anotações
 
@@ -6771,6 +7251,31 @@ b) Cada voto expresso numa dada assembleia municipal tem a ponderação igual ao
 - A falta de qualquer acto de consulta ou participação das populações ao longo do mandato viola o dever do n.º 3. Os membros das assembleias municipais podem suscitá-la quando convocarem a comissão (art. 25.º, n.º 5, al. a)).
 
 **Fontes.** lei-46-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. Funcionamento pelas regras da câmara: o primeiro-secretário preside e cada membro tem um voto — n.º 1**
+
+**Questão.** O art. 75.º não diz quem convoca e dirige as reuniões, qual o quórum, como se vota nem quem aprova o regimento. Pergunta-se que regras se aplicam e se a ponderação dos votos pelos eleitores, própria dos conselhos, vale na comissão executiva.
+
+**Tese.** No que o art. 75.º não regula, a comissão funciona pelas regras da câmara municipal, órgão executivo homólogo (art. 104.º). O primeiro-secretário exerce os poderes de presidente: convoca, fixa a ordem do dia, dirige os trabalhos e tem voto de qualidade (art. 54.º, n.º 2). A comissão só reúne e delibera com três dos cinco membros (art. 54.º, n.º 1), e cada membro tem um voto: a ponderação do art. 105.º, n.os 2 e 3, vale só para os conselhos. As reuniões extraordinárias convocam-se por iniciativa do primeiro-secretário ou a requerimento de dois membros (art. 41.º, n.º 1). A comissão aprova o seu regimento e justifica as faltas dos seus membros (art. 39.º, als. a) e c)).
+
+**Fundamentação.**
+- *Letra:* a comissão tem «uma reunião ordinária quinzenal e reuniões extraordinárias sempre que necessário» (n.º 1); nada mais se regula sobre o funcionamento.
+- *Sistema:* o funcionamento das entidades intermunicipais regula-se, «em tudo o que não esteja previsto na presente lei, pelo regime jurídico aplicável aos órgãos municipais» (art. 104.º). A comissão é «o órgão executivo» (art. 73.º, n.º 1), como a câmara o é do município. Do regime da câmara resultam: reuniões ordinárias em dia e hora fixados na primeira reunião e publicitados (art. 40.º, n.os 2 e 3); reuniões extraordinárias por iniciativa do presidente ou a requerimento de um terço dos membros (art. 41.º); quórum da maioria do número legal e deliberação à pluralidade de votos, com voto de qualidade do presidente (art. 54.º, n.os 1 e 2); regimento e faltas decididos pelo próprio órgão (art. 39.º, als. a) e c)). Em contrapartida, o art. 105.º, n.º 2, rege as «deliberações do conselho metropolitano e do conselho intermunicipal», e o n.º 3 pondera o voto pelos eleitores do município «de cuja câmara municipal seja presidente» o membro — critério sem sentido para quem não preside a câmara alguma. O primeiro-secretário é a figura central do órgão: é sempre remunerado (art. 77.º, n.º 4), recebe as delegações da comissão (art. 76.º, n.º 2) e a sua vacatura dissolve-a (art. 103.º, n.º 1).
+- *Génese:* na Lei n.º 46/2008, a comissão tinha um presidente, com competências próprias (arts. 16.º, n.º 2, e 18.º). O RJAL fala de primeiro-secretário, o primeiro da lista ordenada (art. 74.º, n.º 1).
+- *Teleologia:* o voto por cabeça corresponde a membros que não representam municípios.
+
+**Pareceres e jurisprudência.** O STA, no acórdão de 20-11-2014, proc. 0923/14 (https://jurisprudencia.pt/acordao/262565/), aplicou ao conselho metropolitano, por força do art. 104.º, o quórum do art. 54.º, afastando o do CPA, e precisou que a remissão «só existe se inexistir um regime próprio na lei», como sucede com o art. 105.º nos conselhos. Concorda: na comissão não há regime próprio de votação, e vale o municipal. A CCDR Centro, no Parecer DSAJAL 218/19, de 19-11-2019 (https://www.ccdrc.pt/wp-content/uploads/2020/03/2019-11-19-Parecer-DSAJAL-218-19-rvf-589.pdf), aplicou pela mesma via ao conselho intermunicipal uma regra municipal de substituição. Concorda quanto ao método. Não se encontrou parecer nem decisão sobre o funcionamento da comissão executiva.
+
+**Posição contrária.** A ponderação do art. 105.º valeria na comissão, porque o n.º 1 fala das deliberações «dos órgãos das entidades intermunicipais». Não colhe: o n.º 1 trata da vinculação dos municípios; a regra de aprovação está no n.º 2 e só abrange os conselhos. Outra leitura nega ao primeiro-secretário o voto de qualidade, por a lei não lhe chamar presidente, e deixa ao regimento a escolha de quem preside. Colhe em parte: o regimento pode regular a presidência nas faltas e impedimentos do primeiro-secretário; mas, sendo ele o primeiro da lista e o único cuja falta dissolve o órgão, cabem-lhe, por inferência, os poderes de direcção que a lei municipal dá ao presidente.
+
+**Consequências.**
+- Numa reunião com quatro membros e empate de dois contra dois, decide o voto do primeiro-secretário, salvo em escrutínio secreto, em que se repete a votação e, persistindo o empate, se adia a deliberação (art. 55.º, n.º 4).
+- A deliberação tomada com dois membros presentes é nula, por falta de quórum (CPA, art. 161.º, n.º 2, al. h)).
+- Um terço de cinco arredonda-se, por inferência, para dois: dois secretários podem requerer reunião extraordinária e, se o primeiro-secretário não a convocar para um dos oito dias seguintes, convocá-la directamente (art. 41.º, n.os 3 e 4).
+- O regimento da comissão não depende de ratificação do conselho, ao contrário do do conselho estratégico (art. 79.º, n.º 2).
+
+**Fontes.** sta-2014-11-20-0923-14, ccdr-c-218-2019, lei-46-2008, cpa-2015-pgdl
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 76.º — Competências
@@ -6824,6 +7329,8 @@ mm) Apresentar propostas ao conselho metropolitano sobre matérias da competênc
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 25.º, n.º 5** — A assembleia municipal convoca a comissão executiva até duas vezes por ano e aprova moções de censura, uma por mandato.
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 102.º, n.º 1, al. a)** — Demissão da comissão executiva por censura da maioria das assembleias municipais.
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 120.º** — Contratos interadministrativos de delegação de competências.
+- **Código do Procedimento Administrativo, art. 44.º e 45.º** — A delegação exige lei de habilitação; poderes indelegáveis.
+- **Lei n.º 46/2008, de 27 de agosto (revogada), art. 14.º, n.º 4, e 18.º, n.º 1, al. g)** — A junta metropolitana podia delegar na comissão executiva e no seu presidente.
 
 ### Anotações
 
@@ -6848,6 +7355,30 @@ mm) Apresentar propostas ao conselho metropolitano sobre matérias da competênc
 - Na sessão da assembleia municipal que convoque a comissão ou vote uma moção de censura, os presidentes de junta intervêm e votam.
 
 **Fontes.** pgr-28-2024, lei-46-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. O conselho metropolitano não pode delegar competências na comissão executiva — n.º 1, als. dd), ee) e ll)**
+
+**Questão.** Na comunidade intermunicipal, a lei permite ao conselho delegar competências no secretariado (arts. 90.º, n.º 2, e 96.º, n.º 2); na área metropolitana, não. Pergunta-se se o conselho metropolitano pode delegar na comissão executiva ou no primeiro-secretário, ao abrigo do regime municipal (art. 104.º) ou do CPA.
+
+**Tese.** Não pode. A delegação exige lei de habilitação (CPA, art. 44.º, n.º 1), e o RJAL suprimiu a que a lei de 2008 previa, dando-a só ao conselho intermunicipal. O art. 104.º não a supre, porque o conselho é o órgão deliberativo, e o regime municipal não conhece delegação do deliberativo no executivo (inferência). Onde a lei quer que a comissão actue em matéria do conselho, usa a autorização (art. 71.º, n.º 1, als. v) e x)), que não transfere a competência.
+
+**Fundamentação.**
+- *Letra:* a comissão exerce as competências delegadas pelo Estado e pelos municípios por contrato (n.º 1, al. dd)), assegura «o cumprimento das deliberações do conselho metropolitano» (al. ee)) e exerce «as demais competências legais» (al. ll)). Nenhuma alínea refere delegações do conselho; a única delegação interna prevista é a da comissão no primeiro-secretário (n.º 2).
+- *Sistema:* na comunidade intermunicipal, certas competências do secretariado «são exercidas por delegação do conselho intermunicipal» (art. 96.º, n.º 2). O art. 71.º não tem norma equivalente: o conselho «autoriza» a comissão a celebrar contratos de concessão e a adquirir, alienar ou onerar imóveis, fixando as condições gerais (n.º 1, als. v) e x)). O CPA admite a delegação «sempre que para tal estejam habilitados por lei» (art. 44.º, n.º 1); sem lei, só para actos de administração ordinária a favor do subalterno imediato, adjunto, substituto ou presidente do órgão colegial (n.os 3 e 4), e nunca quanto aos poderes «suscetíveis de serem exercidos sobre o próprio delegado» (art. 45.º, al. b)), como os de fiscalizar e demitir a comissão (art. 71.º, n.os 1, al. e), e 2).
+- *Génese:* a Lei n.º 46/2008 dispunha que «A junta metropolitana pode delegar as suas competências na comissão executiva metropolitana» (art. 14.º, n.º 4); a comissão exercia as competências que a junta lhe delegasse (art. 17.º, n.º 1, al. b)), e o seu presidente os poderes recebidos «por delegação da junta metropolitana» (art. 18.º, n.º 1, al. g)). O RJAL não as reproduziu.
+- *Teleologia:* o conselho decide e controla; a comissão executa e responde perante ele e as assembleias municipais; a delegação esbateria essa separação (inferência).
+
+**Pareceres e jurisprudência.** O STA, no acórdão de 12-04-2018, proc. 0888/16 (https://www.dgsi.pt/jsta.nsf/35fbbbf22e1bb1e680256f8e003ea931/285bcc9f5db22aa9802582780039f6ef), exigiu «a existência de uma lei que preveja expressamente a faculdade de um órgão delegar poderes noutro» (sumário, II), e julgou válida, no regime de 2008, uma delegação da junta metropolitana no presidente da comissão executiva, por encontrar a habilitação no art. 18.º, n.º 1, al. g), da Lei n.º 46/2008 (pontos 51 e 52). Revogou o TCA Norte, que no acórdão de 18-03-2016, proc. 02214/11.9BEPRT (https://www.dgsi.pt/jtcn.nsf/89d1c0288c2dd49c802575c8003279c7/de33cacd56f1180a80257f88004ae505), negara a habilitação e julgara a delegação anulável por incompetência relativa. Concorda quanto ao requisito; e a norma expressa de 2008, fundamento decisivo do STA, não existe no RJAL. O STA acrescentou que o «funcionamento» remetido para o regime municipal abrange a repartição de competências e as regras de despesa, por paralelismo entre a junta metropolitana e a câmara (pontos 56 a 58). Diverge em parte (ver a posição contrária). Não se encontrou parecer nem decisão no regime de 2013.
+
+**Posição contrária.** Seguindo o STA, o art. 104.º, que reproduz a remissão de 2008, traria todo o regime municipal de repartição de competências, incluindo a delegação. Colhe para a comissão: como órgão executivo homólogo da câmara, pode aplicar por esta via as regras municipais de despesa e de delegação no primeiro-secretário, dentro do art. 76.º, n.º 2 (inferência). Não colhe para o conselho: o paralelismo do STA era entre dois executivos, a junta metropolitana e a câmara; o conselho de 2013 é «o órgão deliberativo» (art. 69.º, n.º 1). E a ausência de habilitação é deliberada, porque a mesma lei a deu ao conselho intermunicipal.
+
+**Consequências.**
+- A deliberação do conselho que delegue na comissão, ou no primeiro-secretário, a aprovação do mapa de pessoal ou da participação noutras entidades é ilegal; os actos praticados ao seu abrigo são anuláveis por incompetência relativa (CPA, art. 163.º, n.º 1), como qualificou o TCA Norte, e ratificáveis pelo conselho (CPA, art. 164.º) (inferência).
+- Nos casos das als. v) e x) do art. 71.º, n.º 1, o conselho autoriza e fixa as condições gerais; a decisão concreta é da comissão, como competência própria condicionada.
+- A delegação do conselho no seu presidente para actos de administração ordinária (CPA, art. 44.º, n.º 4) é questão distinta.
+
+**Fontes.** sta-2018-04-12-0888-16, tcan-2016-03-18-02214-11, lei-46-2008, cpa-2015-pgdl
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 77.º — Estatuto dos membros da comissão executiva metropolitana
@@ -6898,6 +7429,31 @@ mm) Apresentar propostas ao conselho metropolitano sobre matérias da competênc
 **Fontes.** lei-46-2008, lei-169-1999-v2011
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. Aposentados na comissão executiva: sem autorização do Governo, mas sem acumulação plena — n.º 12**
+
+**Questão.** O n.º 12 manda aplicar aos membros da comissão os arts. 78.º e 79.º do Estatuto da Aposentação, que limitam as funções públicas remuneradas dos aposentados e a acumulação de pensão e remuneração. Pergunta-se se o aposentado eleito precisa de autorização do Governo e o que recebe enquanto exerce o cargo.
+
+**Tese.** O aposentado eleito para a comissão não precisa de autorização governamental: o RJAL, que prevê a eleição e fixa a remuneração destes cargos, é a «lei especial» que permite o exercício (Estatuto, art. 78.º, n.º 1) (inferência). O efeito útil da remissão está no art. 79.º: enquanto exerce funções remuneradas, o aposentado recebe a remuneração do cargo e só mantém a pensão na parte em que esta for superior. A remissão afasta, para estes cargos, a solução dos eleitos locais, cujas funções não estão sujeitas àqueles artigos. O membro não remunerado não é abrangido.
+
+**Fundamentação.**
+- *Letra:* «É aplicável o disposto nos artigos 78.º e 79.º do Estatuto da Aposentação» (n.º 12). O primeiro-secretário é obrigatoriamente remunerado (n.º 4); os secretários são-no se o conselho o deliberar por unanimidade (n.º 5); remuneração e despesas de representação são fixadas pela lei e pagas pelo orçamento da área metropolitana (n.os 1 a 3 e 11).
+- *Sistema:* o Estatuto proíbe aos aposentados e reformados o exercício de actividade profissional remunerada para pessoas colectivas públicas, «exceto quando haja lei especial que o permita» ou autorização dos membros do Governo das finanças e da Administração Pública, por interesse público excepcional (art. 78.º, n.º 1); dessa possibilidade exclui os aposentados por incapacidade e os aposentados compulsivamente (n.º 2). Durante as funções, o aposentado aufere a remuneração do cargo, «mantendo o direito à respetiva pensão, quando esta seja superior, e no montante correspondente à diferença entre aquela e esta» (art. 79.º, n.º 1); o início e o termo das funções e o valor da remuneração comunicam-se à Caixa Geral de Aposentações em dez dias (n.º 4), sob pena de responsabilidade solidária do dirigente máximo pelo que for pago a mais (n.º 6). Os membros da comissão são titulares de cargos políticos (Lei n.º 52/2019, art. 2.º, n.º 1, al. j)), mas não eleitos locais. O art. 97.º, n.º 12, tem regra igual.
+- *Génese:* na Lei n.º 46/2008, os membros da comissão eram designados e podiam exercer em comissão de serviço (art. 16.º, n.º 9), sem remissão para o Estatuto da Aposentação; esta surge em 2013, com o cargo electivo de remuneração legal.
+- *Teleologia:* impedir que a remuneração paga pelo orçamento metropolitano se some por inteiro a uma pensão pública (inferência).
+
+**Pareceres e jurisprudência.** A CCDR-LVT, nos Pareceres Jurídicos n.º 22/2011 (https://www.ccdr-lvt.pt/wp-content/uploads/2022/03/55ef8728dd842c70d169a8deaaf633cc368162ea.pdf) e n.º 62/2011 (https://www.ccdr-lvt.pt/wp-content/uploads/2022/03/e2df79fb45cf65d08e1516090b76387fc95da09e.pdf), invocando o entendimento da DGAL e da Caixa Geral de Aposentações, concluiu que o regime dos arts. 78.º e 79.º do Estatuto «não abrange o exercício de funções de eleito local, porque estas são políticas e eletivas» (Parecer n.º 62/2011, conclusão 3, p. 4). Confirma a tese pelo contraste: para os membros da comissão, que não são eleitos locais, a lei afastou essa solução por norma expressa. Não se encontrou parecer nem decisão sobre o n.º 12 ou sobre o art. 97.º, n.º 12.
+
+**Posição contrária.** Duas. A primeira lê a remissão à letra: o aposentado só poderia exercer o cargo com autorização dos membros do Governo, por interesse público excepcional e com efeitos por um ano, salvo prazo superior (art. 78.º, n.os 1 e 4). Não colhe: faria depender de um despacho governamental a eficácia de uma eleição nas assembleias municipais, contra a autonomia das autarquias e das suas associações, e a lei que cria o cargo electivo é ela própria lei especial (inferência). A segunda sustenta que, sendo cargos políticos desde a Lei n.º 52/2019, valeria para eles a solução dos eleitos locais. Não colhe: o n.º 12 é norma especial, e a Lei n.º 52/2019 não regula a acumulação com pensões.
+
+**Consequências.**
+- O aposentado eleito primeiro-secretário recebe a remuneração do cargo e, se a pensão for superior, a diferença. A área metropolitana comunica à Caixa Geral de Aposentações o início e o termo das funções e o valor da remuneração; a omissão torna o seu dirigente máximo solidariamente responsável pelo reembolso (art. 79.º, n.os 4 e 6).
+- O secretário não remunerado mantém a pensão por inteiro, porque não exerce actividade remunerada.
+- Por inferência, o aposentado por incapacidade ou compulsivamente não pode ocupar um lugar remunerado (art. 78.º, n.º 2): pode ser secretário não remunerado, mas não primeiro-secretário, que é sempre remunerado.
+- O regime vale também para reformados e equiparados (art. 78.º, n.º 1).
+
+**Fontes.** ea-dre-consolidado, ccdr-lvt-22-2011, ccdr-lvt-62-2011, lei-52-2019-tc, lei-46-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 78.º — Natureza e constituição
 
 1 - O conselho estratégico para o desenvolvimento metropolitano é um órgão de natureza consultiva destinado ao apoio ao processo de decisão dos restantes órgãos da área metropolitana.
@@ -6909,6 +7465,7 @@ mm) Apresentar propostas ao conselho metropolitano sobre matérias da competênc
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 71.º, n.º 1, als. z) e aa)** — O conselho metropolitano delibera a composição e ratifica o regimento do conselho estratégico.
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 98.º** — Órgão paralelo nas comunidades intermunicipais.
 - **Lei n.º 46/2008, de 27 de agosto (revogada), art. 5.º, n.º 3** — Órgão consultivo facultativo junto da junta metropolitana.
+- **Código do Procedimento Administrativo, art. 91.º, 92.º e 152.º, n.º 1, al. c)** — Pareceres facultativos e não vinculativos; prazo; fundamentação da decisão contrária ao parecer.
 
 ### Anotações
 
@@ -6935,6 +7492,31 @@ mm) Apresentar propostas ao conselho metropolitano sobre matérias da competênc
 **Fontes.** lei-46-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. Pareceres do conselho estratégico: não vinculam, mas o desvio fundamenta-se — n.º 1**
+
+**Questão.** O conselho estratégico apoia «o processo de decisão dos restantes órgãos», mas nenhuma lei torna obrigatória a sua consulta (anotação 1). Quando o conselho metropolitano ou a comissão executiva lhe pedem parecer, pergunta-se que regime tem a pronúncia: em que prazo é emitida, se o órgão pode decidir sem ela e se pode decidir em sentido contrário sem o explicar.
+
+**Tese.** Os pareceres do conselho estratégico são facultativos e não vinculativos (CPA, art. 91.º, n.º 1). Pedido o parecer, valem as regras gerais: deve ser fundamentado e concluir sobre o que se perguntou, emite-se em 15 dias, salvo disposição especial, e não depois disso (art. 92.º, n.os 1, 3 e 7); passado o prazo, o órgão decide sem ele. O órgão que decida em sentido contrário ao parecer pedido tem de fundamentar o desvio: no acto administrativo, por força do art. 152.º, n.º 1, al. c), do CPA; nos regulamentos, na nota justificativa (art. 99.º) (inferência quanto a estes).
+
+**Fundamentação.**
+- *Letra:* o conselho estratégico é «um órgão de natureza consultiva destinado ao apoio ao processo de decisão dos restantes órgãos da área metropolitana» (n.º 1). A lei não enumera actos sujeitos ao seu parecer.
+- *Sistema:* são facultativos os pareceres que a lei não exige, e não vinculativos aqueles cujas conclusões o órgão decisor não tem de seguir (CPA, art. 91.º, n.º 1). Os pareceres são sempre fundamentados (art. 92.º, n.º 1); na falta de disposição especial, são emitidos em 15 dias (n.º 3), e não podem sê-lo depois (n.º 7); se nem a falta do parecer obrigatório trava o procedimento (n.º 5), a do facultativo também não. Devem ser fundamentados os actos que decidam «em contrário de [...] parecer, informação ou proposta oficial» (art. 152.º, n.º 1, al. c)), podendo a fundamentação consistir na concordância com outros pareceres ou informações (art. 153.º, n.º 1). Os regulamentos aprovam-se com «uma nota justificativa fundamentada» (art. 99.º).
+- *Génese:* na Lei n.º 46/2008, o órgão consultivo podia funcionar «junto da junta metropolitana» (art. 5.º, n.º 3) e servia esse órgão. Em 2013, passou a apoiar todos os órgãos, incluindo a comissão executiva.
+- *Teleologia:* o parecer de um órgão de interesses organizados vale pela razão que dá, não pela força jurídica; a fundamentação do desvio obriga o decisor a ponderá-lo e torna a ponderação controlável (inferência).
+
+**Pareceres e jurisprudência.** Não se encontrou parecer nem decisão sobre os pareceres do conselho estratégico metropolitano, nem sobre os do órgão paralelo das comunidades intermunicipais (art. 98.º).
+
+**Posição contrária.** O parecer facultativo de um órgão de representação de interesses não seria «parecer oficial» para efeitos do art. 152.º, n.º 1, al. c), do CPA: esse conceito abrangeria só os pareceres de serviços ou órgãos técnicos chamados ao procedimento. Não colhe inteiramente: o conselho estratégico é órgão da área metropolitana (art. 68.º), e o parecer que outro órgão lhe pede integra o procedimento como acto de um órgão público. Colhe quanto às pronúncias que o conselho estratégico emita por iniciativa própria, sem pedido: não integram o procedimento e não obrigam a fundamentação específica (inferência).
+
+**Consequências.**
+- Um acto administrativo que decida contra o parecer pedido sem explicar porquê é anulável por falta de fundamentação (CPA, arts. 152.º, n.º 1, al. c), e 163.º, n.º 1).
+- O parecer chegado depois dos 15 dias já não é parecer do procedimento (CPA, art. 92.º, n.º 7); o órgão pode ainda considerá-lo como contributo, sem as consequências do art. 152.º (inferência).
+- Quando submete ao conselho metropolitano um plano ou um projecto de regulamento sobre o qual ouviu o conselho estratégico, a comissão executiva deve dar conta, na proposta ou na nota justificativa, de como ponderou o parecer (inferência).
+- O regimento do conselho estratégico pode prever pronúncias por iniciativa própria; não vinculam nem exigem resposta.
+
+**Fontes.** cpa-2015-pgdl, lei-46-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 79.º — Funcionamento
 
 1 - Compete ao conselho estratégico para o desenvolvimento metropolitano aprovar o respetivo regimento de organização e funcionamento.
@@ -6946,6 +7528,8 @@ mm) Apresentar propostas ao conselho metropolitano sobre matérias da competênc
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 71.º, n.º 1, al. aa)** — O conselho metropolitano ratifica o regimento do conselho estratégico.
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 69.º, n.º 4** — Conselho metropolitano: sem remuneração, sem prejuízo das ajudas de custo.
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 99.º** — Regra idêntica para o conselho estratégico intermunicipal.
+- **Código do Procedimento Administrativo, art. 27.º** — As reuniões dos órgãos da Administração não são públicas, salvo disposição legal em contrário.
+- **Lei n.º 26/2016, de 22 de agosto (LADA), art. 5.º e 6.º, n.º 3** — Acesso livre aos documentos administrativos; diferimento do acesso aos preparatórios.
 
 ### Anotações
 
@@ -6972,6 +7556,30 @@ mm) Apresentar propostas ao conselho metropolitano sobre matérias da competênc
 **Fontes.** lei-46-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. Reuniões reservadas, salvo regimento, e pareceres acessíveis — n.º 1**
+
+**Questão.** A lei declara públicas as reuniões do conselho metropolitano (art. 70.º, n.º 3) e reservadas as da comissão executiva (art. 75.º, n.º 2), mas nada diz sobre as do conselho estratégico. Pergunta-se se são públicas, se o regimento as pode abrir ao público e se as actas e os pareceres são acessíveis.
+
+**Tese.** As reuniões do conselho estratégico não são públicas, salvo se o regimento o determinar: na falta de lei, vale a regra do CPA de que as reuniões dos órgãos da Administração não são públicas (art. 27.º, n.º 1), e o art. 49.º do RJAL, aplicável por via do art. 104.º, só abrange os órgãos deliberativos e executivos. As actas e os pareceres são documentos administrativos, a que todos têm acesso sem invocar interesse (LADA, arts. 3.º, n.º 1, al. a), e 5.º, n.º 1). O acesso a um parecer preparatório pode ser diferido até à decisão, ou por um ano (LADA, art. 6.º, n.º 3), mas não automaticamente.
+
+**Fundamentação.**
+- *Letra:* o conselho estratégico aprova o regimento «de organização e funcionamento» (n.º 1), válido depois de ratificado (n.º 2). O artigo não trata da publicidade.
+- *Sistema:* «As reuniões dos órgãos da Administração Pública não são públicas, salvo disposição legal em contrário» (CPA, art. 27.º, n.º 1); quando o sejam, anunciam-se com 48 horas, e os assistentes podem intervir se a lei o determinar ou o órgão o deliberar (n.os 2 e 3). O RJAL torna públicas as sessões dos órgãos deliberativos e uma reunião mensal dos executivos (art. 49.º, n.os 1 e 2); a remissão do art. 104.º para o regime municipal não encontra nele órgão consultivo homólogo (inferência). Na área metropolitana, a lei decidiu a publicidade órgão a órgão: públicas as reuniões do conselho, reservadas as da comissão. A LADA define documento administrativo como qualquer conteúdo na posse dos órgãos que abrange (art. 3.º, n.º 1, al. a)), dá a todos acesso «sem necessidade de enunciar qualquer interesse» (art. 5.º, n.º 1) e permite diferir o acesso aos documentos «preparatórios de uma decisão» até à decisão, ao arquivamento ou ao decurso de um ano (art. 6.º, n.º 3).
+- *Génese:* o órgão consultivo facultativo da Lei n.º 46/2008 (art. 5.º, n.º 3) não tinha regras de funcionamento (anotação 1); a lei de 2013 remeteu-as para o regimento.
+- *Teleologia:* o conselho estratégico é lugar de concertação entre representantes de interesses; a reserva das reuniões favorece a franqueza da discussão, e a transparência obtém-se pelo acesso ao resultado (inferência).
+
+**Pareceres e jurisprudência.** O TCA Sul, no acórdão de 01-10-2026, proc. 317/26.4BELRA.CS1 (https://www.dgsi.pt/jtca.nsf/170589492546a7fb802575c3004c6d7d/c285d18c3371bcb580258e880037fb12), num pedido de acesso a documentos de um procedimento já decidido, julgou que o diferimento do art. 6.º, n.º 3, da LADA «constituiu um poder discricionário da Administração que não é automático» e exige a demonstração de um nexo entre o acesso imediato e o prejuízo para a instrução ou a decisão (sumário, 4); tomada a decisão final, deixa de haver fundamento para diferir (sumário, 5). Concorda. Não se encontrou parecer nem decisão sobre a publicidade das reuniões do conselho estratégico.
+
+**Posição contrária.** Por via do art. 104.º, o conselho estratégico seguiria o regime dos órgãos deliberativos, cujas sessões são públicas (art. 49.º, n.º 1): é colegial, plural e pronuncia-se sobre as opções da área metropolitana. Não colhe: o conselho estratégico não delibera sobre as matérias da área metropolitana, só se pronuncia, e o art. 49.º liga a publicidade à função deliberativa ou executiva. A lei, que fixou expressamente a publicidade dos outros dois órgãos, não a estendeu ao terceiro, e a regra geral do CPA preenche o silêncio.
+
+**Consequências.**
+- O conselho estratégico reúne sem público, salvo se o regimento dispuser outra coisa; se o fizer, as reuniões anunciam-se com 48 horas, e o regimento pode prever a intervenção do público (CPA, art. 27.º, n.os 2 e 3).
+- Qualquer pessoa pode pedir as actas e os pareceres do conselho estratégico. O acesso ao parecer sobre um projecto ainda em preparação só pode ser diferido se a área metropolitana demonstrar o prejuízo que o acesso imediato causaria; depois da decisão, o acesso é livre.
+- O regimento não pode restringir o acesso às actas e aos pareceres para além do que a LADA permite (inferência).
+
+**Fontes.** cpa-2015-pgdl, lada-pgdl, tcas-2026-10-01-317-26, lei-46-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 79.º-A — Identificação das comunidades intermunicipais
 
 As comunidades intermunicipais são as livremente instituídas pelos municípios integrantes das áreas geográficas definidas no anexo iii e assumem as designações dele constantes.
@@ -6984,6 +7592,7 @@ As comunidades intermunicipais são as livremente instituídas pelos municípios
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 80.º** — Constituição pelas câmaras, aprovação pelas assembleias municipais, contrato; direito potestativo de adesão; mínimo de cinco municípios e 85 000 habitantes.
 - **Lei n.º 75/2013, de 12 de setembro (anexo I), art. 81.º, n.os 4 a 6, 90.º, n.º 4, e 139.º** — Comunidades intermunicipais em território metropolitano: atribuições e competências limitadas; unidades administrativas.
 - **Lei n.º 24-A/2022, de 23 de dezembro, art. 4.º a 8.º** — Adita este artigo e o anexo III, prevê o exercício transitório pela área metropolitana e revoga o art. 66.º, n.º 2.
+- **Lei n.º 75/2013, de 12 de setembro, art. 2.º (preambular)** — Transição de 2013: saída e integração automáticas, com direito de abandono sem sanções nos seis meses seguintes.
 
 ### Anotações
 
@@ -7009,6 +7618,32 @@ As comunidades intermunicipais são as livremente instituídas pelos municípios
 - As freguesias não integram as comunidades intermunicipais. Na eleição dos representantes das assembleias municipais à assembleia intermunicipal votam só os membros eleitos directamente (art. 83.º, n.º 2).
 
 **Fontes.** tc-296-2013, lei-45-2008, lei-24-a-2022, lei-75-2013-dr-original
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. A lei muda a área; o município muda de comunidade por adesão — corpo e anexo III**
+
+**Questão.** A lei pode alterar o anexo III, passando municípios de uma área para outra. Em 2013, a lei preambular regulou a transição (art. 2.º); a Lei n.º 24-A/2022 só previu o exercício transitório de atribuições pela área metropolitana (art. 7.º). Pergunta-se o que acontece à pertença de um município que a lei passa para a área de outra comunidade.
+
+**Tese.** A lei altera a área, não a vontade. O município que a lei retira da área de uma comunidade deixa de a poder integrar: a sua pertença cessa com a entrada em vigor da alteração, porque a comunidade é a dos municípios da área do anexo III (anotação 1) (inferência). A integração na comunidade da nova área não é automática sem norma que o diga: faz-se pelo direito potestativo de adesão (art. 80.º, n.º 4). A saída assim produzida não é abandono e não sofre as sanções do art. 65.º, n.º 2.
+
+**Fundamentação.**
+- *Letra:* as comunidades são «as livremente instituídas pelos municípios integrantes das áreas geográficas definidas no anexo iii»: a área é pressuposto da pertença; a vontade, o seu fundamento.
+- *Sistema:* os estatutos indicam a unidade territorial e a composição (art. 80.º, n.º 3, al. a)); o município de uma unidade territorial onde exista comunidade tem o direito de aderir sem autorização dos restantes (art. 80.º, n.º 4). As comunidades do anexo III são unidades administrativas para efeitos das NUTS (art. 139.º). Em 2013, a lei preambular dispôs que os municípios que deixassem de estar abrangidos pela área de uma comunidade «deixam automaticamente de fazer parte daquela e ficam automaticamente integrados» na da nova área, sem prejuízo do abandono (art. 2.º, n.º 5); deu 90 dias para rever os estatutos e regular as consequências jurídicas (n.º 6); e afastou as sanções do abandono nos seis meses seguintes (n.º 8). As alterações das unidades administrativas comunicam-se à Comissão Europeia, e a nomenclatura NUTS só se altera com periodicidade não inferior a três anos (Regulamento (CE) n.º 1059/2003, art. 5.º, n.os 1 e 4).
+- *Génese:* a Lei n.º 24-A/2022 passou a identificação das áreas do art. 66.º, n.º 2, para este artigo e para o anexo III (arts. 4.º, 5.º e 8.º), sem regime de transição para os municípios que mudaram de área.
+- *Teleologia:* a lei pode delimitar o espaço da associação, mas não fazer de um município associado contra a sua vontade.
+
+**Pareceres e jurisprudência.** O Tribunal Constitucional, no Acórdão n.º 296/2013 (https://www.tribunalconstitucional.pt/tc/acordaos/20130296.html), recusou a natureza associativa a entidades em que a participação dos municípios fosse obrigatória e notou que a Constituição habilita «os municípios (não o legislador)» a constituir associações (art. 253.º). Apoia a exigência de um acto de adesão. Não se encontrou parecer de CCDR nem decisão judicial sobre a transição de 2022.
+
+**Posição contrária.** Por analogia com a lei preambular, o município passaria automaticamente para a comunidade da nova área, sem prejuízo de a abandonar. Colhe quanto à saída e quanto à regulação das consequências patrimoniais (art. 2.º, n.º 6, preambular). Não colhe quanto à entrada: a integração automática foi solução transitória e excepcional, que não se estende por analogia (Código Civil, art. 11.º) e contraria a exigência constitucional de vontade dos municípios. A leitura puramente contratual, que manteria o município na comunidade antiga até a abandonar, também não colhe: a comunidade deixaria de corresponder à sua unidade territorial (art. 139.º).
+
+**Consequências.**
+- Com a entrada em vigor da lei que altera o anexo III, o município deixa de integrar a comunidade da área antiga; esta revê os estatutos e acerta com ele as contribuições, a participação no património e os compromissos em curso (inferência, por analogia com o art. 2.º, n.º 6, da lei preambular).
+- Para integrar a comunidade da nova área, a câmara delibera a adesão e a assembleia municipal aprova-a, sem autorização dos restantes municípios (art. 80.º, n.º 4).
+- A saída imposta pela alteração da área não é abandono: não há perda de benefícios nem impedimento de dois anos (art. 65.º, n.º 2) (inferência).
+- Os órgãos de uma comunidade não podem, por deliberação, manter ou admitir município de outra área.
+- A alteração só se reflecte nas NUTS quando a nomenclatura europeia mudar, o que pode não coincidir com a data da lei.
+
+**Fontes.** lei-24-a-2022, tc-296-2013, reg-ce-1059-2003-consolidado
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 80.º — Instituição e estatutos
@@ -7200,6 +7835,31 @@ São órgãos da comunidade intermunicipal a assembleia intermunicipal, o consel
 **Fontes.** tc-296-2013, tc-608-2014, ccdr-c-5-2017, lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. Publicidade das reuniões e das deliberações dos quatro órgãos — corpo**
+
+**Questão.** A lei diz que as reuniões do conselho intermunicipal são públicas e que as do secretariado não o são. Nada diz sobre as reuniões da assembleia intermunicipal e do conselho estratégico, nem sobre a publicação das deliberações. Pergunta-se que regime de publicidade vale para cada um dos quatro órgãos.
+
+**Tese.** As reuniões da assembleia intermunicipal são públicas, com período de intervenção do público e anúncio prévio, por força do art. 104.º e do art. 49.º, n.os 1 e 3. As do conselho intermunicipal são-no por letra expressa (art. 89.º, n.º 3). As do secretariado não são públicas, mas as actas publicitam-se (art. 95.º, n.os 2 e 4). O conselho estratégico, que não é deliberativo nem executivo, reúne sem público, pela regra geral do CPA (art. 27.º, n.º 1); é inferência. As deliberações com eficácia externa de qualquer dos órgãos publicam-se nos termos do art. 56.º, também por força do art. 104.º (inferência).
+
+**Fundamentação.**
+- *Letra:* «As reuniões do conselho intermunicipal são públicas» (art. 89.º, n.º 3); as do secretariado «não são públicas», e as actas são «obrigatoriamente publicitadas no sítio da Internet» (art. 95.º, n.os 2 e 4). Os arts. 83.º, 98.º e 99.º não tratam da publicidade.
+- *Sistema:* no que a lei não prevê, o funcionamento segue o regime dos órgãos municipais (art. 104.º), que abrange as disposições comuns dos arts. 44.º a 62.º (anotação 1 ao art. 104.º). As sessões dos órgãos deliberativos são públicas, com um período para intervenção do público fixado no regimento (art. 49.º, n.º 1), e anunciam-se com dois dias úteis de antecedência (n.º 3). As deliberações com eficácia externa publicam-se por edital e no sítio da Internet (art. 56.º, n.os 1 e 2). Na lei geral, as reuniões dos órgãos da Administração «não são públicas, salvo disposição legal em contrário» (CPA, art. 27.º, n.º 1). O art. 49.º só cobre órgãos deliberativos e executivos.
+- *Génese:* a Lei n.º 45/2008 não regulava a publicidade das reuniões e remetia o funcionamento para o regime municipal (art. 9.º). A regra sobre o conselho e o secretariado é de 2013. Em 2020, a Lei n.º 1-A/2020, na redacção original, suspendeu temporariamente a realização pública das reuniões dos «órgãos deliberativos das entidades intermunicipais, conforme previsto nos artigos 49.º, 70.º e 89.º» do RJAL (art. 3.º, n.º 2). O legislador leu, portanto, essa publicidade também no art. 49.º, o que só se explica pelo art. 104.º (inferência).
+- *Teleologia:* a assembleia vota o orçamento, as contas e a censura do secretariado (art. 84.º). A publicidade é a condição do controlo pelos cidadãos de um órgão que não elegem directamente.
+
+**Pareceres e jurisprudência.** A CCDR Centro, no Parecer DSAJAL 90/20, de 24-04-2020 (https://www.ccdrc.pt/wp-content/uploads/2020/04/Parecer-DSAJAL-90-20-rvf-978.pdf, p. 4), notou que o RJAL não tem norma de funcionamento dedicada à assembleia intermunicipal e aplicou-lhe, pelo art. 104.º, o regime dos órgãos municipais quanto ao quórum e à votação. Concorda quanto ao método. O STA, no acórdão de 20-11-2014, proc. 0923/14 (https://jurisprudencia.pt/acordao/262565/), decidiu que o art. 104.º faz do regime municipal o direito supletivo de primeira linha, afastando o CPA onde aquele dispõe. Concorda: por isso o art. 49.º prevalece sobre o art. 27.º, n.º 1, do CPA. Não se encontrou parecer nem decisão sobre a publicidade das reuniões da assembleia intermunicipal ou do conselho estratégico.
+
+**Posição contrária.** A lei declarou públicas as reuniões do conselho e calou-se quanto à assembleia; *a contrario*, valeria para esta a regra do CPA. Não colhe. No modelo municipal, um órgão com funções executivas só teria uma reunião pública por mês (art. 49.º, n.º 2), e o n.º 3 do art. 89.º era necessário para tornar públicas todas as do conselho. A assembleia, deliberativa, já recebe a publicidade do art. 49.º, n.º 1, pelo art. 104.º. O argumento colhe para o conselho estratégico, a que nenhuma das regras municipais se ajusta.
+
+**Consequências.**
+- A reunião da assembleia intermunicipal anuncia-se com dois dias úteis de antecedência e tem um período de intervenção do público, de que a acta faz referência sumária (art. 49.º, n.os 1, 3 e 6). Por inferência, a deliberação tomada em reunião indevidamente fechada ao público é anulável (CPA, art. 163.º, n.º 1).
+- Todas as reuniões do conselho são públicas (anotação 1 ao art. 89.º); sobre as reuniões telemáticas, ver a anotação 2 ao mesmo artigo.
+- O secretariado reúne sem público, mas publica as actas e organiza a participação das populações (art. 95.º, n.os 3 e 4).
+- Os regulamentos e as demais deliberações e decisões com eficácia externa publicam-se por edital e no sítio da Internet da comunidade, além do Diário da República quando a lei o exija (art. 56.º, n.º 1; inferência quanto à aplicação).
+
+**Fontes.** ccdr-c-90-2020, sta-2014-11-20-0923-14, lei-1-a-2020-pgdl, cpa-2015-pgdl, lei-45-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 83.º — Constituição e funcionamento
 
 1 - A assembleia intermunicipal é constituída por membros de cada assembleia municipal, eleitos de forma proporcional, nos seguintes termos:
@@ -7243,6 +7903,31 @@ d) Oito nos municípios com mais de 100 000 eleitores.
 **Fontes.** ccdr-c-5-2017, lei-45-2008, l169-1999-v6-pgdl
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. O colégio eleitoral: quórum próprio e escrutínio secreto — n.os 2 e 3**
+
+**Questão.** A eleição dos membros da assembleia intermunicipal faz-se em cada assembleia municipal, só pelos membros eleitos directamente. Pergunta-se se o quórum dessa eleição se conta sobre todos os membros da assembleia municipal ou só sobre o colégio, e se a votação tem de ser secreta.
+
+**Tese.** O colégio do n.º 2 é um corpo eleitoral próprio dentro da assembleia municipal. A eleição exige, além do quórum da sessão, a presença da maioria dos membros eleitos directamente; os presidentes de junta não contam para esse quórum. A tese é uma inferência do n.º 2 e da regra expressa do art. 74.º, n.º 5, para a eleição paralela da comissão executiva metropolitana. A votação faz-se por escrutínio secreto (art. 55.º, n.º 3), em listas, e os mandatos atribuem-se pelo método de Hondt sobre os votos de cada lista.
+
+**Fundamentação.**
+- *Letra:* a eleição ocorre «pelo colégio eleitoral constituído pelo conjunto dos membros da assembleia municipal, eleitos diretamente», mediante listas que não podem exceder o número de lugares do município e que têm pelo menos um suplente (n.º 2). Os mandatos atribuem-se pelo sistema proporcional e pelo método de Hondt (n.º 3). O artigo não fala de quórum nem de forma de votação.
+- *Sistema:* a eleição é um acto da assembleia municipal, a que se aplicam directamente as regras comuns do RJAL: quórum da maioria do número legal dos membros (art. 54.º, n.º 1) e escrutínio secreto nas deliberações que envolvam a apreciação de qualidades de pessoas, onde cabem as eleições (art. 55.º, n.º 3; anotação 2 ao art. 55.º). Para a eleição da comissão executiva metropolitana, também feita nas assembleias municipais, a lei diz que «só participam e têm direito a voto os membros eleitos das assembleias municipais, com base nos quais se apura o quórum» (art. 74.º, n.º 5). O n.º 2 do art. 83.º usa a mesma distinção entre membros eleitos directamente e presidentes de junta, mas não a leva ao quórum.
+- *Génese:* a Lei n.º 45/2008 já entregava a eleição ao mesmo colégio (art. 11.º, n.º 3), tal como a Lei n.º 46/2008 para a antiga assembleia metropolitana (art. 9.º, n.º 3). A regra expressa do quórum surgiu em 2013, só para a comissão executiva metropolitana.
+- *Teleologia:* o colégio reproduz a proporção saída do voto directo. Medir o quórum sobre quem não vota permitiria eleger com uma minoria do colégio presente.
+
+**Pareceres e jurisprudência.** Não se encontrou parecer nem decisão sobre o quórum desta eleição. A CCDR Centro, no Parecer DSAJAL 44/10, de 15-03-2010 (https://www.ccdrc.pt/pt/34046/), entendeu que as eleições exigem escrutínio secreto, «visto que indirectamente com uma eleição se está a apreciar as qualidades de quem se pretende eleger». Concorda. O Conselho Consultivo da PGR, no Parecer n.º 28/2024 (https://www.ministeriopublico.pt/sites/default/files/2024-11/pp_28_2024_0.pdf, conclusão 16.ª), afirma que os presidentes de junta integram a assembleia municipal «por inerência e não por “eleição”». Apoia a tese de que ficam fora do universo dos membros eleitos directamente. O STA, no acórdão de 20-11-2014, proc. 0923/14 (https://jurisprudencia.pt/acordao/262565/), julgou que o quórum se conta por membros, se verifica no momento da deliberação e que a eleição feita sem ele é nula. Concorda, por analogia.
+
+**Posição contrária.** A eleição é uma deliberação da assembleia municipal, e o quórum desta conta-se sobre todos os seus membros, incluindo os presidentes de junta, que nela participam de pleno direito; a lei só lhes retira o voto. Colhe em parte: a sessão precisa do seu quórum normal, sobre todos os membros. Não colhe quanto à eleição: o quórum garante que decide uma parte representativa de quem pode decidir, e a lei, na eleição paralela, mediu-o sobre o colégio.
+
+**Consequências.**
+- Uma assembleia municipal com quórum para os restantes pontos, mas sem a maioria dos membros eleitos directamente presentes, não procede à eleição; por inferência, a eleição feita nessas condições é nula (CPA, art. 161.º, n.º 2, al. h)).
+- A eleição por votação nominal ou de braço no ar é anulável por vício de forma e pode ser renovada em votação secreta (anotação 2 ao art. 55.º). Ao contrário do art. 74.º, n.º 6, o art. 83.º não comina a nulidade.
+- Os presidentes de junta não votam (anotação 1 a este artigo) nem contam para o quórum da eleição, mas contam para o quórum da sessão em que ela se realiza.
+- Se uma lista obtiver mais mandatos do que candidatos e suplentes, ou se esgotar na substituição dos seus membros (anotação 2 ao art. 101.º), a lei não dá solução. Por inferência, o lugar preenche-se por nova eleição no colégio, com o mesmo quórum e forma; a Lei n.º 46/2008 remetia estas vagas para o regime das assembleias municipais (art. 9.º, n.º 6).
+
+**Fontes.** ccdr-c-44-2010, pgr-28-2024, sta-2014-11-20-0923-14, lei-45-2008, lei-46-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 84.º — Competências
 
 Compete à assembleia intermunicipal:
@@ -7284,6 +7969,30 @@ f) Aprovar moções de censura ao secretariado executivo intermunicipal.
 **Fontes.** ccdr-c-111-2016, ccdr-a-guiao-cim-2013, lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. O «órgão deliberativo» das leis financeiras: compromissos plurianuais e auditor externo — als. b) e e)**
+
+**Questão.** A lei dos compromissos e o regime financeiro local exigem a intervenção da «assembleia municipal» ou do «órgão deliberativo» em actos que o art. 84.º não enumera: a autorização prévia dos compromissos plurianuais e a nomeação do auditor externo. Na comunidade, também o conselho tem funções deliberativas. Pergunta-se qual dos dois órgãos pratica esses actos.
+
+**Tese.** Pratica-os a assembleia intermunicipal, sob proposta do conselho intermunicipal. As leis financeiras designam o órgão pela função: o que aprova as opções do plano e o orçamento e vota as contas, que na comunidade é a assembleia (al. b)). A al. e) acolhe os poderes que essas leis lhe conferem. A autorização prévia dos compromissos plurianuais pode ser dada com a aprovação das opções do plano.
+
+**Fundamentação.**
+- *Letra:* compete à assembleia aprovar, sob proposta do conselho, as opções do plano, o orçamento e as revisões, e votar as contas (al. b)), e exercer os poderes que a lei lhe confira (al. e)). A assunção de compromissos plurianuais depende de autorização prévia «Da assembleia municipal, quando envolvam entidades da administração local» (Lei n.º 8/2012, art. 6.º, n.º 1, al. c)), que o «órgão deliberativo competente» pode dar «aquando da aprovação das Grandes Opções do Plano» (Decreto-Lei n.º 127/2012, art. 12.º, n.º 1). O auditor externo «é nomeado por deliberação do órgão deliberativo, sob proposta do órgão executivo» (Lei n.º 73/2013, art. 77.º, n.º 1).
+- *Sistema:* o regime financeiro aplica-se às entidades intermunicipais (Lei n.º 73/2013, arts. 1.º e 2.º, al. b)) e estende-lhes, com adaptações, o calendário e o conteúdo do orçamento municipal, incluindo as grandes opções do plano (art. 68.º, n.º 5, e arts. 45.º e 46.º). Compromissos plurianuais são os que obrigam a pagamentos em mais de um ano económico (Lei n.º 8/2012, art. 3.º, al. b)). O conselho submete à assembleia o plano e o orçamento e apresenta-lhe as contas (RJAL, art. 90.º, n.º 1, als. c) e s)); por inferência, é ele o «órgão executivo» que propõe o auditor.
+- *Génese:* na Lei n.º 45/2008, a assembleia nomeava o revisor oficial de contas sob proposta do conselho executivo (art. 13.º, al. o)) e autorizava os empréstimos (al. l)). O art. 84.º deixou de o dizer, por inferência porque o regime financeiro, aprovado dias antes, regulou o auditor externo por referência ao órgão deliberativo.
+- *Teleologia:* a autorização dos encargos plurianuais e a escolha de quem certifica as contas são instrumentos de controlo do orçamento; cabem ao órgão que o vota, separado do que o propõe.
+
+**Pareceres e jurisprudência.** Não se encontrou parecer nem decisão sobre a aplicação destas normas às comunidades intermunicipais. O guião da CCDR Alentejo de 2013 (https://www.ccdr-a.gov.pt/docs/ccdra/gestao/Guiao_Transicao_CIMs_VFinal.pdf, p. 3) exigiu a aprovação dos dois órgãos para a revisão transitória dos estatutos, porque a lei atribuía a competência à comunidade sem designar o órgão e ambos exercem funções deliberativas. Diverge só na aparência: aqui as leis designam o órgão pela função orçamental. A CCDR Centro, no Parecer DSAJAL 111/16, de 22-06-2016 (https://www.ccdrc.pt/pt/34215/), recusou a analogia entre a assembleia municipal e a intermunicipal em matéria de serviços e pessoal, porque a lei não deu essas competências à segunda. Concorda com o método: decide a função que a lei atribui a cada órgão.
+
+**Posição contrária.** O conselho é «Verdadeiramente um dos (dois) órgãos deliberativos» da comunidade (CCDR Centro, Parecer DSAJAL 5/17, nota 15) e o seu centro de decisão, que aprova planos, projectos de investimento e contratos de delegação (art. 90.º, n.º 1, als. d) e l)); seria ele o órgão da lei dos compromissos. Não colhe: a autorização prévia controla os orçamentos futuros, e o Decreto-Lei n.º 127/2012 liga-a à aprovação das grandes opções do plano, que é da assembleia. Colhe num ponto: quando o compromisso nasce de decisão do conselho, as duas intervenções somam-se.
+
+**Consequências.**
+- A assembleia pode autorizar, com a aprovação das opções do plano, os compromissos plurianuais nelas previstos; a reprogramação que aumente a despesa exige nova autorização (Decreto-Lei n.º 127/2012, art. 12.º, n.º 2). Quem assuma compromissos sem ela incorre na responsabilidade do art. 11.º, n.º 1, da Lei n.º 8/2012.
+- O auditor externo é nomeado pela assembleia, sob proposta do conselho, e informa semestralmente os dois órgãos sobre a situação económica e financeira (Lei n.º 73/2013, art. 77.º, n.º 2, al. d)). É uma via de informação da assembleia, que não tem poderes gerais de fiscalização (anotação 1 a este artigo).
+- A lei não diz que órgão autoriza os empréstimos da comunidade (Lei n.º 73/2013, art. 70.º, n.º 1). Por inferência, o empréstimo de médio ou longo prazo é compromisso plurianual e precisa, em qualquer caso, da autorização prévia da assembleia.
+
+**Fontes.** lei-8-2012-pgdl, dl-127-2012-pgdl, lei-73-2013-pgdl, lei-45-2008, ccdr-a-guiao-cim-2013, ccdr-c-111-2016, ccdr-c-5-2017
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 85.º — Mesa da assembleia intermunicipal
 
 1 - Os trabalhos da assembleia intermunicipal são dirigidos por uma mesa, constituída pelo presidente, um vice-presidente e um secretário, a eleger por voto secreto de entre os seus membros.
@@ -7318,6 +8027,31 @@ f) Aprovar moções de censura ao secretariado executivo intermunicipal.
 - Até à eleição da mesa, os eleitos mais antigos convocam e dirigem; se a assembleia tiver de deliberar sobre a lista do secretariado, deve reunir no prazo do art. 94.º, n.º 2.
 
 **Fontes.** ccdr-c-99-2022, ccdr-a-guiao-cim-2013, lei-45-2008, l169-1999-v6-pgdl
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. Mandato e destituição da mesa da assembleia intermunicipal — n.º 1**
+
+**Questão.** O artigo diz como se compõe e elege a mesa, mas não por quanto tempo, nem se a assembleia intermunicipal pode destituí-la. Pergunta-se se a assembleia pode destituir a mesa ou algum dos seus membros, com que maioria e com que forma.
+
+**Tese.** A mesa é eleita pelo período do mandato, e cada um dos seus membros pode ser destituído a todo o tempo por deliberação da maioria do número legal dos membros da assembleia intermunicipal. A deliberação toma-se por escrutínio secreto, membro a membro, numa reunião em cuja ordem do dia o assunto conste. Aplica-se, por força do art. 104.º, o art. 46.º, n.º 2, da Lei n.º 169/99. A destituição retira o cargo na mesa, não o lugar na assembleia.
+
+**Fundamentação.**
+- *Letra:* a mesa é constituída pelo presidente, um vice-presidente e um secretário, «a eleger por voto secreto de entre os seus membros» (n.º 1); enquanto não for eleita, os trabalhos são dirigidos pelos eleitos mais antigos (n.º 2). Eleger a mesa é competência da assembleia (art. 84.º, al. a)).
+- *Sistema:* o funcionamento das entidades intermunicipais rege-se, no omisso, pelo regime dos órgãos municipais (art. 104.º), que inclui as normas em vigor da Lei n.º 169/99 (anotação 1 ao art. 104.º). Para a assembleia municipal, a mesa «é eleita pelo período do mandato, podendo os seus membros ser destituídos, em qualquer altura, por deliberação tomada pela maioria do número legal dos membros da assembleia» (Lei n.º 169/99, art. 46.º, n.º 2). Na ausência simultânea de todos ou da maioria dos membros da mesa, a assembleia elege, por voto secreto, quem a integre para essa reunião (n.º 4). A norma especial da Lei n.º 169/99 prevalece sobre a regra geral da pluralidade de votos (art. 54.º, n.º 2; tema «Órgãos colegiais: o RJAL e o CPA»). A destituição aprecia o desempenho de pessoas e vota-se em segredo (art. 55.º, n.º 3).
+- *Génese:* o artigo reproduz o art. 12.º da Lei n.º 45/2008, que também não regulava a destituição e remetia o funcionamento para o regime dos órgãos municipais (art. 9.º).
+- *Teleologia:* a mesa dirige os trabalhos por confiança dos pares e responde perante eles; a maioria absoluta do número legal impede que uma maioria ocasional a afaste. Na assembleia intermunicipal a estabilidade da presidência pesa mais, porque o presidente conduz a eleição do secretariado (art. 94.º, n.º 2).
+
+**Pareceres e jurisprudência.** A CCDR Centro, no Parecer DSAJAL 266/15, de 22-10-2015 (https://www.ccdrc.pt/pt/34194/), sobre a assembleia municipal, entendeu que os membros da mesa podem ser destituídos a qualquer momento pela maioria do número legal, ao abrigo do art. 46.º, n.º 2, da Lei n.º 169/99. Entendeu também que os destituídos continuam membros de pleno direito da assembleia e que a substituição do presidente se faz da mesma forma em que se realizou a sua eleição. Concorda. A mesma CCDR, nos Pareceres DSAJAL 121/07, de 28-05-2007 (https://www.ccdrc.pt/pt/33904/), e DSAJAL 173/07, de 31-07-2007 (https://www.ccdrc.pt/pt/33911/), sobre a mesa da assembleia de freguesia, concluiu que a destituição se faz por deliberação da maioria do número legal, em escrutínio secreto e por proposta autónoma para cada membro, e não por moção de censura. Concorda. Não se encontrou parecer sobre a mesa da assembleia intermunicipal.
+
+**Posição contrária.** A assembleia intermunicipal tem só as competências enumeradas (anotação 1 ao art. 84.º), e nenhuma lhe permite destituir a mesa; ou, admitida a destituição, bastaria a pluralidade de votos do art. 54.º, n.º 2. Não colhe. A composição e a renovação da mesa são matéria de funcionamento do órgão, que o art. 104.º remete para o regime municipal; e quem tem competência para eleger a mesa (art. 84.º, al. a)) exerce-a também para a recompor (inferência). A maioria é a especial do art. 46.º, n.º 2, da Lei n.º 169/99.
+
+**Consequências.**
+- A destituição exige que o ponto conste da ordem do dia de uma reunião ordinária ou extraordinária, votações secretas separadas para cada membro e a maioria do número legal de membros da assembleia, isto é, da soma dos lugares de todos os municípios (art. 83.º, n.º 1), e não dos presentes.
+- Tomada sem essa maioria, a deliberação é nula (CPA, art. 161.º, n.º 2, al. h)); com violação das regras de agendamento, é anulável (anotação 1 ao art. 13.º).
+- O membro destituído continua na assembleia. O lugar na mesa preenche-se por nova eleição secreta, que pode ocorrer na mesma reunião se constar da ordem do dia (inferência).
+- Destituído o presidente, dirige os trabalhos o vice-presidente até à eleição do substituto; sobre os efeitos da eleição de novo presidente no mandato do secretariado, ver a anotação 2 ao art. 86.º.
+
+**Fontes.** ccdr-c-266-2015, ccdr-c-121-2007, ccdr-c-173-2007, lei-169-1999-pgdl, lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 86.º — Presidente da assembleia intermunicipal
@@ -7357,6 +8091,31 @@ c) Exercer os demais poderes que lhe sejam conferidos por lei, pelos estatutos, 
 **Fontes.** ccdr-a-guiao-cim-2013, lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. Falta, impedimento e vacatura do presidente: o vice-presidente e o mandato do secretariado — corpo**
+
+**Questão.** O artigo não diz quem substitui o presidente da assembleia intermunicipal, nem o que acontece quando o cargo fica vago a meio do mandato. Como a eleição de novo presidente da assembleia marca o fim do mandato do secretariado (art. 101.º, n.º 3), pergunta-se também se uma eleição a meio do mandato faz cessar esse mandato.
+
+**Tese.** Nas faltas e impedimentos, o presidente é substituído pelo vice-presidente e este pelo secretário da mesa, por aplicação adaptada do art. 46.º, n.º 3, da Lei n.º 169/99 (art. 104.º). Vago o cargo, por perda ou renúncia do mandato municipal, por destituição ou por outra causa, a assembleia elege novo presidente, que completa o mandato. Essa eleição não faz cessar o mandato do secretariado: só o faz a eleição do presidente que se segue às eleições gerais para os órgãos deliberativos dos municípios.
+
+**Fundamentação.**
+- *Letra:* o presidente convoca as reuniões, dirige os trabalhos e exerce os demais poderes conferidos por lei, estatutos, regimento ou pela assembleia. A mesa tem presidente, vice-presidente e secretário (art. 85.º, n.º 1). O mandato do secretariado «cessa com a eleição de novo presidente do conselho metropolitano e da assembleia intermunicipal, respetivamente, na sequência da realização de eleições gerais para os órgãos deliberativos dos municípios, sem prejuízo do disposto no artigo seguinte» (art. 101.º, n.º 3).
+- *Sistema:* na assembleia municipal, «O presidente é substituído, nas suas faltas e impedimentos, pelo 1.º secretário e este pelo 2.º secretário» (Lei n.º 169/99, art. 46.º, n.º 3). Na assembleia intermunicipal, a mesa tem um vice-presidente, cuja função própria é, por inferência, a substituição. O lugar do presidente na assembleia depende do seu mandato na assembleia municipal (anotação 2 ao art. 101.º). Os membros do secretariado eleitos após dissolução ou vacatura completam o mandato iniciado depois das eleições gerais (art. 103.º, n.º 3), o mesmo valendo, por inferência, após demissão (anotação 1 ao art. 102.º); e os membros cessantes mantêm-se em funções até à posse dos sucessores (art. 101.º, n.º 4).
+- *Génese:* os arts. 12.º e 14.º da Lei n.º 45/2008 tinham o mesmo texto. Não havia regra como a do art. 101.º, n.º 3, porque o secretário executivo era designado pela assembleia e exercia funções durante o mandato dos órgãos, podendo ser exonerado a todo o tempo (art. 19.º, n.º 3). A ligação entre a eleição do presidente da assembleia e o termo do mandato do executivo é de 2013.
+- *Teleologia:* o art. 101.º, n.º 3, faz coincidir o ciclo do executivo com a renovação das assembleias municipais. A eleição do presidente pela nova assembleia é o marco de que ela está constituída. Uma eleição a meio do mandato não renova a composição da assembleia e não dá razão para renovar o executivo (inferência).
+
+**Pareceres e jurisprudência.** A CCDR Centro, no Parecer DSAJAL 266/15, de 22-10-2015 (https://www.ccdrc.pt/pt/34194/), sobre a assembleia municipal, entendeu que o presidente da mesa que deixa o cargo se substitui por nova eleição secreta, uninominal ou por listas, conforme o regimento. Concorda. O guião da CCDR Alentejo de 2013 (https://www.ccdr-a.gov.pt/docs/ccdra/gestao/Guiao_Transicao_CIMs_VFinal.pdf, p. 2) leu o art. 101.º como consagração do princípio de que os titulares se mantêm em funções até serem legalmente substituídos. Concorda. Não se encontrou parecer nem decisão sobre a eleição do presidente da assembleia intermunicipal a meio do mandato.
+
+**Posição contrária.** O n.º 3 do art. 101.º diz que o mandato do secretariado cessa «com a eleição de novo presidente» da assembleia; qualquer eleição de novo presidente teria esse efeito. A assembleia poderia, destituindo o presidente e elegendo outro, pôr termo ao mandato do secretariado. Não colhe: a expressão «na sequência da realização de eleições gerais» qualifica a eleição relevante. A assembleia tem para isso um meio próprio, a moção de censura, com regime e efeitos definidos (arts. 84.º, al. f), e 102.º, n.º 1, al. b)); a lei não criou um segundo meio, indirecto.
+
+**Consequências.**
+- Na falta do presidente, o vice-presidente convoca e dirige as reuniões; na falta de ambos, o secretário. Na ausência simultânea da maioria da mesa, a assembleia elege quem a integre nessa reunião (Lei n.º 169/99, art. 46.º, n.º 4).
+- Se o cargo estiver vago quando o conselho comunicar a lista do secretariado, o vice-presidente desencadeia a reunião do art. 94.º, n.º 2, nos 30 dias seguintes (inferência).
+- O presidente eleito a meio do mandato completa-o; o secretariado continua em funções.
+- Depois das eleições gerais, a eleição do presidente pela nova assembleia faz cessar o mandato do secretariado, cujos membros asseguram a gestão até à posse dos novos (anotação 3 ao art. 101.º). Sobre a destituição do presidente, ver a anotação 2 ao art. 85.º.
+
+**Fontes.** ccdr-c-266-2015, ccdr-a-guiao-cim-2013, lei-169-1999-pgdl, lei-45-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 87.º — Senhas de presença
 
 1 - Os membros da assembleia intermunicipal têm direito a uma senha de presença pela participação nas reuniões ordinárias, calculada nos termos aplicáveis ao pagamento das senhas de presença abonadas aos membros das assembleias municipais.
@@ -7390,6 +8149,31 @@ c) Exercer os demais poderes que lhe sejam conferidos por lei, pelos estatutos, 
 - As senhas são despesa da comunidade, por inferência do paralelo com o n.º 11 do art. 97.º; nada no artigo as põe a cargo dos municípios.
 
 **Fontes.** ccdr-c-30-2018, lei-29-1987-pgdl, lei-45-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. A senha intermunicipal acumula com a municipal e não depende do regime do eleito noutro órgão — n.º 1**
+
+**Questão.** Os membros da assembleia intermunicipal também recebem senhas na assembleia municipal. Pergunta-se se a senha intermunicipal se acumula com a municipal, se é afastada quando o membro está em regime de permanência ou de meio tempo noutro órgão, e que efeito tem a redacção do Estatuto dos Eleitos Locais dada pela Lei n.º 82/2023.
+
+**Tese.** A senha intermunicipal é um direito próprio, que nasce do art. 87.º, n.º 1, e é paga pela comunidade. Acumula-se com as senhas da assembleia municipal, ainda que as reuniões sejam no mesmo dia, porque paga a participação noutro órgão. Do Estatuto dos Eleitos Locais, o n.º 1 só importa o cálculo do valor. Não importa a exclusão dos eleitos em regime de permanência ou de meio tempo, que de resto se refere ao órgão onde esse regime é exercido. A redacção de 2023 não alarga a senha intermunicipal às reuniões extraordinárias nem às comissões.
+
+**Fundamentação.**
+- *Letra:* «Os membros da assembleia intermunicipal têm direito a uma senha de presença pela participação nas reuniões ordinárias», «calculada nos termos aplicáveis» às senhas dos membros das assembleias municipais (n.º 1). No Estatuto, na redacção actual, os eleitos «que não se encontrem em regime de permanência ou de meio tempo têm direito a uma senha de presença por cada reunião das sessões ordinárias ou extraordinárias do respetivo órgão e das comissões a que compareçam e participem» (Lei n.º 29/87, art. 10.º, n.º 1). O valor é de 3 %, 2,5 % e 2 % da remuneração base do presidente da câmara (n.º 2).
+- *Sistema:* a assembleia intermunicipal é órgão de outra pessoa colectiva, com reuniões próprias (art. 83.º, n.º 4). O Estatuto atribui a senha pelo «respetivo órgão». As senhas da assembleia municipal são despesa do município (art. 31.º, n.º 3); as da intermunicipal, por inferência, da comunidade (anotação 1 a este artigo).
+- *Génese:* a Lei n.º 45/2008 não previa senhas na assembleia intermunicipal. Antes da Lei n.º 82/2023, o Estatuto dava a senha «por cada reunião ordinária ou extraordinária do respectivo órgão», e a DGAL contava, desde 2010, uma só por sessão da assembleia municipal; hoje conta-se cada reunião das sessões. O art. 87.º manteve o seu âmbito: só as reuniões ordinárias.
+- *Teleologia:* a senha compensa o eleito sem remuneração pela participação em cada órgão; a da assembleia intermunicipal é prestada a outra entidade.
+
+**Pareceres e jurisprudência.** A CCDR Centro, no Parecer DSAJAL 30/18, de 31-01-2018 (https://www.ccdrc.pt/wp-content/uploads/2018/10/Parecer-DSAJAL-30-18-1ed.pdf, p. 2), afirma que o direito se restringe às reuniões ordinárias e que o montante «é calculado nos termos aplicáveis» às senhas da assembleia municipal. Concorda: a remissão é de cálculo. A CCDR LVT, no Parecer Jurídico n.º 36/CCDR-LVT/2012 (https://www.ccdr-lvt.pt/wp-content/uploads/2022/03/4f5f962de494fbf4748cb6073b21570ea1c1b55e.pdf, p. 2), entendeu que os presidentes de junta têm senha nas reuniões da assembleia municipal, mesmo em regime de tempo inteiro na junta, porque nesse órgão não estão em regime de permanência. Concorda; a razão vale por maioria na assembleia intermunicipal (anotação 2 ao art. 31.º). A CCDR Centro, no Parecer 268/02, de 18-09-2002 (https://www.ccdrc.pt/pt/33437/), exigiu que o eleito compareça e participe nos trabalhos. Concorda: o art. 87.º fala de «participação». No Parecer DAJ 279/12, de 23-11-2012 (https://www.ccdrc.pt/pt/34140/), a mesma CCDR seguiu a regra de uma senha por sessão, depois afastada pela Lei n.º 82/2023. Não se encontrou parecer sobre a acumulação das duas senhas.
+
+**Posição contrária.** A remissão do n.º 1 importaria todo o regime do Estatuto, incluindo a exclusão dos eleitos em regime de permanência ou de meio tempo; e a senha intermunicipal pagaria uma segunda vez a mesma qualidade de membro da assembleia municipal. Não colhe. O n.º 1 atribui o direito a todos os membros da assembleia intermunicipal e remete só o cálculo; a assembleia intermunicipal tem reuniões e deliberações próprias; e nenhuma norma proíbe a acumulação de senhas de órgãos diferentes. O argumento colhe quanto às ajudas de custo, que o n.º 2 exclui na assembleia intermunicipal.
+
+**Consequências.**
+- Quem, no mesmo dia, participa numa sessão da assembleia municipal e numa reunião ordinária da intermunicipal recebe as duas senhas, cada uma paga pela sua entidade (inferência).
+- O presidente de junta a tempo inteiro eleito para a assembleia intermunicipal (anotação 1 ao art. 83.º) recebe a senha (inferência).
+- Não há senha pelas reuniões extraordinárias nem pelas comissões ou grupos de trabalho da assembleia intermunicipal, apesar de o Estatuto as prever para os órgãos municipais.
+- Se uma reunião ordinária continuar noutro dia, a remissão para o regime de pagamento da assembleia municipal aponta, desde a Lei n.º 82/2023, para uma senha por cada dia de trabalhos. É inferência: em sentido contrário pesa a letra do art. 83.º, n.º 4, que conta as reuniões ordinárias como duas por ano.
+
+**Fontes.** lei-29-1987-pgdl, ccdr-c-30-2018, ccdr-lvt-36-2012, ccdr-c-268-2002, ccdr-c-279-2012, lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 88.º — Constituição
@@ -7431,6 +8215,31 @@ c) Exercer os demais poderes que lhe sejam conferidos por lei, pelos estatutos, 
 **Fontes.** ccdr-c-218-2019, sta-2014-11-20-0923-14, ccdr-a-guiao-cim-2013, lei-45-2008, lei-29-1987-pgdl, l169-1999-v6-pgdl
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. As ajudas de custo do n.º 3: as do Estatuto dos Eleitos Locais, pagas pelo município — n.º 3**
+
+**Questão.** O exercício de funções no conselho não é remunerado, «sem prejuízo das ajudas de custo devidas nos termos da lei». Pergunta-se que ajudas de custo são essas e quem as suporta: a comunidade, cujo órgão reúne, ou o município, cujo presidente se desloca. A anotação 1 deixou a última questão em aberto.
+
+**Tese.** São as ajudas de custo do Estatuto dos Eleitos Locais para os membros da câmara que se desloquem em serviço para fora da área do município, a que acresce o subsídio de transporte quando não usem viatura municipal. Suporta-as o orçamento do município: o presidente de câmara vai ao conselho por inerência, no exercício do cargo municipal, e nenhuma norma transfere o encargo para a comunidade, ao contrário do que a lei fez para o secretariado (art. 97.º, n.º 11). Por inferência, as despesas de missões em representação da comunidade, decididas pelo conselho, podem ser assumidas por esta, e então não há ajudas de custo na parte coberta.
+
+**Fundamentação.**
+- *Letra:* «Ao exercício de funções no conselho intermunicipal não corresponde qualquer remuneração, sem prejuízo das ajudas de custo devidas nos termos da lei» (n.º 3). Os membros das câmaras e das assembleias municipais têm direito a ajudas de custo «quando se desloquem, por motivo de serviço, para fora da área do município», e a subsídio de transporte quando não utilizem viaturas municipais (Lei n.º 29/87, arts. 11.º, n.º 1, e 12.º, n.º 1). Os encargos previstos no Estatuto «são suportados pelo orçamento da respectiva autarquia local» (art. 24.º, n.º 1).
+- *Sistema:* o Estatuto só abrange os membros dos órgãos municipais e de freguesia (Lei n.º 29/87, art. 1.º, n.º 2); o presidente de câmara tem o direito nessa qualidade. Quando o legislador quis que os encargos seguissem o órgão em que o eleito participa, disse-o (art. 24.º, n.º 2, para os presidentes de junta na assembleia municipal). As remunerações do secretariado são da comunidade (art. 97.º, n.º 11); para o conselho não há norma igual. As despesas da comunidade são as da prossecução das suas atribuições (Lei n.º 73/2013, art. 68.º, n.º 4). O conselho reúne em qualquer dos municípios (art. 89.º, n.º 5).
+- *Génese:* a Lei n.º 45/2008 nada dizia sobre o estatuto dos membros do conselho executivo (art. 15.º). A ressalva é de 2013, igual à do conselho metropolitano (art. 69.º, n.º 4).
+- *Teleologia:* o lugar no conselho é inerente a um cargo já remunerado; as ajudas de custo só compensam as despesas da deslocação, que o município suporta como as de outro serviço do seu presidente.
+
+**Pareceres e jurisprudência.** A CCDR Alentejo, no Parecer n.º 95/2004, de 07-06-2004 (https://www.ccdr-a.gov.pt/app_ext/pareceres/printpdf.php?id=368, pp. 1-2), entendeu que o presidente de junta deslocado em representação da assembleia municipal tem ajudas de custo nessa qualidade, pagas pelas dotações da assembleia, e que não as há na parte das despesas paga directamente pelo serviço. Diverge em parte: apoiou-se numa norma que punha o encargo no orçamento da assembleia, sem equivalente para o conselho. A CCDR Centro, no Parecer DSAJAL 218/19, de 19-11-2019 (https://www.ccdrc.pt/wp-content/uploads/2020/03/2019-11-19-Parecer-DSAJAL-218-19-rvf-589.pdf, p. 5), afirma que o presidente integra o conselho «por ser titular de um cargo (órgão) municipal». Concorda: a ida ao conselho é exercício desse cargo. Não se encontrou parecer sobre quem suporta as ajudas de custo dos membros do conselho.
+
+**Posição contrária.** O encargo nasce do funcionamento de um órgão da comunidade, e o critério da CCDR Alentejo, a qualidade em que o eleito se desloca, poria a despesa a cargo da comunidade, como as senhas da assembleia intermunicipal (anotação 1 ao art. 87.º). Colhe em parte: nas missões em que o presidente do conselho representa a comunidade (art. 92.º, als. a) e b)), as despesas de deslocação são da prossecução das atribuições desta, que as pode assumir (inferência). Não colhe para as reuniões do conselho: a deslocação é o exercício normal de um cargo inerente ao de presidente de câmara, e o Estatuto só afasta o encargo da autarquia do eleito quando o diz.
+
+**Consequências.**
+- O presidente de câmara recebe do município as ajudas de custo, e o subsídio de transporte se não usar viatura municipal, pelas reuniões do conselho realizadas fora do seu município; pelas que se realizem no seu município, por inferência, não.
+- Não há senha de presença no conselho (n.º 3; Lei n.º 29/87, art. 10.º, n.º 1).
+- O vice-presidente da câmara que substitua o presidente no conselho (anotação 1 a este artigo) tem o mesmo regime, pago pelo município (inferência).
+- Se a comunidade pagar directamente o alojamento e a alimentação de uma missão, as ajudas de custo não são devidas nessa parte.
+
+**Fontes.** lei-29-1987-pgdl, ccdr-a-95-2004, ccdr-c-218-2019, lei-73-2013-pgdl, lei-45-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 89.º — Reuniões
 
 1 - O conselho intermunicipal tem 12 reuniões anuais com periodicidade mensal.
@@ -7469,6 +8278,32 @@ c) Exercer os demais poderes que lhe sejam conferidos por lei, pelos estatutos, 
 - O presidente da câmara do município com mais eleitores convoca a primeira reunião; o conselho elege nela o presidente e os vice-presidentes (art. 90.º, n.º 1, al. a)) e aprova a lista do secretariado (art. 94.º, n.º 1).
 
 **Fontes.** ccdr-a-guiao-cim-2013, sta-2014-11-20-0923-14, lei-45-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. Reuniões por meios telemáticos de um conselho que reúne sempre em público — n.os 3 e 5**
+
+**Questão.** Os membros do conselho são presidentes de câmara de municípios por vezes distantes. Pergunta-se se o conselho pode reunir por meios telemáticos e o que isso exige, sendo todas as suas reuniões públicas e as deliberações aprovadas por voto ponderado.
+
+**Tese.** Pode, total ou parcialmente, porque o RJAL nada diz e o art. 24.º-A do CPA o admite. Mas a publicidade do n.º 3 tem de ser assegurada: a reunião tem um local aberto ao público num dos municípios, ou um meio que permita ao público assistir e, por inferência, intervir. Os membros que participam à distância contam para o quórum e votam nominalmente, de forma identificável, para que se apure o voto ponderado do art. 105.º. As votações por escrutínio secreto só se fazem à distância com um meio que garanta o segredo; sem ele, fazem-se presencialmente (inferência).
+
+**Fundamentação.**
+- *Letra:* «As reuniões do conselho intermunicipal são públicas» (n.º 3) e «podem realizar-se na circunscrição territorial de qualquer dos municípios» (n.º 5). «Sempre que as condições técnicas o permitam, as reuniões podem ser realizadas por meios telemáticos», com menção expressa na acta (CPA, art. 24.º-A, n.os 1 e 2).
+- *Sistema:* no omisso, o conselho segue o regime dos órgãos municipais (art. 104.º), que não regula as reuniões telemáticas; nessa lacuna aplica-se o CPA, dentro dos limites que o RJAL impõe a cada órgão (tema «Órgãos colegiais: o RJAL e o CPA»). A convocatória indica os meios telemáticos disponibilizados (CPA, arts. 23.º, n.º 1, e 24.º, n.º 4), e os membros que participem por essa via contam para o quórum (art. 29.º, n.º 1). O quórum do conselho é o do art. 54.º, n.º 1, contado por membros. A votação é nominal (art. 55.º, n.º 1), e a aprovação depende do peso eleitoral de cada voto (art. 105.º, n.os 2 e 3). As eleições do presidente e dos vice-presidentes fazem-se por escrutínio secreto (arts. 55.º, n.º 3, e 90.º, n.º 1, al. a)).
+- *Génese:* até 2020 não havia base legal para a participação por videoconferência. A Lei n.º 1-A/2020 permitiu-a temporariamente aos órgãos das entidades intermunicipais e, por fim, até 30-06-2022, incluindo modalidades mistas (art. 3.º, n.os 3 da redacção original e 1 da posterior). Ligou-a à publicidade: primeiro suspendeu as reuniões públicas, ressalvando a gravação e colocação no sítio da Internet «sempre que tecnicamente viável»; depois exigiu a gravação das reuniões de realização pública obrigatória (art. 3.º, n.º 2, nas duas redacções). O art. 24.º-A do CPA, aditado pela Lei n.º 72/2020, tornou a possibilidade permanente, sem suspender a publicidade.
+- *Teleologia:* reduzir o custo de reunir um órgão espalhado por vários municípios, sem sacrificar a publicidade que compensa a falta de eleição directa (anotação 1 a este artigo).
+
+**Pareceres e jurisprudência.** A CCDR Centro, no Parecer DAJ 2529/15, de 22-11-2015 (https://www.ccdrc.pt/pt/34199/), negou base legal à participação por videoconferência nas reuniões de um executivo; o membro ausente tinha falta e não recebia senha. O parecer ficou ultrapassado pelo art. 24.º-A do CPA. A mesma CCDR, no Parecer DSAJAL 90/20, de 24-04-2020 (https://www.ccdrc.pt/wp-content/uploads/2020/04/Parecer-DSAJAL-90-20-rvf-978.pdf, pp. 4-6), sobre os órgãos de uma comunidade intermunicipal, só admitiu a deliberação em reunião presencial ou, quando a lei o permitisse, telemática. Recusou a consulta escrita e a votação pelo silêncio. Concorda: a lei admite reuniões à distância, não deliberações sem reunião. Não se encontrou parecer posterior a 2020 sobre as reuniões telemáticas do conselho intermunicipal.
+
+**Posição contrária.** A publicidade de todas as reuniões e a referência à circunscrição de um município (n.º 5) supõem uma reunião física num lugar: uma reunião inteiramente telemática não teria lugar e o público não a poderia acompanhar. Colhe em parte: a reunião tem de ter um local, ou um meio equivalente, acessível ao público, e a convocatória e o anúncio devem indicá-lo. Não exclui a participação à distância dos membros, que a lei geral admite.
+
+**Consequências.**
+- O anúncio da reunião indica o local aberto ao público ou o meio de acesso, e a convocatória indica os meios telemáticos postos à disposição dos membros; a acta regista quem participou à distância.
+- Uma reunião inteiramente telemática sem acesso do público viola o n.º 3; por inferência, as deliberações nela tomadas são anuláveis (CPA, art. 163.º, n.º 1).
+- O membro à distância conta para o quórum; o seu voto fica registado com o peso eleitoral do seu município.
+- A eleição do presidente e dos vice-presidentes, que é secreta, não se faz por meio que revele o sentido do voto de cada membro. Na dúvida, faz-se presencialmente.
+- A reunião extraordinária telemática serve as decisões urgentes, que o presidente não toma sozinho (anotação 2 ao art. 92.º).
+
+**Fontes.** cpa-2015-pgdl, lei-1-a-2020-pgdl, ccdr-c-2529-2015, ccdr-c-90-2020
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 90.º — Competências
@@ -7597,6 +8432,31 @@ t) Aprovar a constituição da entidade gestora da requalificação nas autarqui
 **Fontes.** ccdr-c-111-2016, lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. Designar quem leva a posição da comunidade não é delegar a representação — corpo**
+
+**Questão.** A comunidade tem de estar presente em comissões, conselhos consultivos, órgãos de entidades que integra e negociações. O artigo dá a representação externa ao conselho, um órgão colegial, e só permite delegá-la no secretariado. Pergunta-se se o conselho pode indicar um dos seus membros, o primeiro-secretário ou um trabalhador para representar a comunidade numa entidade externa, e com que poderes.
+
+**Tese.** Pode, para levar e defender uma posição que o próprio conselho, ou o secretariado por delegação, tenha definido: é execução de uma deliberação, não delegação de competência. O que o conselho não pode é dar a essa pessoa o poder de definir por si a posição da comunidade. Esse poder só se delega no secretariado e só chega ao primeiro-secretário por subdelegação que o conselho autorize (anotação 2 ao art. 96.º). Por inferência, o que o designado declare fora das orientações recebidas não exprime a vontade da comunidade.
+
+**Fundamentação.**
+- *Letra:* é do conselho «a representação da comunidade intermunicipal perante quaisquer entidades externas, com faculdade de delegação no secretariado executivo intermunicipal». O secretariado participa em órgãos de gestão e consultivos da administração central por delegação do conselho (art. 96.º, n.º 1, als. p) e q), e n.º 2).
+- *Sistema:* a delegação permite a outro órgão ou agente praticar actos sobre a matéria, e só com lei habilitante (CPA, art. 44.º, n.º 1); os actos do delegado «valem como se tivessem sido praticados pelo delegante» (n.º 5). A subdelegação depende de autorização do delegante (art. 46.º, n.º 1). Quem se limita a transmitir e defender uma posição já deliberada não pratica actos sobre a matéria em lugar do órgão. É também essa a lógica da outorga dos contratos pelo presidente do conselho, que executa a decisão do órgão sem a tomar (art. 92.º, al. b)).
+- *Génese:* na Lei n.º 45/2008, o conselho executivo designava «os representantes da CIM em quaisquer entidades ou órgãos previstos na lei» (art. 16.º, n.º 1, al. e)), e o presidente representava a comunidade em juízo e fora dele, podendo delegar ou subdelegar nos membros do conselho ou no secretário executivo (art. 17.º, n.os 1, al. f), e 2). Em 2013, a representação externa passou para o órgão colegial e a delegação ficou restrita ao secretariado.
+- *Teleologia:* a posição externa da comunidade forma-se no órgão onde todos os municípios votam com o seu peso (art. 105.º). A pessoa que a leva é porta-voz dessa posição, não seu autor.
+
+**Pareceres e jurisprudência.** A CCDR Centro, no Parecer DSAJAL 111/16, de 22-06-2016 (https://www.ccdrc.pt/pt/34215/), concluiu que, quando a decisão de contratar é do conselho, o seu presidente outorga o contrato ao abrigo da representação institucional, e que, quando é do secretariado, outorga este. Concorda: separa quem decide de quem exterioriza a decisão. O Tribunal Constitucional, no Acórdão n.º 608/2014 (https://www.tribunalconstitucional.pt/tc/acordaos/20140608.html, n.º 8), distinguiu as competências próprias do secretariado das que exerce «por delegação prévia do conselho intermunicipal». Concorda. Não se encontrou parecer nem decisão sobre a designação de representantes da comunidade.
+
+**Posição contrária.** Duas. A primeira vê em qualquer designação uma delegação da representação, que o artigo só admite no secretariado: o conselho não poderia indicar um dos seus membros ou um trabalhador. Não colhe: levaria a que só o colégio inteiro, ou o secretariado, pudesse estar presente numa reunião externa. A segunda admite que o designado decida livremente, por ser essa a prática em órgãos de outras entidades. Colhe em parte: quando o órgão externo delibera sobre matéria imprevista, o representante tem de votar; deve então seguir as orientações gerais recebidas e dar conta ao conselho (inferência).
+
+**Consequências.**
+- A deliberação do conselho que designa um representante identifica a entidade, a pessoa e as orientações, e pode prever que o representante preste contas em cada reunião ordinária.
+- Para que o primeiro-secretário defina por si a posição da comunidade, é preciso delegação no secretariado e autorização de subdelegação, no acto publicado (CPA, art. 47.º; anotação 2 ao art. 96.º).
+- A designação não confere poderes para assumir encargos ou celebrar contratos em nome da comunidade; isso depende da competência do órgão respectivo (arts. 90.º e 96.º).
+- Com a mudança dos titulares do conselho após eleições gerais, convém confirmar ou renovar as designações; as delegações caducam (CPA, art. 50.º, al. b)).
+
+**Fontes.** ccdr-c-111-2016, tc-608-2014, cpa-2015-pgdl, lei-45-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 92.º — Presidente
 
 Compete ao presidente do conselho intermunicipal:
@@ -7638,6 +8498,30 @@ g) Exercer as demais competências previstas na lei e no regimento.
 **Fontes.** ccdr-a-guiao-cim-2013, ccdr-c-218-2019, ccdr-c-111-2016, lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. O conselho não delega no seu presidente, e o presidente não decide por urgência — al. g)**
+
+**Questão.** O presidente do conselho intermunicipal exerce «as demais competências previstas na lei e no regimento». Pergunta-se se o conselho pode delegar nele competências suas, como a autorização de despesas acima dos limites do secretariado ou decisões correntes entre reuniões, e se o presidente pode decidir sozinho em caso de urgência, sujeitando o acto a ratificação.
+
+**Tese.** Não pode. A al. g) só reconhece ao presidente as competências previstas na lei e no regimento, ao contrário do art. 86.º, al. c), para o presidente da assembleia, e da lei de 2008, que admitiam poderes conferidos pelo órgão. O art. 44.º, n.º 4, do CPA, que permite delegar no presidente de um órgão colegial actos de administração ordinária, cede perante a repartição que o RJAL faz: as delegações do conselho vão para o secretariado (arts. 90.º, n.º 2, 91.º e 96.º, n.º 2). Também não há actos urgentes do presidente sujeitos a ratificação: a urgência resolve-se em reunião extraordinária.
+
+**Fundamentação.**
+- *Letra:* compete ao presidente «Exercer as demais competências previstas na lei e no regimento» (al. g)). Ao presidente da assembleia intermunicipal cabem os poderes conferidos «por lei, pelos estatutos, pelo regimento ou pela assembleia» (art. 86.º, al. c)). Os órgãos colegiais podem delegar nos presidentes actos de administração ordinária, «salvo havendo lei de habilitação específica que estabeleça uma particular repartição de competências entre os diversos órgãos» (CPA, art. 44.º, n.os 3 e 4).
+- *Sistema:* o conselho delega no secretariado a representação externa (art. 91.º), a comparência nas assembleias municipais (art. 90.º, n.º 2) e as competências do art. 96.º, n.º 2. O secretariado autoriza despesas abaixo dos limites fixados pelo conselho; acima deles, decide o conselho (art. 96.º, n.º 1, als. h) e m); anotação 1 ao art. 96.º). A competência é fixada por lei e é irrenunciável (CPA, art. 36.º, n.º 1). O poder do presidente da câmara de praticar actos da câmara em circunstâncias excepcionais e urgentes, sujeitos a ratificação (art. 35.º, n.º 3), é excepcional e não se estende por analogia (anotação 2 ao art. 35.º). O conselho reúne extraordinariamente por iniciativa do presidente (art. 89.º, n.º 2).
+- *Génese:* na Lei n.º 45/2008, o presidente do conselho executivo autorizava despesas «até ao limite estipulado por lei ou por delegação do conselho executivo» e exercia os poderes estabelecidos «por lei ou por deliberação do conselho executivo» (art. 17.º, n.º 1, als. c) e h)). Em 2013 a autorização de despesas passou para o secretariado, e a al. g) deixou cair a referência à deliberação do conselho.
+- *Teleologia:* o conselho decide em colégio e por voto ponderado (art. 105.º). Delegar no presidente poria um só presidente de câmara a decidir pelos outros, fora da maioria que a lei exige.
+
+**Pareceres e jurisprudência.** A CCDR Centro, no Parecer DSAJAL 111/16, de 22-06-2016 (https://www.ccdrc.pt/pt/34215/), concluiu que, quando a competência para contratar é do conselho, é o seu presidente que outorga o contrato, ao abrigo da al. b) deste artigo e do art. 106.º, n.º 1, do CCP; e que, quando é do secretariado, outorga o secretariado. Concorda: o presidente executa, ao assinar, a decisão do conselho; não a toma. Não se encontrou parecer nem decisão sobre a delegação do conselho no seu presidente.
+
+**Posição contrária.** O art. 44.º, n.os 3 e 4, do CPA habilita qualquer órgão colegial a delegar no presidente actos de administração ordinária, e a al. g) remete para o regimento, que poderia atribuir-lhe competências. Colhe em parte: o regimento pode desenvolver os poderes do presidente na condução dos trabalhos, como a organização da ordem do dia, ao lado dos que a lei já lhe dá (art. 89.º, n.º 6). Não colhe quanto a competências de decisão que a lei atribui ao conselho: o RJAL estabelece a «particular repartição» que afasta o n.º 4, e o regimento não altera a competência fixada por lei.
+
+**Consequências.**
+- A deliberação do conselho que delegue no presidente competências decisórias não tem habilitação. O acto que o presidente pratique ao seu abrigo provém de órgão incompetente da mesma pessoa colectiva; por inferência, é anulável e pode ser ratificado pelo conselho (CPA, arts. 163.º, n.º 1, e 164.º).
+- Para ganhar agilidade, o conselho fixa limites de despesa adequados ao secretariado (art. 96.º, n.º 1, als. h) e m)), delega nele as competências delegáveis e reúne extraordinariamente quando necessário, se for o caso por meios telemáticos (anotação 2 ao art. 89.º).
+- O presidente que, perante uma urgência, decida sozinho uma matéria do conselho pratica acto anulável; só o estado de necessidade (CPA, art. 3.º, n.º 2), com os seus pressupostos estritos, o torna válido (anotação 2 ao art. 35.º).
+
+**Fontes.** ccdr-c-111-2016, cpa-2015-pgdl, lei-45-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 93.º — Constituição
 
 O secretariado executivo intermunicipal é constituído por um primeiro-secretário e, mediante deliberação unânime do conselho intermunicipal, até dois secretários intermunicipais.
@@ -7670,6 +8554,30 @@ O secretariado executivo intermunicipal é constituído por um primeiro-secretá
 - A unanimidade exige-se também para decidir se os secretários são remunerados (art. 97.º, n.º 5).
 
 **Fontes.** tc-608-2014, ccdr-a-guiao-cim-2013, lei-45-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. Criar ou suprimir lugares de secretário durante o mandato — corpo**
+
+**Questão.** A deliberação unânime que admite secretários intermunicipais toma-se, em regra, antes de o conselho aprovar a lista do secretariado. Pergunta-se se o conselho pode, durante o mandato, criar um lugar de secretário que não previu, suprimir um lugar já preenchido ou retirar a remuneração aos secretários em funções, e com que efeitos.
+
+**Tese.** O conselho pode, por unanimidade, criar um lugar de secretário a meio do mandato; o novo membro é proposto pelo conselho, eleito pela assembleia intermunicipal como na eleição inicial e completa o mandato em curso. Não pode suprimir o lugar de um secretário eleito nem reduzir-lhe o estatuto remuneratório durante o mandato: essa deliberação só vale para a formação seguinte do secretariado. O mandato de um membro eleito só cessa pelas causas da lei (arts. 101.º, n.º 3, 102.º e 103.º). As duas conclusões são inferência.
+
+**Fundamentação.**
+- *Letra:* o secretariado tem um primeiro-secretário e, «mediante deliberação unânime do conselho intermunicipal, até dois secretários intermunicipais». O conselho delibera «sobre a existência e o número de secretários intermunicipais, no limite máximo de dois, e se os mesmos são remunerados» (art. 90.º, n.º 1, al. o); art. 97.º, n.º 5). Nenhuma norma fixa o momento dessa deliberação nem diz se pode ser revista durante o mandato.
+- *Sistema:* o mandato do secretariado começa com a posse e cessa com a eleição do novo presidente da assembleia intermunicipal depois das eleições gerais, «sem prejuízo do disposto no artigo seguinte» (art. 101.º, n.º 3); antes disso, só a demissão do órgão (art. 102.º) ou a vacatura (art. 103.º) o fazem cessar. A vacatura de um secretário abre um acto eleitoral «limitado à eleição de um novo membro», que completa o mandato (art. 103.º, n.os 2 a 4): é o modelo mais próximo para preencher um lugar novo. A remuneração e as despesas de representação estão fixadas na lei e são encargo do orçamento da comunidade (art. 97.º, n.os 1 a 3 e 11). A eleição coloca o eleito numa posição de vantagem, e o CPA só admite a revogação de actos constitutivos de direitos nos casos do art. 167.º, n.º 2, entre os quais não está a mudança de opinião do órgão; por inferência, a supressão de um lugar preenchido equivale a revogar a eleição.
+- *Génese:* na Lei n.º 45/2008, o secretário executivo era facultativo, designado pela assembleia intermunicipal sob proposta do conselho executivo, e podia «ser exonerado a todo o tempo» (arts. 13.º, al. n), e 19.º, n.º 3). O RJAL substituiu a designação pela eleição em lista e não manteve a exoneração livre.
+- *Teleologia:* a unanimidade protege cada município contra um encargo que todos suportam (anotação 1); a estabilidade do mandato protege o secretariado contra a remoção de um membro fora das vias de responsabilidade política do art. 102.º, que passam sempre por nova eleição.
+
+**Pareceres e jurisprudência.** O Tribunal Constitucional, no Acórdão n.º 608/2014 (https://www.tribunalconstitucional.pt/tc/acordaos/20140608.html, n.º 9), contrapôs o primeiro-secretário, cargo necessário à existência do órgão, ao secretário executivo de 2008, que era «facultativo e a todo o tempo extinguível». Confirma a mudança de regime em que assenta a tese, sem tratar dos secretários. O guião da CCDR Alentejo de 2013 (https://www.ccdr-a.gov.pt/docs/ccdra/gestao/Guiao_Transicao_CIMs_VFinal.pdf, questão 8, p. 5) distingue o momento da unanimidade, que precede a lista, do momento da aprovação da lista. Pressupõe a ordem normal das deliberações e não trata da alteração a meio do mandato. Não se encontrou jurisprudência.
+
+**Posição contrária.** A deliberação sobre o número de secretários seria uma decisão de organização, revogável a todo o tempo pelo mesmo órgão com a mesma unanimidade; e o conselho, que pode demitir todo o secretariado com a maioria do art. 105.º, n.º 2 (art. 90.º, n.º 3), poderia por maioria de razão suprimir um lugar por unanimidade. Colhe em parte: a organização do executivo pode mudar, mas a supressão de um lugar preenchido afasta um membro eleito sem a intervenção da assembleia intermunicipal, que o elegeu, e sem as garantias do art. 102.º. O conselho que queira reduzir o secretariado durante o mandato tem ao seu dispor a demissão, seguida de nova eleição já com o número reduzido (art. 102.º, n.º 2).
+
+**Consequências.**
+- O conselho que crie um lugar de secretário a meio do mandato aprova uma lista com um só candidato, que a assembleia elege por voto secreto (art. 94.º, n.os 1 a 3, com adaptações); o eleito toma posse e completa o mandato (inferência a partir do art. 103.º, n.º 3).
+- A deliberação que suprima lugares ou retire a remuneração aos secretários produz efeitos na formação seguinte do secretariado. Aplicada aos secretários em funções, faz cessar ou altera um mandato fora dos casos da lei e é, por inferência, anulável (CPA, art. 163.º, n.º 1).
+- O montante da remuneração dos secretários eleitos como remunerados não está na disponibilidade do conselho: resulta da lei (art. 97.º, n.os 2 e 3).
+
+**Fontes.** tc-608-2014, ccdr-a-guiao-cim-2013, lei-45-2008, cpa-2015-pgdl
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 94.º — Eleição
@@ -7711,6 +8619,31 @@ O secretariado executivo intermunicipal é constituído por um primeiro-secretá
 **Fontes.** ccdr-a-guiao-cim-2013, sta-2014-11-20-0923-14, lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. A assembleia vota a lista do conselho em bloco: sem emendas nem candidatos próprios — n.os 1, 3 e 4**
+
+**Questão.** A assembleia intermunicipal elege o secretariado sobre a lista ordenada que o conselho intermunicipal aprova. Pergunta-se se a assembleia pode alterar a lista, votar cada candidato em separado ou eleger nomes que dela não constam, e como se apura o resultado da votação secreta.
+
+**Tese.** A assembleia vota a lista tal como o conselho a aprovou: aceita-a ou rejeita-a no seu conjunto, sem emendas, sem votação nome a nome e sem candidatos próprios. A iniciativa é reservada ao conselho, e a ordem da lista define quem é candidato a primeiro-secretário. A lista é eleita quando os votos favoráveis excedem os contrários; os votos brancos e nulos não contam. Rejeitada a lista, só o conselho pode apresentar outra (n.º 4).
+
+**Fundamentação.**
+- *Letra:* o conselho aprova «a lista ordenada dos candidatos a membros do secretariado executivo intermunicipal a submeter a votação» (n.º 1); a assembleia reúne «tendo em vista a deliberação sobre a lista dos candidatos» (n.º 2); a votação faz-se «por sufrágio secreto, sob pena de nulidade» (n.º 3); se a lista «não seja eleita», é o conselho que «aprova e submete a eleição uma nova lista» (n.º 4). A assembleia elege o secretariado «sob proposta do conselho intermunicipal» (art. 84.º, al. c)).
+- *Sistema:* nos órgãos autárquicos, as deliberações tomam-se à pluralidade de votos, sem contar as abstenções (art. 54.º, n.º 2, aplicável pelo art. 104.º); no escrutínio secreto não há voto de qualidade, e o empate obriga a nova votação e a adiamento (art. 55.º, n.º 4). Na área metropolitana, a lista é igualmente a unidade de votação, e a lei define quando é eleita (art. 74.º, n.º 7). O desenho repete o da eleição dos vogais da junta, eleitos pela assembleia de freguesia «mediante proposta do presidente da junta» (Lei n.º 169/99, art. 24.º, n.º 2).
+- *Génese:* na Lei n.º 45/2008, a assembleia designava e exonerava o secretário executivo «sob proposta do conselho executivo» (art. 13.º, al. n)). O RJAL manteve a proposta no órgão dos presidentes de câmara e acrescentou a lista ordenada e o voto secreto.
+- *Teleologia:* a proposta reservada garante que o executivo tem a confiança do conselho, que o fiscaliza e o pode demitir (art. 90.º, n.º 1, al. g), e n.º 3); a eleição pela assembleia acrescenta a legitimidade plural das assembleias municipais. Uma lista emendada pela assembleia deixaria de ser a do conselho.
+
+**Pareceres e jurisprudência.** Não se encontrou parecer nem decisão sobre a votação da lista na assembleia intermunicipal. Na eleição dos vogais da junta, que segue o mesmo desenho, as fontes afirmam a reserva da proposta. O TCA Sul, no acórdão de 15-04-2010, proc. 06027/10 (https://www.dgsi.pt/jtca.nsf/170589492546a7fb802575c3004c6d7d/d45449cdb88311078025770c004892ef?OpenDocument), decidiu que as listas de vogais «têm de ser propostas pelo Presidente da Junta, não podendo ser propostas por outra pessoa ou por forças políticas», e anulou a eleição feita sobre listas apresentadas por membros da assembleia. A CCDR Centro, no Parecer 86/2006, de 09-03-2006 (https://www.ccdrc.pt/pt/33824/), qualificou como anulável a eleição dos vogais por indicação dos membros da assembleia. No Parecer DAJ 190/21, de 02-12-2021 (https://www.ccdrc.pt/wp-content/uploads/2022/08/2021-12-02-Parecer-DAJ-190-21-EMFrutuoso-63c.pdf, pp. 7 e 8), entendeu que os votos brancos e nulos não contam e que os vogais ficam eleitos com mais votos a favor do que contra, e recomendou boletins com as opções «Sim» e «Não». Apoiam a tese por analogia.
+
+**Posição contrária.** A assembleia, que elege, teria o poder de escolher: votaria os candidatos um a um e elegeria só os que reunissem a maioria, deixando os restantes lugares por preencher. Não colhe: o n.º 1 fala de uma lista ordenada «a submeter a votação», o n.º 4 de a lista não ser eleita, e a falta de um secretário tem regime próprio (art. 103.º, n.º 2). A votação nome a nome reduziria a proposta do conselho a uma indicação. Colhe num ponto: nada impede que o conselho, depois de ouvir as forças políticas, submeta uma segunda lista com parte dos nomes da primeira.
+
+**Consequências.**
+- O boletim contém a lista e as opções «Sim» e «Não»; um boletim que permita riscar ou acrescentar nomes não respeita a lei (inferência).
+- A eleição de uma lista alterada pela assembleia, ou de candidatos que o conselho não propôs, é inválida; por analogia com a eleição dos vogais, anulável (CPA, art. 163.º, n.º 1). A votação não secreta é nula (n.º 3).
+- Em empate, repete-se a votação e, mantendo-se, adia-se para a reunião seguinte (art. 55.º, n.º 4). A votação nominal prevista na parte final desse preceito não se aplica, porque o n.º 3 impõe o voto secreto; persistindo o empate, a lista não é eleita e o conselho submete outra (inferência).
+- O primeiro nome da lista é o candidato a primeiro-secretário (art. 93.º; inferência a partir da ordenação exigida no n.º 1).
+
+**Fontes.** tcas-2010-04-15-06027-10, ccdr-c-86-2006, ccdr-c-190-2021, lei-169-1999-pgdl, lei-45-2008, cpa-2015-pgdl
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 95.º — Reuniões
 
 1 - O secretariado executivo intermunicipal tem uma reunião ordinária quinzenal e reuniões extraordinárias sempre que necessário.
@@ -7747,6 +8680,31 @@ O secretariado executivo intermunicipal é constituído por um primeiro-secretá
 - Se o conselho não aprovar secretários, o secretariado tem um só membro. A lei não prevê o caso; por inferência, as decisões continuam a registar-se em acta e a publicar-se.
 
 **Fontes.** cnpd-2023-04-18-atas, tc-608-2014, lei-45-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. Quem preside ao secretariado, o quórum e o empate num órgão de dois ou três membros — n.º 1**
+
+**Questão.** A lei não diz quem preside às reuniões do secretariado, quem as convoca nem quem desempata. Pergunta-se se o primeiro-secretário é, por força da lei, o presidente do órgão, qual o quórum num secretariado de dois ou de três membros e como se decide em caso de empate.
+
+**Tese.** O primeiro-secretário preside ao secretariado por força da lei: convoca e dirige as reuniões, assina as actas e tem voto de qualidade. Os membros não elegem um presidente, porque o RJAL dispõe de outro modo, ainda que implicitamente. O quórum é a maioria do número legal de membros fixado pelo conselho: os dois, num secretariado de dois; dois, num de três. Num secretariado de dois membros, o empate decide-se pelo voto do primeiro-secretário, salvo no escrutínio secreto. A tese é inferência.
+
+**Fundamentação.**
+- *Letra:* uma reunião ordinária quinzenal e reuniões extraordinárias «sempre que necessário» (n.º 1). O primeiro-secretário é membro necessário (art. 93.º) e o destinatário da delegação do órgão, com faculdade de subdelegar nos secretários (art. 96.º, n.º 3).
+- *Sistema:* «Sempre que a lei não disponha de forma diferente», cada órgão colegial tem um presidente e um secretário eleitos pelos membros (CPA, art. 21.º, n.º 1). O RJAL dispõe de outro modo: a vacatura do primeiro-secretário dissolve o órgão, a de um secretário não (art. 103.º, n.os 1 e 2), e o CPA trata a delegação dos órgãos colegiais «nos respetivos presidentes» como a figura típica (art. 44.º, n.º 4). No funcionamento aplicam-se as regras dos órgãos municipais (art. 104.º): quórum da maioria do número legal (art. 54.º, n.º 1), pluralidade de votos com voto de qualidade do presidente (art. 54.º, n.º 2), repetição e adiamento no empate em escrutínio secreto (art. 55.º, n.º 4) e actas assinadas pelo presidente e por quem as lavrou (art. 57.º, n.º 2). O número legal é o que o conselho fixou por unanimidade (arts. 93.º e 97.º, n.º 5). Na câmara municipal, é presidente o primeiro candidato da lista mais votada (Lei n.º 169/99, art. 57.º, n.º 1).
+- *Génese:* na Lei n.º 45/2008, o executivo colegial era o conselho executivo, cujo presidente, eleito pelos membros, convocava as reuniões e dirigia os trabalhos (arts. 15.º, n.º 2, e 17.º, n.º 1, al. a)); o secretário executivo era um cargo singular (art. 19.º). O secretariado colegial de membros eleitos é de 2013.
+- *Teleologia:* o primeiro-secretário encabeça a lista eleita e responde pela identidade do órgão; dar-lhe a presidência evita que um órgão de dois membros fique bloqueado e alinha o secretariado com o modelo da câmara.
+
+**Pareceres e jurisprudência.** O Tribunal Constitucional, no Acórdão n.º 608/2014 (https://www.tribunalconstitucional.pt/tc/acordaos/20140608.html, n.º 10), qualificou o secretariado como órgão permanente, com funções executivas, e o primeiro-secretário como membro «obrigatório e necessário desse órgão, do mesmo podendo receber competências delegadas». Apoia a posição singular do primeiro-secretário, sem tratar da presidência. O STA, no acórdão de 20-11-2014, proc. 0923/14 (https://jurisprudencia.pt/acordao/262565/), aplicou o art. 54.º ao quórum de um órgão intermunicipal, por via do art. 104.º, e afastou o quórum reduzido do CPA. Apoia a tese quanto ao quórum. Não se encontrou fonte sobre a presidência do secretariado.
+
+**Posição contrária.** No silêncio do RJAL, os membros elegeriam o presidente (CPA, art. 21.º, n.º 1), e nada impediria que um secretário presidisse. Colhe quanto à letra do CPA, que só cede quando a lei disponha de forma diferente. Não colhe quanto ao sistema: a lei faz do primeiro-secretário o pressuposto da existência do órgão e o destinatário natural da delegação, o que só se compreende se ele o presidir. A questão não está decidida, e convém que os estatutos ou o regimento o digam.
+
+**Consequências.**
+- O primeiro-secretário convoca as reuniões, fixa a ordem do dia e assina as actas com quem as lavrou (art. 57.º, n.º 2).
+- Num secretariado de dois membros, só há reunião com ambos presentes; a deliberação tomada só por um é nula (CPA, art. 161.º, n.º 2, al. h)). Num de três, bastam dois.
+- Em empate na votação nominal, prevalece o sentido do voto do primeiro-secretário (art. 54.º, n.º 2); nas deliberações por escrutínio secreto (art. 55.º, n.º 3) não há voto de qualidade.
+- A deliberação desempatada pelo voto de qualidade de um secretário eleito presidente pelos pares fica exposta a impugnação (inferência).
+
+**Fontes.** tc-608-2014, sta-2014-11-20-0923-14, cpa-2015-pgdl, lei-169-1999-pgdl, lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 96.º — Competências
@@ -7812,6 +8770,31 @@ x) Exercer as demais competências legais.
 **Fontes.** tc-608-2014, ccdr-c-111-2016, lei-77-2015, lei-45-2008, lei-75-2013-v1-66-96
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. O que o secretariado pode delegar no primeiro-secretário e como se subdelega — n.º 3**
+
+**Questão.** O n.º 3 permite ao secretariado delegar «as suas competências» no primeiro-secretário, com faculdade de subdelegação nos secretários, sem a lista de exclusões que o art. 76.º, n.º 2, impõe à comissão executiva metropolitana. Pergunta-se se tudo é delegável, incluindo o que o secretariado exerce por delegação do conselho ou dos municípios, e quem decide a subdelegação.
+
+**Tese.** São delegáveis as competências próprias do secretariado, sem a lista de exclusões do art. 76.º, n.º 2, que não se aplica por analogia; o limite é o do CPA, que proíbe a delegação da globalidade dos poderes. As competências que o secretariado exerce por delegação do conselho (n.º 2) só passam ao primeiro-secretário se o conselho tiver autorizado a subdelegação; as que recebe dos municípios por contrato (n.º 1, al. u)), nos termos do contrato. A subdelegação nos secretários depende de autorização do secretariado no acto de delegação, e só o primeiro-secretário recebe delegação directa do órgão.
+
+**Fundamentação.**
+- *Letra:* «O secretariado executivo intermunicipal pode delegar as suas competências no primeiro-secretário, com faculdade de subdelegação nos secretários intermunicipais» (n.º 3). Na área metropolitana, a delegação no primeiro-secretário faz-se «com exceção das previstas» em dezanove alíneas (art. 76.º, n.º 2).
+- *Sistema:* o CPA proíbe a delegação da «globalidade dos poderes do delegante» (art. 45.º, al. a)), exige que o acto especifique os poderes delegados e as normas atributiva e habilitante e que seja publicado (art. 47.º), e só admite a subdelegação se o delegante a autorizar, salvo disposição legal em contrário (art. 46.º, n.º 1). O acto do delegado vale como do delegante (art. 44.º, n.º 5), e a delegação caduca com a mudança dos titulares do delegante ou do delegado (art. 50.º, al. b)). As competências das als. b), c), d), k), p) e q) do n.º 1 pertencem ao conselho e exercem-se por delegação deste (n.º 2): passá-las ao primeiro-secretário é subdelegar. Na câmara municipal, o elenco das competências indelegáveis é expresso (art. 34.º, n.º 1; anotação 1 ao art. 34.º).
+- *Génese:* na Lei n.º 45/2008, era o presidente do conselho executivo quem podia «delegar ou subdelegar o exercício das suas competências nos demais membros do conselho ou no secretário executivo» (art. 17.º, n.º 2). Em 2013, a delegação passou a partir do órgão executivo colegial para o primeiro-secretário.
+- *Teleologia:* por inferência, a falta de exclusões explica-se pela composição do órgão: o secretariado pode ter um só membro (art. 93.º), e a lei não podia reservar ao colégio competências de um órgão que pode não ser colegial. A diferença face ao art. 76.º, n.º 2, é, por isso, deliberada.
+
+**Pareceres e jurisprudência.** A CCDR Centro, no Parecer DSAJAL 156/07, de 09-07-2007 (https://www.ccdrc.pt/pt/33910/), perante a fórmula da Lei n.º 169/99 que permitia ao presidente da câmara subdelegar nos vereadores por sua decisão e escolha, entendeu que a regra do CPA se impunha e que tinha de existir autorização do delegante para que o delegado pudesse subdelegar. Apoia a tese por analogia: a «faculdade de subdelegação» do n.º 3 não dispensa a autorização do secretariado. A CCDR Alentejo, no Parecer n.º 38/2015, de 02-10-2015 (https://www.ccdr-a.gov.pt/app_ext/pareceres/printpdf.php?id=1022), entendeu que a delegação de uma competência definida em termos abertos deve especificar os poderes ou ser acompanhada de directivas (CPA, arts. 47.º, n.º 1, e 49.º, n.º 1). Concorda. O Tribunal Constitucional, no Acórdão n.º 608/2014 (https://www.tribunalconstitucional.pt/tc/acordaos/20140608.html, n.º 10), descreve o primeiro-secretário como o membro que pode «receber competências delegadas». Não se encontrou fonte sobre os limites do n.º 3.
+
+**Posição contrária.** O art. 76.º, n.º 2, exprimiria um princípio comum aos executivos intermunicipais: planos, orçamento, contas, regulamentos e propostas ao conselho seriam actos do colégio, indelegáveis também no secretariado. Colhe como boa prática, não como regra: a analogia supõe uma lacuna, e o n.º 3 regula a matéria sem exclusões. Por inferência, também não obsta a que as propostas ao conselho (n.º 1, als. a), f), j), l) e w)) sejam subscritas pelo primeiro-secretário por delegação, porque o acto do delegado vale como do delegante.
+
+**Consequências.**
+- A deliberação de delegação enumera as competências e as normas que as atribuem, diz se autoriza a subdelegação e é publicada (CPA, art. 47.º). A delegação de «todas as competências» abrange a globalidade dos poderes e é inválida; o acto praticado ao seu abrigo é praticado sem competência e, por inferência, anulável e ratificável pelo secretariado (CPA, art. 163.º, n.º 1).
+- O primeiro-secretário só exerce competências do conselho (n.º 2) se o conselho tiver autorizado o secretariado a subdelegá-las; sem essa autorização, decide o secretariado.
+- O secretário só decide por subdelegação do primeiro-secretário, autorizada pelo secretariado; a delegação directa do órgão num secretário não tem base legal (inferência).
+- Com a posse de um novo secretariado, as delegações caducam e têm de ser renovadas (CPA, art. 50.º, al. b)).
+
+**Fontes.** ccdr-c-156-2007, ccdr-a-38-2015, tc-608-2014, cpa-2015-pgdl, lei-45-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 97.º — Estatuto dos membros do secretariado executivo intermunicipal
 
 1 - A remuneração do primeiro-secretário é igual a 45 % da remuneração base do Presidente da República.
@@ -7860,6 +8843,31 @@ x) Exercer as demais competências legais.
 **Fontes.** tc-608-2014, tc-223-2010, lei-52-2019-tc, ccdr-a-guiao-cim-2013, lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. Os membros do secretariado não são eleitos locais: sem senhas, abonos nem dispensas do Estatuto dos Eleitos Locais — n.os 1 a 6**
+
+**Questão.** O artigo regula a remuneração, as despesas de representação e a exclusividade, mas nada diz sobre senhas de presença, ajudas de custo, subsídio de transporte ou dispensa da actividade profissional. Pergunta-se se o Estatuto dos Eleitos Locais supre essas omissões, directamente ou pela remissão do art. 104.º, em especial quanto aos secretários que o conselho decidiu não remunerar.
+
+**Tese.** Não supre. Os membros do secretariado não são eleitos locais, e o art. 104.º remete para o regime de funcionamento dos órgãos municipais, não para o estatuto pessoal dos seus titulares. O estatuto pecuniário destes membros é o do art. 97.º, que é fechado. O secretário não remunerado não recebe remuneração, despesas de representação, senhas de presença nem ajudas de custo, e não tem direito às dispensas profissionais do Estatuto dos Eleitos Locais. Por inferência, pode ser reembolsado das despesas efectivamente feitas ao serviço da comunidade.
+
+**Fundamentação.**
+- *Letra:* o primeiro-secretário é remunerado (n.º 4) com 45 % da remuneração base do Presidente da República (n.º 1); os secretários, se o conselho o decidir, com a remuneração base de vereador a tempo inteiro de município entre 10 000 e 40 000 eleitores (n.os 2 e 5); as despesas de representação são de 30 % e 20 % «das suas remunerações base» (n.º 3); só os membros remunerados exercem em exclusividade (n.º 6). Para o Estatuto dos Eleitos Locais, são eleitos locais «os membros dos órgãos deliberativos e executivos dos municípios e das freguesias» (Lei n.º 29/87, art. 1.º, n.º 2).
+- *Sistema:* o RJAL diz expressamente o que recebe cada membro de órgão intermunicipal: ajudas de custo, no conselho intermunicipal (art. 88.º, n.º 3); senhas de presença nas reuniões ordinárias e nenhuma ajuda de custo, na assembleia intermunicipal (art. 87.º); nada, no conselho estratégico (art. 99.º, n.º 3). O n.º 2 usa a remuneração do vereador como medida, não como remissão para o seu estatuto. O Estatuto dos Eleitos Locais dá senhas aos eleitos que não estão em regime de permanência (art. 10.º), ajudas de custo e subsídio de transporte aos membros das câmaras e assembleias municipais (arts. 11.º e 12.º) e dispensa das actividades profissionais aos membros dos executivos que não estão em permanência (art. 2.º, n.os 4 a 6). A Lei n.º 52/2019, que inclui estes membros entre os titulares de cargos políticos (art. 2.º, n.º 1, al. j)), regula o exercício de funções, as obrigações declarativas e as sanções (art. 1.º), não abonos. Os aposentados regem-se pelo Estatuto da Aposentação (n.º 12).
+- *Génese:* na Lei n.º 45/2008, a remuneração do secretário executivo era fixada sob proposta do conselho executivo à assembleia intermunicipal, com o limite da de director municipal (art. 19.º, n.º 2). Em 2013, o montante passou a resultar da lei.
+- *Teleologia:* um estatuto pecuniário fixado por lei e subtraído à negociação entre municípios (anotação 1). A não remuneração de um secretário é uma opção do conselho, tomada por unanimidade, que não deve ser contornada por abonos.
+
+**Pareceres e jurisprudência.** A CCDR Centro, no Parecer DSAJAL 30/18, de 31-01-2018 (https://www.ccdrc.pt/wp-content/uploads/2018/10/Parecer-DSAJAL-30-18-1ed.pdf, p. 2), leu à letra o art. 87.º: as senhas dos membros da assembleia intermunicipal restringem-se às reuniões ordinárias, «não havendo direito a auferi-las nas extraordinárias», ao contrário do que sucede nas assembleias municipais. Apoia a tese: nos órgãos intermunicipais, cada abono depende de previsão do RJAL, e o regime dos eleitos municipais não a supre. Não se encontrou parecer nem decisão sobre o secretário não remunerado.
+
+**Posição contrária.** O art. 104.º mandaria aplicar aos órgãos intermunicipais todo o regime dos órgãos municipais, de que o Estatuto dos Eleitos Locais faz parte; o secretário não remunerado seria equiparado ao vereador em regime de não permanência, com senhas, ajudas de custo e dispensas. Não colhe: o art. 104.º trata do «funcionamento das entidades intermunicipais», e as senhas e os abonos são direitos dos titulares, que exigem base legal; quando quis dar abonos aos membros de órgãos intermunicipais, o RJAL disse-o. Colhe em parte quanto à dispensa profissional: a sua falta dificulta o exercício do cargo por trabalhadores, mas só a lei a pode criar.
+
+**Consequências.**
+- A deliberação que atribua senhas de presença ou ajudas de custo a um secretário não remunerado cria uma obrigação pecuniária sem base legal e é, por inferência, nula (CPA, art. 161.º, n.º 2, al. k)).
+- O secretário não remunerado que seja trabalhador não tem direito legal a dispensa para as reuniões; compatibiliza as funções com o horário ou obtém o acordo da entidade empregadora (inferência).
+- As garantias dos n.os 8 a 10 (colocação, promoções e contagem do tempo de serviço) valem para todos os membros, remunerados ou não; as do Estatuto dos Eleitos Locais não.
+- O reembolso de despesas documentadas, feitas ao serviço da comunidade, não é remuneração e pode ser pago como despesa de funcionamento (inferência, no mesmo sentido da anotação 1 ao art. 79.º).
+
+**Fontes.** lei-29-1987-pgdl, ccdr-c-30-2018, lei-52-2019-tc, lei-45-2008, cpa-2015-pgdl
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 98.º — Natureza e constituição
 
 1 - O conselho estratégico para o desenvolvimento intermunicipal é um órgão de natureza consultiva destinado ao apoio ao processo de decisão dos restantes órgãos da comunidade intermunicipal.
@@ -7894,6 +8902,30 @@ x) Exercer as demais competências legais.
 - Quando um programa ou contrato exija o envolvimento de actores regionais, como sucede nos Instrumentos Territoriais Integrados, o conselho estratégico é, por inferência, o lugar natural desse envolvimento.
 
 **Fontes.** lei-45-2008, dl-5-2023
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. Membros: representantes de entidades, não personalidades a título individual — n.os 2 e 3**
+
+**Questão.** O conselho intermunicipal delibera a composição concreta do conselho estratégico. Pergunta-se se pode designar pessoas a título individual, pela sua competência ou prestígio, se escolhe os representantes ou só as entidades, e se podem ter lugar os municípios associados ou os titulares dos outros órgãos da comunidade.
+
+**Tese.** O conselho estratégico é um colégio de representantes de instituições, entidades e organizações. O conselho intermunicipal escolhe as entidades e o número de lugares de cada uma; cada entidade designa e substitui o seu representante. Personalidades a título individual não podem ser membros, embora o regimento possa prever a sua audição ou presença sem voto. Os municípios associados e os titulares dos outros órgãos não devem ter lugar, porque o conselho estratégico existe para apoiar a decisão desses órgãos com a visão de quem neles não está representado. A tese é inferência.
+
+**Fundamentação.**
+- *Letra:* o conselho estratégico «é constituído por representantes das instituições, entidades e organizações com relevância e intervenção no domínio dos interesses intermunicipais» (n.º 2); compete ao conselho intermunicipal deliberar «sobre a composição em concreto» (n.º 3). É um órgão consultivo «destinado ao apoio ao processo de decisão dos restantes órgãos da comunidade intermunicipal» (n.º 1).
+- *Sistema:* a deliberação do conselho intermunicipal segue o voto ponderado (art. 105.º, n.º 2) e pode ser revista. O regimento, aprovado pelo conselho estratégico e ratificado pelo conselho intermunicipal (art. 99.º, n.os 1 e 2), pode regular a designação, a substituição e a duração das funções dos membros. A lei não fixa mandato aos membros do conselho estratégico, ao contrário do que faz para os conselhos de presidentes de câmara (art. 101.º, n.º 1). Os municípios já estão presentes na comunidade pelos presidentes de câmara, no conselho intermunicipal (art. 88.º, n.º 1), e pelos membros das assembleias municipais, na assembleia intermunicipal (art. 83.º, n.º 1).
+- *Génese:* o órgão consultivo facultativo da Lei n.º 45/2008 era «integrado por representantes dos serviços públicos regionais do Estado e dos interesses económicos, sociais e culturais da sua área de intervenção» (art. 7.º, n.º 2). Em 2013, o critério manteve a ideia de representação e alargou-a a quaisquer instituições relevantes.
+- *Teleologia:* trazer à decisão intermunicipal os actores do território com interesses organizados. É a representação institucional que dá peso às pronúncias: exprimem a posição das entidades, não opiniões pessoais.
+
+**Pareceres e jurisprudência.** Não se encontrou parecer nem decisão sobre a composição do conselho estratégico intermunicipal. A anotação 1 ao art. 78.º, sobre o órgão metropolitano de regime paralelo, admite nele associações de autarquias e entidades representativas das freguesias, que não estão nos outros órgãos; vai no mesmo sentido.
+
+**Posição contrária.** A «composição em concreto» daria ao conselho intermunicipal liberdade para escolher as pessoas, incluindo personalidades de reconhecido mérito sem ligação a qualquer entidade, como sucede noutros órgãos consultivos. Colhe quanto à escolha das entidades, que é livre dentro do critério do n.º 2. Não colhe quanto às pessoas: o n.º 2 define o órgão como um colégio de representantes, e a nomeação de individualidades criaria membros sem a qualidade que a lei exige. O conselho intermunicipal que queira ouvir uma personalidade pode fazê-lo directamente, ou prever no regimento a sua presença sem voto.
+
+**Consequências.**
+- A deliberação do conselho intermunicipal identifica as entidades e o número de representantes de cada uma; a designação nominal cabe a cada entidade, que a pode alterar a todo o tempo (inferência).
+- A presença de membros designados a título individual não invalida as pronúncias, que não vinculam (anotação 1); mas o voto desses membros não tem base legal (inferência).
+- A entidade que perca relevância ou intervenção nos interesses intermunicipais pode ser retirada da composição por nova deliberação do conselho intermunicipal.
+
+**Fontes.** lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 99.º — Funcionamento
@@ -7931,6 +8963,30 @@ x) Exercer as demais competências legais.
 **Fontes.** lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. Pronúncias do conselho estratégico: sem abstenção e com declarações de voto — n.º 1**
+
+**Questão.** O conselho estratégico só emite pronúncias. Pergunta-se se os seus membros se podem abster, como o art. 54.º, n.º 2, permite nos órgãos autárquicos, ou se vale a proibição de abstenção que o CPA estabelece para os órgãos consultivos, e se o regimento pode dispor de outro modo.
+
+**Tese.** Vale a proibição do CPA: no conselho estratégico, o membro presente e não impedido vota a favor ou contra. O art. 54.º, n.º 2, que admite a abstenção, foi feito para os órgãos deliberativos e executivos das autarquias e não é o direito supletivo adequado a um órgão só consultivo; o regimento não o pode afastar, porque o CPA só cede perante a lei. As pronúncias devem ser acompanhadas das declarações de voto apresentadas. A tese é inferência.
+
+**Fundamentação.**
+- *Letra:* compete ao conselho estratégico aprovar o seu regimento de organização e funcionamento (n.º 1), que só vale depois de ratificado pelo conselho intermunicipal (n.º 2); é um órgão «de natureza consultiva» (art. 98.º, n.º 1). O CPA dispõe que, «No silêncio da lei, é proibida a abstenção aos membros dos órgãos consultivos e aos dos órgãos deliberativos, quando no exercício de funções consultivas» (art. 30.º).
+- *Sistema:* no que o RJAL não preveja, o funcionamento das entidades intermunicipais rege-se pelo regime dos órgãos municipais (art. 104.º), escolhendo-se o modelo pela função do órgão (anotação 1 ao art. 104.º). Esse regime admite a abstenção nos órgãos das autarquias, e nesse ponto a lei autárquica não é silenciosa (art. 54.º, n.º 2; anotação 2 ao art. 54.º); mas não contém regras para órgãos só consultivos. Quando os órgãos autárquicos emitem pareceres para outras entidades, as deliberações «são sempre acompanhadas das declarações de voto apresentadas» (art. 58.º, n.º 2). O membro impedido não participa na discussão nem na votação (CPA, art. 31.º, n.º 4).
+- *Génese:* o órgão consultivo facultativo da Lei n.º 45/2008 não tinha regras de funcionamento (art. 7.º, n.º 2); as do art. 99.º são de 2013.
+- *Teleologia:* a pronúncia consultiva serve para dar a conhecer ao órgão que decide as posições dos actores do território; a abstenção esvazia essa função, e as declarações de voto mostram as divergências que a maioria encobre.
+
+**Pareceres e jurisprudência.** Não se encontrou parecer nem decisão sobre o funcionamento do conselho estratégico. A CCDR Alentejo, na Informação I08745-2024-USJAAL, de 08-07-2024 (https://www.ccdr-a.gov.pt/app_ext/pareceres/printpdf.php?id=1303), transcreve a solução interpretativa uniforme segundo a qual o eleito presente é obrigado a votar, «sendo ainda admissível, no âmbito do poder local, a "abstenção"». Concorda: a admissão da abstenção é uma especialidade dos órgãos do poder local, que não se estende, por inferência, a um órgão consultivo de representantes de entidades.
+
+**Posição contrária.** Pelo art. 104.º, o art. 54.º, n.º 2, aplicar-se-ia ao conselho estratégico como a qualquer órgão intermunicipal, e o regimento poderia confirmar a abstenção. Não colhe: a remissão do art. 104.º opera com as adaptações que a natureza do órgão exige, e a regra municipal pressupõe órgãos que decidem e respondem politicamente pelo que decidem. Colhe num ponto: o membro que se declare impedido não vota, e isso não é abstenção (CPA, art. 31.º, n.º 4).
+
+**Consequências.**
+- A norma do regimento que admita a abstenção é ilegal e não se aplica, mesmo depois de ratificada (inferência).
+- O vício de uma pronúncia aprovada com abstenções não se transmite à decisão do órgão a que se destina, porque a pronúncia não vincula (anotação 1 ao art. 98.º); pode, porém, ser invocado no próprio conselho estratégico, que deve repetir a votação (inferência).
+- A pronúncia é enviada ao órgão destinatário com as declarações de voto apresentadas (art. 58.º, n.º 2, por analogia).
+
+**Fontes.** cpa-2015-pgdl, ccdr-a-67-2024, lei-45-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 100.º — Tomada de posse dos membros da comissão executiva metropolitana e do secretariado executivo intermunicipal
 
 Os membros da comissão executiva metropolitana e do secretariado executivo intermunicipal tomam posse perante o conselho metropolitano e perante a assembleia intermunicipal, respetivamente, no prazo máximo de cinco dias após as eleições a que se referem os artigos 74.º e 94.º
@@ -7965,6 +9021,30 @@ Os membros da comissão executiva metropolitana e do secretariado executivo inte
 - A posse conferida por quem não tem competência padece de incompetência relativa, que gera anulabilidade (CPA, art. 163.º, n.º 1); por inferência, sana-se repetindo o acto pelo presidente do conselho.
 
 **Fontes.** ccdr-a-guiao-cim-2013, lei-46-2008, lei-45-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. Falta ao acto de posse: justificação em 30 dias ou renúncia — corpo**
+
+**Questão.** O artigo fixa o prazo da posse, mas não diz o que acontece se um eleito não comparecer. Pergunta-se se se aplica, pelo art. 104.º, a regra municipal segundo a qual a falta não justificada ao acto de instalação equivale a renúncia, e quem recebe e aprecia a justificação.
+
+**Tese.** Aplica-se, com adaptações. O eleito que falte à posse deve justificar a falta por escrito em 30 dias; sem justificação, ou sendo esta recusada, a falta equivale a renúncia de pleno direito, e há vacatura do cargo (art. 103.º). Justificada a falta, a posse é-lhe conferida na primeira oportunidade. Por inferência, a justificação dirige-se ao presidente do conselho intermunicipal, que confere a posse, e é apreciada pela assembleia intermunicipal, que elegeu e perante a qual a posse se toma.
+
+**Fundamentação.**
+- *Letra:* os membros do secretariado tomam posse perante a assembleia intermunicipal «no prazo máximo de cinco dias após as eleições» do art. 94.º. O mandato «tem início com a tomada de posse» (art. 101.º, n.º 3), e compete ao presidente do conselho intermunicipal «Conferir posse» (art. 92.º, al. e)).
+- *Sistema:* no que o título III não preveja, aplica-se o regime dos órgãos municipais (art. 104.º). Nele, «A falta de eleito local ao acto de instalação do órgão, não justificada por escrito no prazo de 30 dias ou considerada injustificada, equivale a renúncia, de pleno direito» (Lei n.º 169/99, art. 76.º, n.º 5); a justificação é apreciada pelo próprio órgão na primeira reunião seguinte (n.º 7); a renúncia pode apresentar-se antes ou depois da instalação e dirige-se a quem deve proceder à instalação ou ao presidente do órgão (n.os 1 e 2); quem faltou justificadamente tem a identidade e a legitimidade verificadas na primeira reunião a que compareça (art. 44.º, n.º 3). A vacatura por renúncia do primeiro-secretário dissolve o secretariado; a de um secretário obriga a eleição parcial (art. 103.º, n.os 1 e 2).
+- *Génese:* não havia posse no regime da Lei n.º 45/2008, em que o secretário executivo era designado pela assembleia intermunicipal (arts. 13.º, al. n), e 19.º). A posse surgiu com a eleição, em 2013.
+- *Teleologia:* evitar que o eleito que não assume funções bloqueie indefinidamente a constituição do executivo, sem o obrigar a uma renúncia expressa.
+
+**Pareceres e jurisprudência.** A CCDR Centro, no Parecer DAJ 99/2022, de 03-06-2022 (https://www.ccdrc.pt/wp-content/uploads/2022/11/2022-06-03-Parecer-DAJ-99-2022-APlacido-39f.pdf, pp. 2 a 4), aplicou à assembleia intermunicipal, pelo art. 104.º, as normas de instalação das assembleias municipais e concluiu que a falta injustificada ao acto de instalação «equivale, decorridos 30 dias, à renúncia ao mandato». O membro que não justificou a falta nunca chegou a deter mandato: não podia pedir a substituição nem ter faltas marcadas nas reuniões seguintes. Apoia a tese por analogia; o parecer apoiou-se também numa norma do regimento do órgão. Não se encontrou fonte sobre a posse do secretariado.
+
+**Posição contrária.** A posse do secretariado não seria uma instalação, mas um acto do presidente do conselho, repetível a todo o tempo, uma vez que o prazo de cinco dias é ordenador (anotação 1); a falta à posse não teria consequência própria. Colhe quanto ao prazo, que não preclude a posse tardia. Não colhe quanto à inércia: sem a regra do art. 76.º, n.º 5, o eleito que nunca toma posse impediria a constituição do órgão sem que a lei oferecesse saída, e o art. 104.º existe para suprir omissões destas.
+
+**Consequências.**
+- O presidente do conselho marca a posse e, faltando um eleito, deve notificá-lo de que tem 30 dias para justificar a falta (inferência).
+- Sem justificação, a falta vale como renúncia: se for do primeiro-secretário, há novo acto eleitoral para todo o secretariado (art. 103.º, n.os 1 e 4); se for de um secretário, elege-se outro (n.º 2). Até à posse dos novos membros, mantêm-se em funções os cessantes (art. 101.º, n.º 4).
+- O eleito pode também renunciar antes da posse, por escrito, com os mesmos efeitos (Lei n.º 169/99, art. 76.º, n.os 1 e 2).
+
+**Fontes.** ccdr-c-99-2022, lei-169-1999-pgdl, lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 101.º — Mandato dos membros do conselho metropolitano, da assembleia intermunicipal e do conselho intermunicipal
@@ -8094,6 +9174,30 @@ b) As deliberações do conselho metropolitano, do conselho intermunicipal e da 
 **Fontes.** tc-296-2013, lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
+**2. Efeitos da demissão: actos anteriores, gestão até à posse e delegações — n.º 2**
+
+**Questão.** Verificada a demissão, os membros do secretariado mantêm-se em funções até à posse dos novos (art. 101.º, n.º 4). Pergunta-se se a demissão afecta os actos e contratos já praticados, que poderes conservam os demitidos até serem substituídos e o que acontece às delegações de competências.
+
+**Tese.** A demissão produz efeitos só para o futuro: os actos e contratos anteriores do secretariado mantêm-se e vinculam a comunidade. Os membros demitidos continuam em funções até à posse dos sucessores, mas, por inferência, só para actos correntes e inadiáveis, segundo o modelo da gestão limitada dos órgãos autárquicos e do Governo demitido. As delegações no primeiro-secretário caducam com a posse do novo secretariado.
+
+**Fundamentação.**
+- *Letra:* qualquer dos factos do n.º 1 «determina a demissão»; na sequência dela aplicam-se, com adaptações, os arts. 74.º e 94.º (n.º 2). Os membros «mantêm-se em funções até à tomada de posse dos novos membros» (art. 101.º, n.º 4).
+- *Sistema:* a demissão é um acto de responsabilidade política sobre o órgão, não um juízo sobre a validade dos seus actos, e nenhuma norma lhe dá efeito retroactivo. A Lei n.º 47/2005 impede os órgãos autárquicos, entre as eleições e a posse dos novos órgãos, de deliberar sobre matérias como empréstimos, contratação de pessoal, nomeação de dirigentes e adjudicações, «sem prejuízo da prática de actos correntes e inadiáveis» (art. 2.º, n.º 1), e limita as comissões administrativas aos actos «estritamente necessários para assegurar a gestão da autarquia» (art. 4.º, n.º 1). Após a demissão, o Governo «limitar-se-á à prática dos actos estritamente necessários para assegurar a gestão dos negócios públicos» (Constituição, art. 186.º, n.º 5). A delegação extingue-se por caducidade com «a mudança dos titulares dos órgãos delegante ou delegado» (CPA, art. 50.º, al. b)). O art. 104.º manda aplicar o regime dos órgãos municipais no que o título III não preveja.
+- *Génese:* na Lei n.º 45/2008, o secretário executivo podia ser exonerado a todo o tempo (art. 19.º, n.º 3), sem regime de transição. A manutenção em funções até à posse dos sucessores é de 2013.
+- *Teleologia:* a continuidade evita a paralisia da comunidade; a contenção impede que um executivo que perdeu a confiança dos órgãos que o controlam tome decisões que vinculem o seguinte.
+
+**Pareceres e jurisprudência.** O guião da CCDR Alentejo de 2013 (https://www.ccdr-a.gov.pt/docs/ccdra/gestao/Guiao_Transicao_CIMs_VFinal.pdf, questão 5, p. 3) entendeu que, entre as eleições autárquicas e a instalação dos novos órgãos, os titulares dos órgãos das comunidades intermunicipais se devem limitar a «atos de mera gestão», nos termos da Lei n.º 47/2005. Trata do período eleitoral, não da demissão; apoia a tese por maioria de razão, porque o executivo demitido perdeu a confiança que o eleito no fim do mandato ainda tinha (inferência). Não se encontrou fonte sobre a demissão.
+
+**Posição contrária.** O art. 101.º, n.º 4, manteria os demitidos na plenitude das suas funções, e uma limitação de poderes que a lei não prevê para a demissão não se poderia criar por analogia. Colhe em parte: a Lei n.º 47/2005 não se aplica directamente, e os actos que excedam a gestão corrente não são, só por isso, nulos. Mas a remissão do art. 104.º e o princípio que a Constituição consagra para o Governo demitido apontam para a contenção, e um acto de alcance duradouro praticado nesse intervalo fica exposto a impugnação, se lhe faltar urgência, e à responsabilidade política de quem o praticou.
+
+**Consequências.**
+- Os contratos celebrados e as adjudicações feitas pelo secretariado antes da demissão mantêm-se; a demissão não é fundamento para os resolver.
+- Entre a demissão e a posse dos novos membros, o secretariado assegura a gestão corrente e os actos inadiáveis e deve abster-se de, por exemplo, abrir procedimentos de contratação de pessoal, nomear dirigentes ou adjudicar o que possa esperar (por analogia com a Lei n.º 47/2005, art. 2.º, n.º 1; inferência).
+- Com a posse do novo secretariado, caducam as delegações e as subdelegações feitas pelo anterior, e o novo órgão delibera as suas (CPA, art. 50.º, al. b)). Se forem eleitos os mesmos membros, a renovação expressa é a solução prudente (inferência).
+
+**Fontes.** lei-47-2005-pgdl, crp-integral, cpa-2015-pgdl, ccdr-a-guiao-cim-2013, lei-45-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
 ## Artigo 103.º — Vacatura
 
 1 - A vacatura do cargo de primeiro-secretário por morte, renúncia, perda de mandato ou qualquer outro motivo atendível legalmente previsto determina a dissolução da comissão executiva metropolitana e do secretariado executivo intermunicipal e a realização de novo ato eleitoral.
@@ -8129,6 +9233,30 @@ b) As deliberações do conselho metropolitano, do conselho intermunicipal e da 
 - O mandato dos eleitos por dissolução ou vacatura termina com as eleições gerais seguintes (n.º 3 e art. 101.º, n.º 3).
 
 **Fontes.** lei-45-2008, lei-46-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. Faltas e impedimentos não são vacatura: quem substitui o primeiro-secretário — n.os 1 e 2**
+
+**Questão.** O artigo trata só da vacatura. Pergunta-se quem exerce as funções do primeiro-secretário nas suas faltas e impedimentos temporários, se os membros do secretariado podem suspender o mandato ou fazer-se substituir, como os eleitos municipais, e o que sucede num impedimento prolongado.
+
+**Tese.** A falta ou o impedimento temporário não é vacatura e não dissolve o secretariado. Nas reuniões, preside o secretário designado pelos estatutos ou pelo regimento e, na falta de designação, o mais antigo e, havendo igual antiguidade, o mais velho (CPA, art. 22.º); as competências delegadas no primeiro-secretário exercem-se pelo suplente (CPA, art. 42.º). Não se aplicam a suspensão do mandato nem a substituição por ausência da Lei n.º 169/99, porque dependem da chamada do seguinte da lista, que a eleição do secretariado não tem. Num secretariado de um só membro não há suplente, e a lei não oferece saída para o impedimento prolongado além da renúncia. A tese é inferência.
+
+**Fundamentação.**
+- *Letra:* a vacatura dá-se «por morte, renúncia, perda de mandato ou qualquer outro motivo atendível legalmente previsto» (n.os 1 e 2); a do primeiro-secretário dissolve o órgão e obriga a novo acto eleitoral (n.º 1).
+- *Sistema:* «Salvo disposição legal, estatutária ou regimental em contrário», suprem o presidente de um órgão colegial o vogal mais antigo e, havendo igual antiguidade, o de mais idade (CPA, art. 22.º, n.os 1 e 2). Nas faltas e impedimentos do titular, age o suplente designado na lei, nos estatutos ou no regimento, e a suplência abrange os poderes delegados (CPA, art. 42.º, n.os 1 e 3); a substituição de um órgão por outro exige lei (art. 43.º). Pelo art. 104.º, aplica-se o regime dos órgãos municipais, no qual os membros podem suspender o mandato, com o limite de 365 dias, ou fazer-se substituir em ausências até 30 dias, sendo substituídos «nos termos do artigo 79.º» (Lei n.º 169/99, arts. 77.º, n.os 4 e 6, e 78.º), isto é, pelo cidadão «imediatamente a seguir na ordem da respectiva lista» (art. 79.º, n.º 1). A lista do secretariado só contém os candidatos aos lugares a preencher (art. 94.º, n.º 1), e a falta definitiva de um secretário supre-se por nova eleição (n.º 2). Na câmara municipal, o vice-presidente designado pelo presidente substitui-o nas faltas e impedimentos (Lei n.º 169/99, art. 57.º, n.º 3); no secretariado não há figura equivalente.
+- *Génese:* o regime anterior não previa a substituição do secretário executivo, que era designado e exonerável a todo o tempo (Lei n.º 45/2008, art. 19.º, n.º 3).
+- *Teleologia:* separar o transitório, resolvido pela suplência interna, do definitivo, resolvido por eleição, e evitar que um impedimento passageiro dissolva o executivo.
+
+**Pareceres e jurisprudência.** A CCDR LVT, no Parecer Jurídico n.º 14/2025 (https://www.ccdr-lvt.pt/wp-content/uploads/2026/01/Parecer-CCDRLVT_14_2025.pdf, n.os 7 a 14), perante um presidente de junta impossibilitado por doença, distinguiu a ausência até 30 dias, a suspensão do mandato, que «permite uma ausência mais prolongada do cargo autárquico» sem pôr termo ao vínculo, e a renúncia, todas com substituição pela ordem da lista (Lei n.º 169/99, arts. 76.º e 79.º). Mostra que estas figuras dependem do mecanismo da lista; por isso não servem ao secretariado (inferência). A CCDR Centro, no Parecer DSAJAL 218/19, de 19-11-2019 (https://www.ccdrc.pt/wp-content/uploads/2020/03/2019-11-19-Parecer-DSAJAL-218-19-rvf-589.pdf, pp. 7 e 8), entendeu que a substituição do presidente e dos vice-presidentes do conselho intermunicipal se faz pelos estatutos, pelo regimento ou pelo art. 22.º do CPA. Apoia a tese por analogia.
+
+**Posição contrária.** Pelo art. 104.º, os membros do secretariado poderiam suspender o mandato como os eleitos municipais, e o conselho proporia, para o tempo da suspensão, um substituto, a eleger pela assembleia. Não colhe: a lei não prevê eleições temporárias, e o art. 103.º só abre novo acto eleitoral em caso de vacatura. Colhe num ponto: um impedimento que a lei qualifique como causa de cessação do cargo cabe no «outro motivo atendível legalmente previsto» e gera vacatura; a simples doença, não.
+
+**Consequências.**
+- Convém que o regimento do secretariado designe o substituto do primeiro-secretário nas reuniões e nas competências delegadas.
+- O secretário que substitui o primeiro-secretário preside às reuniões e, em empate, tem o voto de qualidade (ver a anotação 2 ao art. 95.º); não passa a primeiro-secretário nem recebe a sua remuneração (inferência).
+- Num secretariado de três membros, os dois secretários reúnem e deliberam. Num de dois, falta o quórum (art. 54.º, n.º 1): o secretário só exerce, como suplente, os poderes delegados no primeiro-secretário (CPA, art. 42.º, n.º 3). Num de um só membro, nenhum órgão o substitui, porque a substituição de órgãos exige lei (CPA, art. 43.º); a renúncia, que abre nova eleição, é a única saída legal (n.º 1).
+
+**Fontes.** ccdr-lvt-14-2025, ccdr-c-218-2019, cpa-2015-pgdl, lei-169-1999-pgdl, lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 104.º — Funcionamento
@@ -8169,6 +9297,30 @@ O funcionamento das entidades intermunicipais regula-se, em tudo o que não este
 - A remissão vale para as entidades intermunicipais; as associações de fins específicos têm regime próprio (art. 110.º).
 
 **Fontes.** sta-2014-11-20-0923-14, ccdr-c-218-2019, ccdr-a-guiao-cim-2013, lei-45-2008, lei-46-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. Impedimentos no conselho: o interesse do próprio município não impede o presidente de câmara — corpo**
+
+**Questão.** No conselho intermunicipal, cada presidente de câmara vota matérias que tocam o seu município: a imputação de despesas, a localização de investimentos, a aprovação de um contrato de delegação com a sua câmara. Pergunta-se se o regime de impedimentos, aplicável pelo art. 104.º, o obriga a sair da sala nessas votações.
+
+**Tese.** Não obriga. O presidente de câmara integra o conselho por inerência, e o seu voto vale pelos eleitores do seu município (art. 105.º, n.º 3): a lei quer que o interesse municipal entre na deliberação. O impedimento do art. 55.º, n.º 6, e do art. 69.º do CPA verifica-se quando esteja em causa um interesse pessoal, próprio ou de familiar, ou quando o presidente intervenha na relação como representante do município perante a comunidade, por exemplo ao outorgar o contrato. A tese é inferência, apoiada por analogia no parecer do Conselho Consultivo da PGR sobre os presidentes de junta na assembleia municipal.
+
+**Fundamentação.**
+- *Letra:* o funcionamento rege-se pelo regime dos órgãos municipais «em tudo o que não esteja previsto na presente lei». O conselho «é constituído pelos presidentes das câmaras municipais» (art. 88.º, n.º 1), e o voto de cada membro «é representativo do número de eleitores do município de cuja câmara municipal seja presidente» (art. 105.º, n.º 3).
+- *Sistema:* não podem estar presentes na discussão e na votação «os membros do órgão que se encontrem ou se considerem impedidos» (art. 55.º, n.º 6). O CPA impede a intervenção de quem tenha interesse no procedimento «por si, como representantes ou como gestores de negócios de outra pessoa», ou cujo cônjuge ou parente o tenha (art. 69.º, n.º 1, als. a) e b)), e torna anulável o acto em que intervenha um impedido (art. 76.º, n.º 1). O presidente da câmara representa o município em juízo e fora dele (art. 35.º, n.º 1, al. a)). As deliberações dos conselhos vinculam todos os municípios (art. 105.º, n.º 1). O Código Civil torna anulável o negócio celebrado pelo representante consigo mesmo, «seja em nome próprio, seja em representação de terceiro», salvo consentimento do representado ou ausência, por natureza, de conflito de interesses (art. 261.º, n.º 1).
+- *Génese:* na Lei n.º 45/2008, o órgão de direcção era já composto pelos presidentes de câmara (art. 15.º, n.º 2), com a mesma remissão para o regime municipal (art. 9.º). A ponderação dos votos pelos eleitores é de 2013 (anotação 2 ao art. 105.º).
+- *Teleologia:* o conselho é o lugar onde os municípios conciliam os seus interesses. Afastar o presidente sempre que o seu município é tocado tiraria a cada município a voz nas matérias que mais lhe dizem respeito e alteraria a maioria ponderada que a lei desenhou.
+
+**Pareceres e jurisprudência.** O Conselho Consultivo da PGR, no Parecer n.º 28/2024 (https://www.ministeriopublico.pt/sites/default/files/2024-11/pp_28_2024_0.pdf, conclusões 14.ª a 18.ª), concluiu que o presidente de junta não está impedido de discutir e votar, na assembleia municipal, os contratos de delegação e os apoios relativos à sua freguesia: integra a assembleia por inerência, não como representante da freguesia, e a assembleia é um órgão de coordenação de interesses, em que são possíveis «conflitos endógenos, intrínsecos ao seu próprio funcionamento». Manteve o impedimento quando estiver em causa um interesse económico, financeiro ou pessoal alheio ao interesse público (conclusão 14.ª). Apoia a tese por analogia; no conselho intermunicipal, a razão vale com mais força, porque a lei pondera o voto pelos eleitores do município. Não se encontrou fonte sobre o conselho intermunicipal.
+
+**Posição contrária.** A letra do CPA abrange quem tenha interesse «como representante» de outra pessoa, e o presidente da câmara é o representante legal do município; quando o conselho aprova um contrato com esse município, o presidente seria parte interessada. Colhe quando o presidente actua de facto como representante na relação, ao negociar ou outorgar pelo município. Não colhe quanto à deliberação do conselho: aí vota como membro por inerência de um órgão concebido para ponderar os interesses dos municípios, e a ponderação do art. 105.º, n.º 3, seria incompreensível se o voto não pudesse exprimir o interesse municipal.
+
+**Consequências.**
+- Na aprovação de um contrato de delegação com uma câmara (art. 90.º, n.º 1, al. l)) ou na imputação de despesas aos municípios (al. r)), todos os presidentes votam, cada um com o peso eleitoral do seu município.
+- O presidente que tenha interesse pessoal, ou cujo cônjuge ou parente o tenha, por exemplo num procedimento de contratação a que concorra empresa de um familiar, sai da sala (art. 55.º, n.º 6); a deliberação em que intervenha é anulável (CPA, art. 76.º, n.º 1).
+- O presidente do conselho que seja também presidente da câmara contraparte não deve outorgar o contrato pelos dois lados; a comunidade é representada por quem o substitua (inferência a partir do art. 261.º do Código Civil).
+
+**Fontes.** pgr-28-2024, cpa-2015-pgdl, lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 105.º — Deliberações
@@ -8276,6 +9428,31 @@ O funcionamento das entidades intermunicipais regula-se, em tudo o que não este
 - O acto que aprova a estrutura nuclear é publicado no Diário da República, «sob pena de ineficácia jurídica» (Lei n.º 77/2015, art. 8.º, n.º 6), e a aprovação ou alteração do regulamento é comunicada à DGAL em 10 dias (art. 14.º).
 
 **Fontes.** ccdr-c-111-2016, lei-77-2015, dl-305-2009-pgdl, lei-45-2008, lei-46-2008
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. Serviços entre a comunidade e os municípios associados: atribuição própria, contratação «in house» e cooperação — n.º 1**
+
+**Questão.** Os serviços que a comunidade cria ao abrigo do n.º 1 podem trabalhar para os municípios associados (formação, apoio jurídico, sistemas de informação, compras), e a comunidade pode, inversamente, servir-se de meios de um município. Pergunta-se quando estas relações são exercício de atribuições e quando são contratos, e se, sendo contratos, escapam à parte II do CCP por serem contratação «in house» ou cooperação entre entidades públicas.
+
+**Tese.** Distinguem-se três situações. Quando a comunidade presta aos municípios, em geral, os serviços que a lei lhe atribui, como a formação dos trabalhadores municipais ou o apoio à gestão municipal, financiados pelo orçamento da comunidade e pela imputação de despesas, não há contrato: há exercício de atribuições próprias. Quando um município encomenda à comunidade um serviço determinado, mediante pagamento, há contrato público; a parte II do CCP não se aplica se se verificarem os requisitos do controlo análogo conjunto, que a composição dos órgãos da comunidade em regra satisfaz, e o contrato publicita-se no portal. Quando é a comunidade que paga a um município associado por um serviço, o município não é controlado pela comunidade; por inferência, a exclusão segura é a da cooperação entre entidades adjudicantes, não a do controlo análogo.
+
+**Fundamentação.**
+- *Letra:* as entidades intermunicipais «podem criar serviços de apoio técnico e administrativo» (n.º 1). Compete ao secretariado «Executar projetos de formação dos recursos humanos dos municípios» e «Executar projetos de apoio à gestão municipal» (art. 96.º, n.º 1, als. s) e t)). A parte II do CCP não se aplica aos contratos com entidade sobre a qual a entidade adjudicante exerça, «isoladamente ou em conjunto com outras entidades adjudicantes, um controlo análogo ao que exerce sobre os seus próprios serviços», que desenvolva mais de 80 % da sua actividade para quem a controla e sem participação directa de capital privado (art. 5.º-A, n.º 1). Há controlo conjunto quando «Os órgãos de decisão da pessoa coletiva controlada são compostos por representantes de todas as entidades adjudicantes participantes», estas podem exercer em conjunto influência decisiva e a controlada não prossegue interesses contrários aos delas (n.º 4).
+- *Sistema:* a comunidade é uma associação pública de municípios (art. 63.º, n.os 1 e 3); o conselho é constituído por todos os presidentes de câmara (art. 88.º, n.º 1), e a assembleia por membros de todas as assembleias municipais (art. 83.º, n.º 1). As despesas não cobertas por receitas próprias imputam-se aos municípios por deliberação do conselho (art. 90.º, n.º 1, al. r)). O CCP estende a exclusão aos contratos adjudicados pela entidade controlada «à entidade adjudicante que a controla» (art. 5.º-A, n.º 2), exclui a cooperação entre entidades adjudicantes em tarefas públicas conexas, regida só pelo interesse público e sem actividade relevante no mercado (n.º 5), e manda publicitar todos estes contratos no portal dos contratos públicos (n.º 7). A delegação de competências municipais na comunidade tem regime próprio (art. 128.º; anotação 2 ao art. 128.º). Os trabalhadores municipais passam a trabalhar para a comunidade pelos instrumentos de mobilidade, não por contrato de serviços (art. 107.º, n.º 1).
+- *Génese:* a Lei n.º 45/2008 já previa serviços de apoio técnico e administrativo, vocacionados para a informação e os estudos de apoio às decisões dos órgãos (art. 20.º, n.º 1). Em 2013, a lei deu ao secretariado competências para executar projetos dirigidos aos próprios municípios.
+- *Teleologia:* a comunidade é um instrumento dos municípios para fazerem em comum o que fariam com meios próprios; a exclusão do controlo análogo protege essa auto-organização, mas não pode servir para retirar à concorrência prestações que a comunidade venda a terceiros.
+
+**Pareceres e jurisprudência.** O Tribunal de Justiça da União Europeia, no acórdão de 13-11-2008, Coditel Brabant, processo C-324/07 (https://eur-lex.europa.eu/legal-content/PT/TXT/HTML/?uri=CELEX:62007CJ0324, n.os 34, 46 e 50), perante uma associação intermunicipal composta só por municípios, entendeu que a composição dos seus órgãos por delegados dos associados indica que estes exercem sobre ela influência determinante, e que o controlo análogo pode ser exercido de forma conjunta, mesmo por deliberações tomadas por maioria: tem de ser efectivo, mas «não é indispensável que seja individual» (n.º 46). Apoia a tese quanto à segunda situação. No acórdão de 21-12-2016, Remondis, processo C-51/15 (https://eur-lex.europa.eu/legal-content/PT/TXT/HTML/?uri=CELEX:62015CJ0051, n.os 45 e 50), o Tribunal separou a transferência de competências, em que a reafectação de meios «não deve ser analisada como um preço», da situação em que uma autarquia confia a outra, mediante compensação financeira, tarefas materiais cuja execução controla. Apoia a distinção entre a primeira e a segunda situações. Não se encontrou parecer nacional nem decisão do Tribunal de Contas sobre contratos entre uma comunidade intermunicipal e os seus municípios.
+
+**Posição contrária.** Duas. A primeira trata toda a prestação paga entre a comunidade e um município como contrato sujeito à parte II, porque a comunidade é pessoa colectiva distinta e nenhum município a controla sozinho. Não colhe: o CCP e o Tribunal de Justiça admitem o controlo conjunto. Colhe quanto à exigência de prova: os requisitos verificam-se em concreto, incluindo a percentagem de actividade (art. 5.º-A, n.os 1, al. b), e 6). A segunda aplica o n.º 2 do art. 5.º-A aos contratos em que a comunidade paga a um município associado, por este ser uma das entidades que a controlam. Colhe em parte: a letra não distingue o controlo isolado do conjunto, mas o município não controla sozinho a comunidade, e a exclusão é excepcional; por inferência, a via segura é a cooperação do n.º 5.
+
+**Consequências.**
+- A comunidade que organiza, para todos os municípios, formação dos trabalhadores ou apoio técnico, nos termos do plano e do orçamento aprovados, exerce atribuições; o financiamento pela imputação de despesas não é preço (inferência).
+- O município que encomende à comunidade, mediante pagamento, um serviço só para si pode adjudicá-lo sem procedimento da parte II, verificados os requisitos do art. 5.º-A, n.os 1 e 4, do CCP; fundamenta-os e publicita o contrato no portal (n.º 7). A comunidade que realize 20 % ou mais da sua actividade para terceiros perde essa possibilidade.
+- A comunidade que precise de serviços de um município associado pode celebrar com ele um contrato de cooperação, se ambos prosseguirem tarefas públicas conexas e o município não exercer essa actividade no mercado (art. 5.º-A, n.º 5); se precisar de pessoas, recorre à mobilidade (art. 107.º).
+- Fora destes casos, a adjudicação directa entre a comunidade e um município viola o CCP, e o contrato fica exposto a anulação (inferência).
+
+**Fontes.** ccp-pgdl, tjue-2008-11-13-c-324-07, tjue-2016-12-21-c-51-15, lei-45-2008
 *Redigido com assistência de IA; da responsabilidade do autor.*
 
 ## Artigo 107.º — Pessoal
@@ -10424,6 +11601,7 @@ As áreas metropolitanas previstas no anexo ii cujos territórios não se encont
 - **Lei n.º 24-A/2022, de 23 de dezembro, art. 2.º, 4.º, 5.º e 7.º** — Nova redacção do artigo; art. 79.º-A e anexo III; exercício transitório pelas áreas metropolitanas das atribuições das novas comunidades intermunicipais.
 - **Lei n.º 75/2013, anexo I (RJAL), art. 63.º, n.os 2 e 3, 66.º, 79.º-A, 80.º, n.º 3, al. a), e 81.º, n.º 4** — Entidades intermunicipais como associações de autarquias; anexos II e III; referência à unidade territorial; atribuições das comunidades integradas em áreas metropolitanas.
 - **Constituição da República Portuguesa, art. 236.º, n.os 1, 3 e 4** — Categorias de autarquias; outras formas de organização nas grandes áreas urbanas; divisão administrativa por lei.
+- **Regulamento (CE) n.º 1059/2003, art. 3.º, n.os 1 e 4, e 5.º** — Definição de unidade administrativa; alteração da nomenclatura por acto delegado, com periodicidade não inferior a três anos.
 
 ### Anotações
 
@@ -10449,4 +11627,28 @@ As áreas metropolitanas previstas no anexo ii cujos territórios não se encont
 - As freguesias não integram entidades intermunicipais; o seu acesso a programas geridos com participação dessas entidades faz-se através delas e dos municípios (arts. 67.º, n.º 1, al. d), e 81.º, n.º 4, al. b)).
 
 **Fontes.** lei-24-a-2022, lei-75-2013-v1-139, reg-ce-1059-2003-consolidado, tc-296-2013, crp-integral
+*Redigido com assistência de IA; da responsabilidade do autor.*
+
+**2. A qualificação nacional e a NUTS: a lei portuguesa não altera por si a nomenclatura europeia — corpo**
+
+**Questão.** O art. 139.º declara as comunidades intermunicipais do anexo III e certas áreas metropolitanas unidades administrativas «incluindo para os efeitos» do regulamento europeu das NUTS. Pergunta-se se a alteração da lei portuguesa, como a de 2022, muda por si a nomenclatura europeia, desde quando produz efeitos nos dados estatísticos e nos programas que usam as NUTS, e se uma comunidade prevista no anexo III mas ainda não constituída é já unidade administrativa.
+
+**Tese.** O art. 139.º determina, no plano interno, quais são as unidades administrativas; é condição, não causa, da alteração das NUTS. A nomenclatura europeia só muda por acto delegado da Comissão, depois da comunicação do Estado, em regra com periodicidade não inferior a três anos, e os dados regionais só passam a basear-se na nomenclatura alterada a partir de 1 de janeiro do segundo ano seguinte à adopção desse acto. Até lá, a nomenclatura anterior continua a valer para efeitos europeus. Por inferência, a comunidade ainda não constituída é unidade administrativa, porque a área metropolitana exerce transitoriamente as suas atribuições.
+
+**Fundamentação.**
+- *Letra:* constituem unidades administrativas as áreas metropolitanas do anexo II cujo território não esteja integrado numa comunidade intermunicipal e as comunidades intermunicipais do anexo III, «incluindo para os efeitos previstos no Regulamento (CE) n.º 1059/2003».
+- *Sistema:* para o regulamento, uma unidade administrativa é uma zona geográfica com uma administração competente para tomar decisões administrativas ou políticas, «no âmbito do quadro jurídico e institucional do Estado-Membro» (art. 3.º, n.º 1): o direito interno identifica-a. As unidades administrativas usadas na nomenclatura são as do anexo II do regulamento, que a Comissão altera por acto delegado em função das alterações comunicadas pelo Estado (art. 3.º, n.º 4, e art. 5.º, n.º 1). As alterações da nomenclatura são adoptadas no segundo semestre, «com uma periodicidade não inferior a três anos», salvo reorganização substancial da estrutura administrativa, e os dados enviados à Comissão baseiam-se na nomenclatura alterada a partir de 1 de janeiro do segundo ano subsequente à adopção do acto (art. 5.º, n.º 4). Até à constituição das novas comunidades, as suas atribuições são prosseguidas pela área metropolitana (Lei n.º 24-A/2022, art. 7.º).
+- *Génese:* a redacção actual e o anexo III vêm da Lei n.º 24-A/2022 (anotação 1).
+- *Teleologia:* a estabilidade das séries estatísticas e da programação europeia exige um intervalo entre a reorganização interna e a mudança da nomenclatura.
+
+**Pareceres e jurisprudência.** Não se encontrou parecer ou decisão sobre a relação temporal entre o art. 139.º e a nomenclatura europeia. A tese assenta no texto consolidado do regulamento (https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02003R1059-20240101), cuja versão de 01-01-2024 já reflecte a divisão em duas NUTS 3 do território de uma das áreas metropolitanas, decorrente da lei de 2022 (anotação 1).
+
+**Posição contrária.** O art. 139.º, ao dizer «incluindo para os efeitos» do regulamento, faria das novas unidades, desde a entrada em vigor da lei, as unidades NUTS 3 para todos os efeitos, incluindo a repartição de fundos. Não colhe: a nomenclatura é acto da União, e o regulamento reserva à Comissão a sua alteração e fixa o momento a partir do qual os dados a usam; o legislador nacional não pode antecipá-lo. Colhe para os efeitos internos: a organização administrativa e os instrumentos nacionais que remetam para as unidades do art. 139.º passam a usar a nova divisão desde a entrada em vigor da lei (inferência).
+
+**Consequências.**
+- Entre a lei nacional que reorganize as unidades e a aplicação da nomenclatura alterada há um período em que as estatísticas regionais europeias e os critérios que delas dependam ainda seguem as unidades anteriores.
+- Uma freguesia situada numa comunidade do anexo III ainda não constituída tem como interlocutor, para as atribuições dessa comunidade, a área metropolitana (Lei n.º 24-A/2022, art. 7.º).
+- A nova divisão não altera a posição das freguesias, que continuam a ser as unidades administrativas locais que subdividem as NUTS 3 (anotação 1).
+
+**Fontes.** reg-ce-1059-2003-consolidado, lei-24-a-2022
 *Redigido com assistência de IA; da responsabilidade do autor.*
