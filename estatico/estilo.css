@@ -23,7 +23,7 @@
   }
 }
 * { box-sizing: border-box; }
-html { background: var(--papel); -webkit-text-size-adjust: 100%; }
+html { background: var(--papel); -webkit-text-size-adjust: 100%; overflow-x: clip; }
 body { margin: 0; overflow-x: clip; color: var(--tinta); font: 400 1.125rem/1.62 var(--texto); font-optical-sizing: auto;
   background: var(--papel); }
 a { color: var(--folha); text-decoration-thickness: .08em; text-underline-offset: .18em; }
@@ -109,6 +109,19 @@ time { display: inline-block; font: 400 .74rem var(--mono); color: var(--cinza);
 .destaque h2 a { color: var(--musgo); text-decoration: none; }
 .destaque h2 a:hover { color: var(--folha); }
 @media (max-width: 40rem) { .destaque { grid-template-columns: 1fr; } }
+
+/* Causas: manifesto curto, numerado, sem cartões */
+.causas { margin: 0 0 3.5rem; padding-top: 2.5rem; border-top: 1px solid var(--filete); }
+.causas h2 { font: 800 clamp(1.9rem, 4.2vw, 3rem)/1.02 var(--display); letter-spacing: -.03em; color: var(--musgo); margin: 0 0 1.75rem; }
+.causas ol { list-style: none; counter-reset: causa; margin: 0; padding: 0;
+  display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 2.5rem; }
+.causas li { counter-increment: causa; position: relative; padding: 1.4rem 0 1.5rem 3.6rem; border-top: 1px solid var(--filete); }
+.causas li::before { content: counter(causa, decimal-leading-zero); position: absolute; left: 0; top: 1.25rem;
+  font: 800 1.9rem/1 var(--display); color: var(--coral); letter-spacing: -.04em; }
+.causas h3 { font: 800 1.35rem/1.15 var(--display); letter-spacing: -.02em; margin: 0 0 .45rem; color: var(--tinta); }
+.causas p { margin: 0 0 .6rem; }
+@media (max-width: 46rem) { .causas ol { grid-template-columns: 1fr; } }
+
 
 /* páginas */
 .cabeca-pag, .artigo, .texto { max-width: var(--larg); }
