@@ -27,6 +27,9 @@
   }
   document.querySelectorAll(".yt").forEach(function (caixa) {
     var botao = caixa.querySelector(".yt-play");
+    function semCC(e) {
+      try { e.target.unloadModule("captions"); e.target.unloadModule("cc"); } catch (_) { /* sem módulo */ }
+    }
     botao.addEventListener("click", function () {
       var alvo = document.createElement("div");
       var leg = document.createElement("div");
@@ -46,7 +49,9 @@
           host: "https://www.youtube-nocookie.com",
           videoId: caixa.dataset.id,
           playerVars: Object.assign({ start: inicio, end: fim, autoplay: 1, rel: 0, modestbranding: 1, playsinline: 1 },
-            caixa.dataset.cc ? { cc_load_policy: 1, cc_lang_pref: 'pt', hl: 'pt' } : {}),
+            caixa.dataset.cc ? { cc_load_policy: 1, cc_lang_pref: 'pt', hl: 'pt' } : { iv_load_policy: 3 }),
+          // com legendas próprias, desligar as do YouTube para não se sobreporem
+          events: caixa.dataset.vtt ? { onReady: semCC, onApiChange: semCC, onStateChange: semCC } : {},
         });
         setInterval(function () {
           if (!p || !p.getCurrentTime || !cues.length) return;
