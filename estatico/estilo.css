@@ -167,6 +167,16 @@ h3 { font: 700 1.2rem/1.3 var(--display); color: var(--tinta); margin: 1.8rem 0 
   background: var(--coral); color: #fff; border-radius: 999px; font-size: .85rem; }
 .anot p strong:first-child { font-family: var(--display); font-weight: 700; color: var(--musgo); }
 .anot ul { padding-left: 1.2rem; }
+/* norma v2: notas com âmbito, parágrafos numerados, aparato de fontes */
+.ambito { font: 400 .8rem var(--mono); color: var(--cinza); font-weight: 400; }
+.sumario .ambito { font-size: .72rem; margin-left: .3rem; text-transform: none; letter-spacing: 0; }
+.anot p.par { scroll-margin-top: 6rem; }
+.anot .npar { font: 600 .78rem var(--mono); color: var(--musgo); text-decoration: none; margin-right: .35rem; }
+.anot p.par:target { background: var(--papel-2); border-radius: .4rem; box-shadow: 0 0 0 .4rem var(--papel-2); }
+.anot a.cita { color: inherit; text-decoration-color: var(--filete); text-underline-offset: .15em; }
+.anot a.cita:hover { text-decoration-color: currentColor; }
+.antecedentes ul, .aparato ul { padding-left: 1.1rem; }
+.aparato li, .antecedentes li { margin: .3rem 0; font-size: .95rem; }
 .rascunho { position: relative; }
 .anot.rascunho h3::after, .lista li.rascunho .lista-tit::after { content: "rascunho"; font: 600 .65rem var(--mono);
   text-transform: uppercase; letter-spacing: .1em; color: var(--coral-texto); border: 1px solid var(--coral-texto);
@@ -209,6 +219,8 @@ h3 { font: 700 1.2rem/1.3 var(--display); color: var(--tinta); margin: 1.8rem 0 
 .yt-play:focus-visible .yt-ico, .yt-play:hover .yt-ico { transform: scale(1.06); }
 .legenda { position: absolute; left: 6%; right: 6%; bottom: 7%; text-align: center; pointer-events: none;
   font: 600 clamp(.9rem, 2.4vw, 1.25rem)/1.35 var(--display); color: #fff; text-shadow: 0 1px 3px #000, 0 0 8px #000; white-space: pre-line; }
+.legenda.tapa { left: 0; right: 0; bottom: 0; height: var(--tapar, 24%); padding: 0 6%; display: flex; align-items: center;
+  justify-content: center; background: #0C281E; text-shadow: none; font-size: clamp(.7rem, 2.1vw, 1.15rem); line-height: 1.3; }
 video { width: 100%; border-radius: 1rem; background: #000; }
 .video figcaption { font: 400 .78rem var(--mono); color: var(--cinza); margin-top: .5rem; }
 .transcricao { background: var(--papel-2); border-radius: 1rem; padding: .2rem 1.25rem 1rem; }

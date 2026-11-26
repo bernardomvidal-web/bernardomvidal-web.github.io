@@ -35,6 +35,11 @@
       var leg = document.createElement("div");
       leg.className = "legenda";
       leg.setAttribute("aria-live", "polite");
+      // legendas gravadas na imagem original: uma faixa opaca tapa-as e recebe as nossas
+      if (caixa.dataset.tapar) {
+        leg.classList.add("tapa");
+        leg.style.setProperty("--tapar", caixa.dataset.tapar + "%");
+      }
       caixa.innerHTML = "";
       caixa.appendChild(alvo);
       caixa.appendChild(leg);
