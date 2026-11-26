@@ -207,6 +207,21 @@ h3 { font: 700 1.2rem/1.3 var(--display); color: var(--tinta); margin: 1.8rem 0 
 .etiqueta { display: inline-block; margin-top: .4rem; font: 600 .68rem var(--mono); text-transform: uppercase; letter-spacing: .08em;
   background: var(--lima); color: #16201B; padding: .2rem .5rem; border-radius: 999px; }
 
+/* intervenções por categoria e evento */
+.atalhos { display: flex; flex-wrap: wrap; gap: .5rem; margin: 1.25rem 0 .5rem; max-width: var(--larg); }
+.atalhos a { font: 600 .85rem var(--display); color: var(--musgo); text-decoration: none; border: 1px solid var(--filete);
+  border-radius: 999px; padding: .35rem .8rem; }
+.atalhos a:hover { background: var(--lima); color: #16201B; border-color: var(--lima); }
+.atalhos span { font: 600 .7rem var(--mono); opacity: .7; margin-left: .25rem; }
+.categoria { margin-top: 2.5rem; max-width: var(--larg); scroll-margin-top: 1rem; }
+.cat-tit { font: 700 1.6rem/1.2 var(--display); color: var(--musgo); margin: 0 0 .25rem;
+  padding-bottom: .4rem; border-bottom: 2px solid var(--musgo); }
+.evento { margin: 1.5rem 0 0; }
+.ev-tit { font: 700 1.05rem/1.3 var(--display); color: var(--tinta-2); margin: 0; }
+.ev-meta { font: 500 .78rem var(--mono); color: var(--tinta-2); margin: .2rem 0 0; }
+.evento .lista { margin-top: .5rem; padding-left: 1rem; border-left: 3px solid var(--filete); }
+.categoria .lista { margin-top: .75rem; }
+
 /* vídeo */
 .video { margin: 1.5rem 0 2rem; }
 .yt { position: relative; aspect-ratio: 16 / 9; background: var(--musgo); border-radius: 1rem; overflow: hidden; }
